@@ -1,0 +1,15 @@
+docopt_c/docopt_c.py -o src/vad_docopt.h src/vad.docopt
+
+ninja -C bin
+
+bin/vad -i input.wav -o output.vad
+
+scripts/run_vad.sh 
+scripts/vad_evaluation.pl input.lab
+
+scripts/run_vad.sh | tail -5
+
+States: Maybe voice, maybe silence add
+
+Variables: t, last_t, last_defined_t  
+            state, last_state, last_defined_state
