@@ -1,11 +1,6 @@
 #!/bin/bash
 
-if [ $# != 1 ]; then 
-    echo "Usage: $0 umbral1"
-    exit 1
-fi
-
-umbral1=$1
+umbral1=${1:-5.1}
 
 # Be sure that this file has execution permissions:
 # Use the nautilus explorer or chmod +x run_vad.sh
