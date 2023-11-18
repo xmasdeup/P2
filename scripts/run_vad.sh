@@ -24,11 +24,10 @@ for filewav in $DB/*/*wav; do
 
     filevad=${filewav/.wav/.vad}
 
-    $CMD -i $filewav -o $filevad || exit 1
-
+    # $CMD -i $filewav -o $filevad || exit 1
 # Alternatively, uncomment to create output wave files
-#    filewavOut=${filewav/.wav/.vad.wav}
-#    $CMD $filewav $filevad $filewavOut || exit 1
+    filewavOut=${filewav/.wav/.vad.wav}
+    $CMD -i $filewav -o $filevad -w $filewavOut || exit 1
 
 done
 

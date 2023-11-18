@@ -38,129 +38,23 @@ float compute_zcr(const float *x, unsigned int N, float fm) {
     return res;
 }
 
-float compute_powerham(const float* x, const float* w, unsigned int N)
-{
-    //Realitza el calcul de potencia en el cas de tenir una finestra de 
-    //Hamming
-    float den = 0;
-    float num = 0;
-    float res = 0;
-    for (long unsigned int n = 0; n < N; n++)
-    {
-        num += (x[n] * w[n] * x[n] * w[n]);
-        den += (w[n] * w[n]);
-    }
-    res = 10 * log10(num/den);
-    return res;
-}
-
 
 float compute_LCP(float* x, unsigned int N, float* lpc_coeffs)
 {
     float a1 = 0;
-    //float correlation[ORDER+1];
 
-    //autocorrelation(frame, N, correlation);
-
-    //levinson_durbin(correlation, lpc_coeffs);
     covariance_method(x, N, lpc_coeffs);
 
     a1 = lpc_coeffs[1];
     return a1;
 }   
-/*
-void autocorrelation(float* x, unsigned int N, float* correlation)
-{
 
-    for(int ord = 0; ord<ORDER+1; ord++)
-    {
-        correlation[ord] = 0.0;
-
-        for(int i =0; i< N-i; i++)
-        {
-            correlation[ord] += x[i] * x[i+ord];
-        }
-    } 
-}
-
-
-void levinson_durbin(float *correlation, float *lpcCoeffs) {
-    float E[ORDER + 1];
-    float beta[ORDER+1];
-    float kappa[ORDER + 1];
-    float sum = 0;
-
-    for(int m=1; m<=ORDER; m++)
-    {
-        sum =0.0;
-        E[0] = correlation[0] + 0.000000001;
-        for(int i= 1; i<m;i++)
-        {
-            sum += lpcCoeffs[i]*correlation[m-i];
-        }
-        kappa[m] = -(correlation[m]-sum)/E[m-1];
-
-        for(int i = 1; i<=m-1; i++)
-        {
-            beta[i] = kappa[m] * lpcCoeffs[m-i];
-        }
-        for(int i = 1; i<=m-1; i++)
-        {
-            lpcCoeffs[i] = lpcCoeffs[i] + beta[i];
-        }
-        lpcCoeffs[m] = kappa[m];
-
-        E[m] = E[m-1] * (1-kappa[m]*kappa[m]);
-    }
-}
-
-void covarianceMethod(float *inputSignal, int signalLength, float *lpcCoefficients) {
-    // Autocorrelation computation
-    float autocorrelation[ORDER + 1];
-    for (int lag = 0; lag <= ORDER; ++lag) {
-        autocorrelation[lag] = 0.0;
-        for (int n = 0; n < signalLength - lag; ++n) {
-            autocorrelation[lag] += inputSignal[n] * inputSignal[n + lag];
-        }
-    }
-
-    // Levinson-Durbin recursion
-    float alpha[ORDER + 1];
-    float beta[ORDER + 1];
-    alpha[0] = autocorrelation[0];
-    beta[0] = autocorrelation[1] / alpha[0];
-
-    for (int m = 1; m <= ORDER; ++m) {
-        float sum = 0.0;
-        for (int j = 0; j < m; ++j) {
-            sum += alpha[j] * autocorrelation[m - j];
-        }
-        alpha[m] = (autocorrelation[m] - sum)/beta[m-1];
-
-        for (int j = 0; j < m; ++j) {
-            sum += beta[j] * autocorrelation[m - j - 1];
-        }
-        beta[m] = (autocorrelation[m + 1] - sum) / alpha[m];
-    }
-
-
-
-    // Convert reflection coefficients (beta) to LPC coefficients
-    lpcCoefficients[0] = 1.0;
-    for (int k = 1; k <= ORDER; ++k) {
-        lpcCoefficients[k] = beta[k - 1];
-        for (int j = 1; j < k; ++j) {
-            lpcCoefficients[j] = beta[k - 1] * lpcCoefficients[k - j - 1] + lpcCoefficients[j];
-        }
-    }
-}
-*/
 void covariance_method(float *input, unsigned int N, float *lpc_coeffs)
 {
     float autocorr[ORDER+1];
     float lpc_temp[ORDER+1];
 
-    for(int lag = 0; lag<ORDER; lag++)
+    for(int lag = 0; lag<ORDER+1; lag++)
     {
         autocorr[lag] = 0.0;
         for(int n =0; n< N-lag; n++)
@@ -175,10 +69,10 @@ void covariance_method(float *input, unsigned int N, float *lpc_coeffs)
     lpc_temp[0] =1.0;
     float sum = 0;
 
-    for(int i =1; i< ORDER; i++)
+    for(int i =1; i< ORDER+1; i++)
     {
         sum = autocorr[i];
-        for(int j = 0; j<i ; j++)
+        for(int j = 1; j<i ; j++)
         {
             sum += lpc_coeffs[j] * autocorr[i-j];
         }
@@ -228,10 +122,10 @@ float compute_normalized_prediction_error(float* x, unsigned int N, float* lpcCo
     float prediction_error = 0.0;
     float sum_of_covariance = 0.0;
     float covariance[ORDER+1];
-
+    float sum =0;
     for(int k=1; k<= ORDER; k++){
         covariance[k] = 0.0;
-        for(int n=k; n<(N-k); n++)
+        for(int n=k; n<N; n++)
         {
             covariance[k] += x[n]*x[n-k];
 
@@ -247,11 +141,12 @@ float compute_normalized_prediction_error(float* x, unsigned int N, float* lpcCo
     for(int j = 1; j<=ORDER;j++)
     {
         sum_of_covariance += lpcCoeffs[j] *covariance[j];
-
+        
     }
-    sum_of_covariance = abs(sum_of_covariance + covariance[0]);
-    prediction_error = energy - 10* log10(0.000001 + sum_of_covariance);
+    sum = sum_of_covariance + covariance[0];
+    sum = fabs(sum);
 
+    prediction_error = energy - 10* log10(0.00000000001+sum);
     return prediction_error;
 }
 
@@ -264,7 +159,7 @@ float compute_log_energy(float* x, unsigned int N,float umbral1)
         log_energy += x[n]*x[n];
     }
 
-    log_energy = 10*log10(log_energy/N + 0.0000000001); //+ umbral1;
+    log_energy = 10*log10(log_energy/N + 0.0000000000001); 
 
     return log_energy;
 }
@@ -318,24 +213,14 @@ float compute_gaussian(const gsl_matrix *covariance, const gsl_vector *median, c
     gsl_vector_sub(difference1,median);
     gsl_vector_sub(difference2,median);
 
-    //printf("%.3f\n",difference2->data[2]);
-
-    //printf("%.3f\n",measurements->data[1]);
-
     double gaussian_exponent = 0;
     
     gsl_blas_dtrmv(CblasUpper,CblasNoTrans,CblasNonUnit,covariance,difference1);
-    //printf("%.3f\n",covariance->data[1]);
-    //printf("%.3f\n",difference2->data[2]);
+
     gsl_blas_ddot(difference2, difference1, &gaussian_exponent);
 
-    //float normalization = powf(2 * M_PI, -size / 2.0f)* powf(determinant,-0.5f);
-    //float gaussian_prob = normalization *  exp(gaussian_exponent);
-
-    //float decision = (float )gaussian_exponent * gaussian_prob;
     float decision = gaussian_exponent;
 
-    //printf("%.3f\n",gaussian_exponent);
     gsl_vector_free(result);
     gsl_vector_free(difference1);
     gsl_vector_free(difference2);
