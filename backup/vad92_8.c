@@ -208,15 +208,15 @@ VAD_STATE vad(VAD_DATA *vad_data, float *x, float *hamm, unsigned int hamm_size,
     break;
 
   case ST_VOICE:
-    if((vad_data->error > 33))
-    {
-      if((f.log_energy<vad_data->last_feature)||(f.log_energy< (vad_data->sensitivity+1 +vad_data->umbral1))||((f.norm_correlation > 0.75)&&(f.zcr > 35)))
-      {
-          vad_data->count = 0;
-          vad_data->state = ST_MYBSILENCE;
-      }
-    }
-    else if((f.zcr > 40) && (f.norm_correlation >0.75) && (f.am< 2*vad_data->a0))
+    // if((vad_data->error > 33))
+    // {
+    //   if((f.log_energy<vad_data->last_feature)||(f.log_energy< (vad_data->sensitivity+1 +vad_data->umbral1))||((f.norm_correlation > 0.75)&&(f.zcr > 35)))
+    //   {
+    //       vad_data->count = 0;
+    //       vad_data->state = ST_MYBSILENCE;
+    //   }
+    // }
+    if((f.zcr > 40) && (f.norm_correlation >0.70) && (f.am< 3*vad_data->a0))
     {
       vad_data->count = 0;
       vad_data->state = ST_MYBSILENCE;
@@ -232,33 +232,33 @@ VAD_STATE vad(VAD_DATA *vad_data, float *x, float *hamm, unsigned int hamm_size,
     break;
   
   case ST_MYBVOICE:
-    if(vad_data->error >33)
-      {
-      if((f.log_energy > (vad_data->umbral1 + vad_data->sensitivity)))
-      {
-        vad_data->state = ST_VOICE;
-      }
-      else vad_data->state = ST_SILENCE;
+    // if(vad_data->error >33)
+    //   {
+    //   if((f.log_energy > (vad_data->umbral1 + vad_data->sensitivity)))
+    //   {
+    //     vad_data->state = ST_VOICE;
+    //   }
+    //   else vad_data->state = ST_SILENCE;
 
-      }
-      else if((f.zcr >40)&&(f.am < vad_data->a0*2)) vad_data->state = ST_SILENCE;
+    //   }
+      if((f.zcr >40)&&(f.am < 3*vad_data->a0)) vad_data->state = ST_SILENCE;
       else if((f.silence<f.voiced) && (f.silence<f.unvoiced)) vad_data->state=ST_SILENCE;
       else if((vad_data->count <5)) vad_data->count++;
       else vad_data->state = ST_VOICE; 
     break;
 
   case ST_MYBSILENCE:
-    if((vad_data->error > 33))
-    {
-      if((f.log_energy< (vad_data->sensitivity + vad_data->umbral1)))
-      {
+    // if((vad_data->error > ))
+    // {
+    //   if((f.log_energy< (vad_data->sensitivity + vad_data->umbral1)))
+    //   {
 
-        if((vad_data->count <15)) vad_data->count++;
-        else vad_data->state = ST_SILENCE;  
-      }
-    } 
+    //     if((vad_data->count <15)) vad_data->count++;
+    //     else vad_data->state = ST_SILENCE;  
+    //   }
+    // } 
    
-    else if((f.zcr > 40) && (f.norm_correlation >0.75)&&(f.am< 3*vad_data->a0))
+    if((f.zcr > 40) && (f.norm_correlation >0.70)&&(f.am< 3*vad_data->a0))
     {
       if((vad_data->count <15)) vad_data->count++;
       else vad_data->state = ST_SILENCE;  

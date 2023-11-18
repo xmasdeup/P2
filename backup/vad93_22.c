@@ -208,15 +208,15 @@ VAD_STATE vad(VAD_DATA *vad_data, float *x, float *hamm, unsigned int hamm_size,
     break;
 
   case ST_VOICE:
-    if((vad_data->error > 33))
-    {
-      if((f.log_energy<vad_data->last_feature)||(f.log_energy< (vad_data->sensitivity+1 +vad_data->umbral1))||((f.norm_correlation > 0.75)&&(f.zcr > 35)))
-      {
-          vad_data->count = 0;
-          vad_data->state = ST_MYBSILENCE;
-      }
-    }
-    else if((f.zcr > 40) && (f.norm_correlation >0.75) && (f.am< 2*vad_data->a0))
+    // if((vad_data->error > 33))
+    // {
+    //   if((f.log_energy<vad_data->last_feature)||(f.log_energy< (vad_data->sensitivity+1 +vad_data->umbral1))||((f.norm_correlation > 0.75)&&(f.zcr > 35)))
+    //   {
+    //       vad_data->count = 0;
+    //       vad_data->state = ST_MYBSILENCE;
+    //   }
+    // }
+    if((f.zcr > 40) && (f.norm_correlation >0.70) && (f.am< 3*vad_data->a0))
     {
       vad_data->count = 0;
       vad_data->state = ST_MYBSILENCE;
@@ -232,33 +232,33 @@ VAD_STATE vad(VAD_DATA *vad_data, float *x, float *hamm, unsigned int hamm_size,
     break;
   
   case ST_MYBVOICE:
-    if(vad_data->error >33)
-      {
-      if((f.log_energy > (vad_data->umbral1 + vad_data->sensitivity)))
-      {
-        vad_data->state = ST_VOICE;
-      }
-      else vad_data->state = ST_SILENCE;
+    // if(vad_data->error >33)
+    //   {
+    //   if((f.log_energy > (vad_data->umbral1 + vad_data->sensitivity)))
+    //   {
+    //     vad_data->state = ST_VOICE;
+    //   }
+    //   else vad_data->state = ST_SILENCE;
 
-      }
-      else if((f.zcr >40)&&(f.am < vad_data->a0*2)) vad_data->state = ST_SILENCE;
+    //   }
+      if((f.zcr >40)&&(f.am < 3*vad_data->a0)) vad_data->state = ST_SILENCE;
       else if((f.silence<f.voiced) && (f.silence<f.unvoiced)) vad_data->state=ST_SILENCE;
       else if((vad_data->count <5)) vad_data->count++;
       else vad_data->state = ST_VOICE; 
     break;
 
   case ST_MYBSILENCE:
-    if((vad_data->error > 33))
-    {
-      if((f.log_energy< (vad_data->sensitivity + vad_data->umbral1)))
-      {
+    // if((vad_data->error > ))
+    // {
+    //   if((f.log_energy< (vad_data->sensitivity + vad_data->umbral1)))
+    //   {
 
-        if((vad_data->count <15)) vad_data->count++;
-        else vad_data->state = ST_SILENCE;  
-      }
-    } 
+    //     if((vad_data->count <15)) vad_data->count++;
+    //     else vad_data->state = ST_SILENCE;  
+    //   }
+    // } 
    
-    else if((f.zcr > 40) && (f.norm_correlation >0.75)&&(f.am< 3*vad_data->a0))
+    if((f.zcr > 40) && (f.norm_correlation >0.70)&&(f.am< 3*vad_data->a0))
     {
       if((vad_data->count <15)) vad_data->count++;
       else vad_data->state = ST_SILENCE;  
@@ -291,24 +291,24 @@ void assign_matrix_values(const VAD_DATA *vad_data, float ***inv_cov, float **me
   cov_det[1] = 0.0183;
   cov_det[2] = 349.4;
   
-  float norm_compensation = 0;
-  float norm_error = vad_data->error;
-  if(norm_error > 10) norm_compensation = norm_error/2;
+  //float norm_compensation = 0;
+  //float norm_error = vad_data->error;
+  //if(norm_error > 10) norm_compensation = norm_error/2;
 
   float energy_distance = 32.84 -vad_data->umbral1;
 
   //Voiced means
   mean[0][0] = 20;
-  mean[0][1] = 62.054 - energy_distance  -norm_error/2;
+  mean[0][1] = 62.054 - energy_distance;
   mean[0][2] = 0.9733;
   mean[0][3] = -2.1792 ;
-  mean[0][4] = 24.7546 + norm_compensation;
+  mean[0][4] = 24.37;
   //Unvoiced means
   mean[1][0] = 110;
   mean[1][1] = 45.67 -energy_distance ;
   mean[1][2] = 0.3397;
   mean[1][3] = -0.8136;
-  mean[1][4] = 11.8042;
+  mean[1][4] = 11.80;
   //printf("%.3f\n",energy_distance);
   //printf("%.3f\n",mean[1][1]);
   //Silence means
@@ -316,59 +316,59 @@ void assign_matrix_values(const VAD_DATA *vad_data, float ***inv_cov, float **me
   mean[2][1] = 32.99 - energy_distance;
   mean[2][2] = 0.8784;
   mean[2][3] =  -1.34;
-  mean[2][4] =  norm_error; //10.34;
+  mean[2][4] =  10.98; //10.34;
 
   // if(norm_error<20)
   // {
   //Voiced inverse covariance
-    inv_cov[0][0][0] = 0.05;
-    inv_cov[0][0][1] = -0.00257;
-    inv_cov[0][0][2] = 7.47;
-    inv_cov[0][0][3] = 0.155;
-    inv_cov[0][0][4] = 0.0239; 
+    inv_cov[0][0][0] = 0.0485;
+    inv_cov[0][0][1] = -0.00244;
+    inv_cov[0][0][2] = 7.0;
+    inv_cov[0][0][3] = 0.142;
+    inv_cov[0][0][4] = 0.0229; 
 
     inv_cov[0][1][0] = 0;
-    inv_cov[0][1][1] = 0.095;//1;
-    inv_cov[0][1][2] = 0.0102;
-    inv_cov[0][1][3] = 0.00313;
-    inv_cov[0][1][4] = -0.00325;
+    inv_cov[0][1][1] = 0.0097;//1;
+    inv_cov[0][1][2] = -0.23;
+    inv_cov[0][1][3] = 0.0322;
+    inv_cov[0][1][4] = -0.00214;
 
     inv_cov[0][2][0] = 0;
     inv_cov[0][2][1] = 0;
-    inv_cov[0][2][2] = 1808;
-    inv_cov[0][2][3] = 13.4;
-    inv_cov[0][2][4] = 0.806;
+    inv_cov[0][2][2] = 1726;
+    inv_cov[0][2][3] = 12.76;
+    inv_cov[0][2][4] = 0.708;
 
     inv_cov[0][3][0] = 0;
     inv_cov[0][3][1] = 0;
     inv_cov[0][3][2] = 0;
-    inv_cov[0][3][3] = 5.42;
-    inv_cov[0][3][4] = 0.340;
+    inv_cov[0][3][3] = 5.49;
+    inv_cov[0][3][4] = 0.346;
     
     inv_cov[0][4][0] = 0;
     inv_cov[0][4][1] = 0;
     inv_cov[0][4][2] = 0;
     inv_cov[0][4][3] = 0;
-    inv_cov[0][4][4] = 0.00563;
+    inv_cov[0][4][4] = 0.0557;
 
   //Unvoiced inverse covariance
     inv_cov[1][0][0] = 0.00613;
     inv_cov[1][0][1] = -0.00103;
-    inv_cov[1][0][2] = 0.695;
-    inv_cov[1][0][3] = 0.0294;
-    inv_cov[1][0][4] = 0.00586;
+    inv_cov[1][0][2] = 0.696;
+    inv_cov[1][0][3] = 0.0295;
+    inv_cov[1][0][4] = 0.00587;
 
     inv_cov[1][1][0] = 0;
     inv_cov[1][1][1] = 0.00867;
     inv_cov[1][1][2] = -0.0349;
-    inv_cov[1][1][3] = 0.00561;
-    inv_cov[1][1][4] = -0.0057;
+    inv_cov[1][1][3] = 0.00615;
+    inv_cov[1][1][4] = 0.103;
 
     inv_cov[1][2][0] = 0;
     inv_cov[1][2][1] = 0;
-    inv_cov[1][2][2] = 88.5;
+    inv_cov[1][2][2] = 88.6;
     inv_cov[1][2][3] = 5.96;
-    inv_cov[1][2][4] = 0.6488;
+    inv_cov[1][2][4] = 0.649;
 
     inv_cov[1][3][0] = 0;
     inv_cov[1][3][1] = 0;
@@ -383,35 +383,35 @@ void assign_matrix_values(const VAD_DATA *vad_data, float ***inv_cov, float **me
     inv_cov[1][4][4] = 0.068;
 
     //Silence inverse covariance
-    inv_cov[2][0][0] = 0.0147;
-    inv_cov[2][0][1] = -0.00394;
-    inv_cov[2][0][2] = 1.79;
-    inv_cov[2][0][3] = 0.147;
-    inv_cov[2][0][4] = 0.0248;
+    inv_cov[2][0][0] = 0.0148;
+    inv_cov[2][0][1] = -0.00373;
+    inv_cov[2][0][2] = 1.81;
+    inv_cov[2][0][3] = 0.1459;
+    inv_cov[2][0][4] = 0.0244;
 
     inv_cov[2][1][0] = 0;
-    inv_cov[2][1][1] = 0.009588;
-    inv_cov[2][1][2] = -0.4437;
-    inv_cov[2][1][3] = -0.0548;
-    inv_cov[2][1][4] = -0.0175;
+    inv_cov[2][1][1] = 0.00861;
+    inv_cov[2][1][2] = -0.429;
+    inv_cov[2][1][3] = -0.0455;
+    inv_cov[2][1][4] = -1.53;
 
     inv_cov[2][2][0] = 0;
     inv_cov[2][2][1] = 0;
-    inv_cov[2][2][2] = 327;
-    inv_cov[2][2][3] = 11.6;
-    inv_cov[2][2][4] = 1.14;
+    inv_cov[2][2][2] = 331.9;
+    inv_cov[2][2][3] = 11.77;
+    inv_cov[2][2][4] = 1.13;
 
     inv_cov[2][3][0] = 0;
     inv_cov[2][3][1] = 0;
     inv_cov[2][3][2] = 0;
-    inv_cov[2][3][3] = 10.6;
+    inv_cov[2][3][3] = 10.8;
     inv_cov[2][3][4] = 1.27;
 
     inv_cov[2][4][0] = 0;
     inv_cov[2][4][1] = 0;
     inv_cov[2][4][2] = 0;
     inv_cov[2][4][3] = 0;
-    inv_cov[2][4][4] = 0.201;
+    inv_cov[2][4][4] = 0.199;
   // }
   // //printf("%.3f\n",energy_distance);
   // else if(norm_error>=20)
