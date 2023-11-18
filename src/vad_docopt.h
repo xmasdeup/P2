@@ -19,7 +19,7 @@ typedef struct {
     char *input_wav;
     char *output_vad;
     char *output_wav;
-    char *umbral1;
+    char *sensitivity;
     /* special */
     const char *usage_pattern;
     const char *help_message;
@@ -37,7 +37,7 @@ const char help_message[] =
 "   -i FILE, --input-wav=FILE   WAVE file for voice activity detection\n"
 "   -o FILE, --output-vad=FILE  Label file with the result of VAD\n"
 "   -w FILE, --output-wav=FILE  WAVE file with silences cleared\n"
-"   -1 FLOAT, --umbral1=FLOAT  Decision boundary [default: -30]\n"
+"   -1 FLOAT, --sensitivity=FLOAT Length of the silence [default: 5]\n"
 "   -v, --verbose  Show debug information\n"
 "   -h, --help     Show this screen\n"
 "   --version      Show the version of the project\n"
@@ -281,9 +281,9 @@ int elems_to_args(Elements *elements, DocoptArgs *args, bool help,
         } else if (!strcmp(option->olong, "--output-wav")) {
             if (option->argument)
                 args->output_wav = option->argument;
-        } else if (!strcmp(option->olong, "--umbral1")) {
+        } else if (!strcmp(option->olong, "--sensitivity")) {
             if (option->argument)
-                args->umbral1 = option->argument;
+                args->sensitivity = option->argument;
         }
     }
     /* commands */
@@ -304,7 +304,7 @@ int elems_to_args(Elements *elements, DocoptArgs *args, bool help,
 
 DocoptArgs docopt(int argc, char *argv[], bool help, const char *version) {
     DocoptArgs args = {
-        0, 0, 0, NULL, NULL, NULL, (char*) "-30",
+        0, 0, 0, NULL, NULL, NULL, NULL,
         usage_pattern, help_message
     };
     Tokens ts;
@@ -319,7 +319,7 @@ DocoptArgs docopt(int argc, char *argv[], bool help, const char *version) {
         {"-i", "--input-wav", 1, 0, NULL},
         {"-o", "--output-vad", 1, 0, NULL},
         {"-w", "--output-wav", 1, 0, NULL},
-        {"-1", "--umbral1", 1, 0, NULL}
+        {"-1", "--sensitivity", 1, 0, NULL}
     };
     Elements elements = {0, 0, 7, commands, arguments, options};
 

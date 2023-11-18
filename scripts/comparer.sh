@@ -1,4 +1,4 @@
-for umbral1 in $(seq 4 0.1 6); do 
-    echo -ne "$umbral1\t" 
-    scripts/run_vad.sh $umbral1 | fgrep TOTAL 
+for sensitivity in $(seq 4 0.2 8); do 
+    echo -ne "$sensitivity\t" 
+    scripts/run_vad.sh $sensitivity | fgrep TOTAL 
 done | sort -t: -k2n

@@ -34,8 +34,8 @@ float compute_zcr(const float *x, unsigned int N, float fm) {
             res++;
         }
     }
-    float zcr = (fm / 2)/(N - 1) * res;
-    return zcr;
+    //float zcr = (fm / 2)/(N - 1) * res;
+    return res;
 }
 
 float compute_powerham(const float* x, const float* w, unsigned int N)
@@ -58,22 +58,17 @@ float compute_powerham(const float* x, const float* w, unsigned int N)
 float compute_LCP(float* x, unsigned int N, float* lpc_coeffs)
 {
     float a1 = 0;
-    float frame[N];
-    float correlation[ORDER+1];
+    //float correlation[ORDER+1];
 
-    for (int n = 0; n < N; n++) {
-        frame[n] = x[n]*(0.53836 - 0.46164 * cos(2 * M_PI * n / (N - 1)));
-    }
     //autocorrelation(frame, N, correlation);
 
     //levinson_durbin(correlation, lpc_coeffs);
-    covarianceMethod(frame, N, lpc_coeffs);
-    printf("%.3f\n",lpc_coeffs[1]);
+    covariance_method(x, N, lpc_coeffs);
 
     a1 = lpc_coeffs[1];
     return a1;
 }   
-
+/*
 void autocorrelation(float* x, unsigned int N, float* correlation)
 {
 
@@ -135,19 +130,20 @@ void covarianceMethod(float *inputSignal, int signalLength, float *lpcCoefficien
     alpha[0] = autocorrelation[0];
     beta[0] = autocorrelation[1] / alpha[0];
 
-    for (int m = 1; m < ORDER; ++m) {
+    for (int m = 1; m <= ORDER; ++m) {
         float sum = 0.0;
         for (int j = 0; j < m; ++j) {
             sum += alpha[j] * autocorrelation[m - j];
         }
-        alpha[m] = autocorrelation[m] - sum;
+        alpha[m] = (autocorrelation[m] - sum)/beta[m-1];
 
-        sum = 0.0;
         for (int j = 0; j < m; ++j) {
             sum += beta[j] * autocorrelation[m - j - 1];
         }
         beta[m] = (autocorrelation[m + 1] - sum) / alpha[m];
     }
+
+
 
     // Convert reflection coefficients (beta) to LPC coefficients
     lpcCoefficients[0] = 1.0;
@@ -157,6 +153,54 @@ void covarianceMethod(float *inputSignal, int signalLength, float *lpcCoefficien
             lpcCoefficients[j] = beta[k - 1] * lpcCoefficients[k - j - 1] + lpcCoefficients[j];
         }
     }
+}
+*/
+void covariance_method(float *input, unsigned int N, float *lpc_coeffs)
+{
+    float autocorr[ORDER+1];
+    float lpc_temp[ORDER+1];
+
+    for(int lag = 0; lag<ORDER; lag++)
+    {
+        autocorr[lag] = 0.0;
+        for(int n =0; n< N-lag; n++)
+        {
+            autocorr[lag] += input[n]*input[n+lag];
+        }
+    }
+
+    float E = autocorr[0];
+    float k = 0;
+    lpc_coeffs[0] = 1.0;
+    lpc_temp[0] =1.0;
+    float sum = 0;
+
+    for(int i =1; i< ORDER; i++)
+    {
+        sum = autocorr[i];
+        for(int j = 0; j<i ; j++)
+        {
+            sum += lpc_coeffs[j] * autocorr[i-j];
+        }
+
+        lpc_coeffs[i] = k = -sum/E;
+
+        E = E * (1-k*k);
+
+        for(int z = 1; z<i;z++)
+        {
+            lpc_temp[z] = lpc_coeffs[z] + k* lpc_coeffs[i-z];
+        }
+
+        for(int q = 1; q<i; q++)
+        {
+            lpc_coeffs[q] = lpc_temp[q];
+        }
+
+    }
+
+
+
 }
 
 float compute_normalized_autocorrelation(float* x, unsigned int N)
@@ -211,7 +255,7 @@ float compute_normalized_prediction_error(float* x, unsigned int N, float* lpcCo
     return prediction_error;
 }
 
-float compute_log_energy(float* x, unsigned int N)
+float compute_log_energy(float* x, unsigned int N,float umbral1)
 {   
     float log_energy = 0.0;
 
@@ -220,7 +264,7 @@ float compute_log_energy(float* x, unsigned int N)
         log_energy += x[n]*x[n];
     }
 
-    log_energy = 10*log10(log_energy/N + 0.0000000001);
+    log_energy = 10*log10(log_energy/N + 0.0000000001); //+ umbral1;
 
     return log_energy;
 }
@@ -234,7 +278,7 @@ void compute_windowed_frame(const float* x, unsigned int N, float* frame)
 
 }
 
-float compute_decision(float **covariance, float *median, float *measurements)
+float compute_decision(float **covariance, float *median, float *measurements, float det)
 {
     int size = 5;
 
@@ -253,38 +297,48 @@ float compute_decision(float **covariance, float *median, float *measurements)
         }
     }
 
-    float value = compute_gaussian(cov,mean,meas);
+    float value = compute_gaussian(cov,mean,meas,det);
+
+    gsl_vector_free(mean);
+    gsl_matrix_free(cov);
+    gsl_vector_free(meas);
 
     return value;
 }
 
-float compute_gaussian(const gsl_matrix *covariance, const gsl_vector *median, const gsl_vector *measurements)
+float compute_gaussian(const gsl_matrix *covariance, const gsl_vector *median, const gsl_vector *measurements,float det)
 {
     int size = median->size;
     gsl_vector* result = gsl_vector_alloc(size);
-    gsl_vector* difference = gsl_vector_alloc(size);
-    gsl_vector_memcpy(difference, measurements);
-    gsl_vector_sub(difference,median);
+    gsl_vector* difference1 = gsl_vector_alloc(size);
+    gsl_vector* difference2 = gsl_vector_alloc(size);
 
+    gsl_vector_memcpy(difference1, measurements);
+    gsl_vector_memcpy(difference2, measurements);
+    gsl_vector_sub(difference1,median);
+    gsl_vector_sub(difference2,median);
 
-    gsl_matrix* inverse_covariance = gsl_matrix_alloc(size,size);
-    gsl_matrix_memcpy(inverse_covariance, covariance);
+    //printf("%.3f\n",difference2->data[2]);
 
-    gsl_permutation* p = gsl_permutation_alloc(size);
-    int signum;
-    gsl_linalg_LU_decomp(inverse_covariance,p, &signum);
-    gsl_linalg_LU_invert(inverse_covariance,p, inverse_covariance);
+    //printf("%.3f\n",measurements->data[1]);
 
-    double gaussian_exponent;
-    float determinant = gsl_linalg_LU_det(inverse_covariance, signum);
+    double gaussian_exponent = 0;
+    
+    gsl_blas_dtrmv(CblasUpper,CblasNoTrans,CblasNonUnit,covariance,difference1);
+    //printf("%.3f\n",covariance->data[1]);
+    //printf("%.3f\n",difference2->data[2]);
+    gsl_blas_ddot(difference2, difference1, &gaussian_exponent);
 
-    gsl_blas_dgemv(CblasNoTrans,-0.5F,inverse_covariance,difference,0.0F,result);
-    gsl_blas_ddot(difference, result, &gaussian_exponent);
+    //float normalization = powf(2 * M_PI, -size / 2.0f)* powf(determinant,-0.5f);
+    //float gaussian_prob = normalization *  exp(gaussian_exponent);
 
-    float normalization = powf(2 * M_PI, -size / 2.0f)* powf(determinant,-0.5f);
-    float gaussian_prob = normalization *  exp(gaussian_exponent);
+    //float decision = (float )gaussian_exponent * gaussian_prob;
+    float decision = gaussian_exponent;
 
-    float decision = (float )gaussian_exponent * gaussian_prob;
+    //printf("%.3f\n",gaussian_exponent);
+    gsl_vector_free(result);
+    gsl_vector_free(difference1);
+    gsl_vector_free(difference2);
 
     return decision;
 }

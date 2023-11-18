@@ -13,3 +13,6 @@ States: Maybe voice, maybe silence add
 
 Variables: t, last_t, last_defined_t  
             state, last_state, last_defined_state
+
+Research for VAD
+"https://ieeexplore-ieee-org.recursos.biblioteca.upc.edu/stamp/stamp.jsp?tp=&arnumber=1162800"

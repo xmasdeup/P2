@@ -1,0 +1,1603 @@
+Voiced: 719.000	Unvoiced: 53.000	Silence: 72.000	 Count: 0	
+ Energy: -50.662	ZCR: 73.000	 Correl: 0.882	 First:-1.433	 Error:9.338	Unvoiced
+Voiced: 168.000	Unvoiced: 23.000	Silence: 14.000	 Count: 0	
+ Energy: -49.678	ZCR: 74.000	 Correl: 0.909	 First:-1.597	 Error:10.322	silence
+Voiced: 121.000	Unvoiced: 24.000	Silence: 6.000	 Count: 0	
+ Energy: -49.230	ZCR: 63.000	 Correl: 0.909	 First:-1.578	 Error:10.770	silence
+Voiced: 138.000	Unvoiced: 23.000	Silence: 8.000	 Count: 0	
+ Energy: -49.758	ZCR: 67.000	 Correl: 0.904	 First:-1.554	 Error:10.242	silence
+Voiced: 188.000	Unvoiced: 18.000	Silence: 15.000	 Count: 0	
+ Energy: -51.553	ZCR: 76.000	 Correl: 0.841	 First:-0.944	 Error:8.447	silence
+Voiced: 261.000	Unvoiced: 19.000	Silence: 27.000	 Count: 0	
+ Energy: -52.703	ZCR: 90.000	 Correl: 0.834	 First:-1.120	 Error:7.297	Unvoiced
+Voiced: 378.000	Unvoiced: 55.000	Silence: 222.000	 Count: 0	
+ Energy: -52.198	ZCR: 86.000	 Correl: 0.826	 First:2.852	 Error:7.802	Unvoiced
+Voiced: 285.000	Unvoiced: 19.000	Silence: 36.000	 Count: 0	
+ Energy: -53.611	ZCR: 92.000	 Correl: 0.826	 First:-0.553	 Error:6.389	Unvoiced
+Voiced: 268.000	Unvoiced: 20.000	Silence: 31.000	 Count: 0	
+ Energy: -53.101	ZCR: 90.000	 Correl: 0.851	 First:-0.809	 Error:6.899	Unvoiced
+Voiced: 242.000	Unvoiced: 19.000	Silence: 22.000	 Count: 0	
+ Energy: -53.642	ZCR: 86.000	 Correl: 0.831	 First:-1.108	 Error:6.358	Unvoiced
+Voiced: 171.000	Unvoiced: 23.000	Silence: 10.000	 Count: 0	
+ Energy: -53.453	ZCR: 72.000	 Correl: 0.875	 First:-1.450	 Error:6.547	silence
+Voiced: 134.000	Unvoiced: 25.000	Silence: 5.000	 Count: 0	
+ Energy: -53.012	ZCR: 63.000	 Correl: 0.887	 First:-1.534	 Error:6.988	silence
+Voiced: 166.000	Unvoiced: 22.000	Silence: 9.000	 Count: 0	
+ Energy: -53.240	ZCR: 71.000	 Correl: 0.868	 First:-1.403	 Error:6.760	silence
+Voiced: 153.000	Unvoiced: 24.000	Silence: 7.000	 Count: 0	
+ Energy: -53.035	ZCR: 68.000	 Correl: 0.880	 First:-1.488	 Error:6.965	silence
+Voiced: 119.000	Unvoiced: 28.000	Silence: 7.000	 Count: 0	
+ Energy: -50.867	ZCR: 60.000	 Correl: 0.941	 First:-1.775	 Error:9.133	silence
+Voiced: 72.000	Unvoiced: 33.000	Silence: 4.000	 Count: 0	
+ Energy: -48.243	ZCR: 46.000	 Correl: 0.964	 First:-1.862	 Error:11.757	silence
+Voiced: 73.000	Unvoiced: 32.000	Silence: 2.000	 Count: 0	
+ Energy: -49.787	ZCR: 45.000	 Correl: 0.937	 First:-1.718	 Error:10.213	silence
+Voiced: 83.000	Unvoiced: 30.000	Silence: 3.000	 Count: 0	
+ Energy: -49.156	ZCR: 50.000	 Correl: 0.948	 First:-1.779	 Error:10.844	silence
+Voiced: 90.000	Unvoiced: 30.000	Silence: 3.000	 Count: 0	
+ Energy: -49.800	ZCR: 52.000	 Correl: 0.939	 First:-1.742	 Error:10.200	silence
+Voiced: 91.000	Unvoiced: 30.000	Silence: 3.000	 Count: 0	
+ Energy: -50.126	ZCR: 52.000	 Correl: 0.940	 First:-1.779	 Error:9.874	silence
+Voiced: 108.000	Unvoiced: 28.000	Silence: 4.000	 Count: 0	
+ Energy: -51.067	ZCR: 57.000	 Correl: 0.929	 First:-1.737	 Error:8.933	silence
+Voiced: 104.000	Unvoiced: 28.000	Silence: 2.000	 Count: 0	
+ Energy: -52.402	ZCR: 54.000	 Correl: 0.902	 First:-1.601	 Error:7.598	silence
+Voiced: 99.000	Unvoiced: 29.000	Silence: 4.000	 Count: 0	
+ Energy: -49.991	ZCR: 55.000	 Correl: 0.937	 First:-1.770	 Error:10.009	silence
+Voiced: 134.000	Unvoiced: 25.000	Silence: 7.000	 Count: 0	
+ Energy: -50.808	ZCR: 65.000	 Correl: 0.917	 First:-1.685	 Error:9.192	silence
+Voiced: 189.000	Unvoiced: 19.000	Silence: 12.000	 Count: 0	
+ Energy: -52.915	ZCR: 76.000	 Correl: 0.841	 First:-1.198	 Error:7.085	silence
+Voiced: 277.000	Unvoiced: 20.000	Silence: 31.000	 Count: 0	
+ Energy: -52.361	ZCR: 93.000	 Correl: 0.853	 First:-1.253	 Error:7.639	Unvoiced
+Voiced: 218.000	Unvoiced: 20.000	Silence: 18.000	 Count: 0	
+ Energy: -53.145	ZCR: 82.000	 Correl: 0.847	 First:-1.222	 Error:6.855	silence
+Voiced: 171.000	Unvoiced: 23.000	Silence: 13.000	 Count: 0	
+ Energy: -50.852	ZCR: 74.000	 Correl: 0.899	 First:-1.573	 Error:9.148	silence
+Voiced: 170.000	Unvoiced: 24.000	Silence: 12.000	 Count: 0	
+ Energy: -51.694	ZCR: 73.000	 Correl: 0.902	 First:-1.585	 Error:8.306	silence
+Voiced: 168.000	Unvoiced: 20.000	Silence: 10.000	 Count: 0	
+ Energy: -54.101	ZCR: 67.000	 Correl: 0.822	 First:-0.645	 Error:5.899	silence
+Voiced: 202.000	Unvoiced: 23.000	Silence: 16.000	 Count: 0	
+ Energy: -53.117	ZCR: 79.000	 Correl: 0.886	 First:-1.564	 Error:6.883	silence
+Voiced: 188.000	Unvoiced: 21.000	Silence: 11.000	 Count: 0	
+ Energy: -55.300	ZCR: 73.000	 Correl: 0.830	 First:-1.098	 Error:4.700	silence
+Voiced: 190.000	Unvoiced: 23.000	Silence: 14.000	 Count: 0	
+ Energy: -52.536	ZCR: 77.000	 Correl: 0.887	 First:-1.504	 Error:7.464	silence
+Voiced: 170.000	Unvoiced: 25.000	Silence: 13.000	 Count: 0	
+ Energy: -51.175	ZCR: 73.000	 Correl: 0.920	 First:-1.713	 Error:8.825	silence
+Voiced: 155.000	Unvoiced: 26.000	Silence: 9.000	 Count: 0	
+ Energy: -53.557	ZCR: 68.000	 Correl: 0.896	 First:-1.658	 Error:6.443	silence
+Voiced: 106.000	Unvoiced: 57.000	Silence: 139.000	 Count: 0	
+ Energy: -26.134	ZCR: 63.000	 Correl: 0.929	 First:-1.172	 Error:33.866	Voice
+Voiced: 77.000	Unvoiced: 95.000	Silence: 241.000	 Count: 0	
+ Energy: -16.437	ZCR: 50.000	 Correl: 0.934	 First:-1.153	 Error:43.563	Voice
+Voiced: 70.000	Unvoiced: 104.000	Silence: 261.000	 Count: 1	
+ Energy: -14.654	ZCR: 46.000	 Correl: 0.934	 First:-1.178	 Error:45.346	Voice
+Voiced: 71.000	Unvoiced: 112.000	Silence: 285.000	 Count: 2	
+ Energy: -13.188	ZCR: 44.000	 Correl: 0.930	 First:-1.082	 Error:46.812	Voice
+Voiced: 76.000	Unvoiced: 117.000	Silence: 301.000	 Count: 3	
+ Energy: -11.644	ZCR: 45.000	 Correl: 0.933	 First:-1.238	 Error:48.356	Voice
+Voiced: 77.000	Unvoiced: 126.000	Silence: 325.000	 Count: 4	
+ Energy: -9.911	ZCR: 43.000	 Correl: 0.934	 First:-1.268	 Error:50.089	Voice
+Voiced: 80.000	Unvoiced: 128.000	Silence: 330.000	 Count: 5	
+ Energy: -9.538	ZCR: 44.000	 Correl: 0.933	 First:-1.291	 Error:50.462	Voice
+Voiced: 80.000	Unvoiced: 127.000	Silence: 329.000	 Count: 5	
+ Energy: -9.704	ZCR: 44.000	 Correl: 0.929	 First:-1.259	 Error:50.296	Voice
+Voiced: 89.000	Unvoiced: 128.000	Silence: 339.000	 Count: 5	
+ Energy: -9.598	ZCR: 46.000	 Correl: 0.918	 First:-1.132	 Error:50.402	Voice
+Voiced: 85.000	Unvoiced: 126.000	Silence: 334.000	 Count: 5	
+ Energy: -9.882	ZCR: 45.000	 Correl: 0.914	 First:-1.108	 Error:50.118	Voice
+Voiced: 75.000	Unvoiced: 121.000	Silence: 311.000	 Count: 5	
+ Energy: -10.750	ZCR: 44.000	 Correl: 0.921	 First:-1.282	 Error:49.250	Voice
+Voiced: 71.000	Unvoiced: 117.000	Silence: 298.000	 Count: 5	
+ Energy: -11.410	ZCR: 44.000	 Correl: 0.918	 First:-1.342	 Error:48.590	Voice
+Voiced: 96.000	Unvoiced: 110.000	Silence: 295.000	 Count: 5	
+ Energy: -12.244	ZCR: 53.000	 Correl: 0.903	 First:-1.310	 Error:47.756	Voice
+Voiced: 126.000	Unvoiced: 94.000	Silence: 272.000	 Count: 5	
+ Energy: -15.101	ZCR: 62.000	 Correl: 0.855	 First:-1.076	 Error:44.899	Voice
+Voiced: 159.000	Unvoiced: 86.000	Silence: 267.000	 Count: 5	
+ Energy: -16.752	ZCR: 69.000	 Correl: 0.818	 First:-0.873	 Error:43.248	Voice
+Voiced: 184.000	Unvoiced: 88.000	Silence: 290.000	 Count: 5	
+ Energy: -17.124	ZCR: 71.000	 Correl: 0.792	 First:-0.427	 Error:42.876	Voice
+Voiced: 142.000	Unvoiced: 79.000	Silence: 239.000	 Count: 5	
+ Energy: -17.919	ZCR: 67.000	 Correl: 0.822	 First:-1.053	 Error:42.081	Voice
+Voiced: 121.000	Unvoiced: 78.000	Silence: 219.000	 Count: 5	
+ Energy: -18.356	ZCR: 65.000	 Correl: 0.870	 First:-1.374	 Error:41.644	Voice
+Voiced: 105.000	Unvoiced: 83.000	Silence: 221.000	 Count: 5	
+ Energy: -17.653	ZCR: 61.000	 Correl: 0.900	 First:-1.454	 Error:42.347	Voice
+Voiced: 111.000	Unvoiced: 92.000	Silence: 251.000	 Count: 5	
+ Energy: -16.091	ZCR: 60.000	 Correl: 0.899	 First:-1.212	 Error:43.909	Voice
+Voiced: 107.000	Unvoiced: 105.000	Silence: 290.000	 Count: 5	
+ Energy: -14.310	ZCR: 55.000	 Correl: 0.910	 First:-0.863	 Error:45.690	Voice
+Voiced: 87.000	Unvoiced: 109.000	Silence: 289.000	 Count: 5	
+ Energy: -13.678	ZCR: 49.000	 Correl: 0.916	 First:-0.928	 Error:46.322	Voice
+Voiced: 75.000	Unvoiced: 98.000	Silence: 256.000	 Count: 5	
+ Energy: -16.063	ZCR: 47.000	 Correl: 0.909	 First:-0.857	 Error:43.937	Voice
+Voiced: 94.000	Unvoiced: 105.000	Silence: 296.000	 Count: 5	
+ Energy: -17.382	ZCR: 45.000	 Correl: 0.898	 First:0.123	 Error:42.618	Voice
+Voiced: 651.000	Unvoiced: 374.000	Silence: 1312.000	 Count: 5	
+ Energy: -17.947	ZCR: 45.000	 Correl: 0.897	 First:-13.609	 Error:42.053	Voice
+Voiced: 66.000	Unvoiced: 86.000	Silence: 213.000	 Count: 5	
+ Energy: -19.217	ZCR: 47.000	 Correl: 0.923	 First:-0.888	 Error:40.783	Voice
+Voiced: 66.000	Unvoiced: 76.000	Silence: 182.000	 Count: 5	
+ Energy: -21.058	ZCR: 50.000	 Correl: 0.935	 First:-1.159	 Error:38.942	Voice
+Voiced: 64.000	Unvoiced: 68.000	Silence: 155.000	 Count: 5	
+ Energy: -23.224	ZCR: 51.000	 Correl: 0.935	 First:-1.232	 Error:36.776	Voice
+Voiced: 49.000	Unvoiced: 59.000	Silence: 120.000	 Count: 5	
+ Energy: -25.945	ZCR: 48.000	 Correl: 0.933	 First:-1.378	 Error:34.055	Voice
+Voiced: 36.000	Unvoiced: 54.000	Silence: 98.000	 Count: 5	
+ Energy: -27.882	ZCR: 44.000	 Correl: 0.931	 First:-1.456	 Error:32.118	Voice
+Voiced: 32.000	Unvoiced: 50.000	Silence: 79.000	 Count: 5	
+ Energy: -29.793	ZCR: 43.000	 Correl: 0.937	 First:-1.579	 Error:30.207	Voice
+Voiced: 31.000	Unvoiced: 47.000	Silence: 69.000	 Count: 5	
+ Energy: -31.074	ZCR: 43.000	 Correl: 0.937	 First:-1.601	 Error:28.926	Voice
+Voiced: 39.000	Unvoiced: 44.000	Silence: 64.000	 Count: 5	
+ Energy: -31.907	ZCR: 46.000	 Correl: 0.939	 First:-1.623	 Error:28.093	Voice
+Voiced: 34.000	Unvoiced: 45.000	Silence: 63.000	 Count: 5	
+ Energy: -31.999	ZCR: 44.000	 Correl: 0.936	 First:-1.616	 Error:28.001	Voice
+Voiced: 30.000	Unvoiced: 49.000	Silence: 77.000	 Count: 5	
+ Energy: -30.416	ZCR: 41.000	 Correl: 0.921	 First:-1.377	 Error:29.584	Voice
+Voiced: 26.000	Unvoiced: 45.000	Silence: 58.000	 Count: 5	
+ Energy: -32.676	ZCR: 39.000	 Correl: 0.924	 First:-1.465	 Error:27.324	Voice
+Voiced: 60.000	Unvoiced: 42.000	Silence: 73.000	 Count: 5	
+ Energy: -31.796	ZCR: 53.000	 Correl: 0.921	 First:-1.384	 Error:28.204	Voice
+Voiced: 146.000	Unvoiced: 23.000	Silence: 23.000	 Count: 5	
+ Energy: -44.155	ZCR: 72.000	 Correl: 0.910	 First:-1.438	 Error:15.845	Voiced: 200.000	Unvoiced: 18.000	Silence: 20.000	 Count: 5	
+ Energy: -49.230	ZCR: 81.000	 Correl: 0.855	 First:-1.227	 Error:10.770	Unvoiced
+Voiced: 159.000	Unvoiced: 20.000	Silence: 16.000	 Count: 0	
+ Energy: -47.473	ZCR: 73.000	 Correl: 0.884	 First:-1.202	 Error:12.527	silence
+Voiced: 137.000	Unvoiced: 23.000	Silence: 8.000	 Count: 1	
+ Energy: -49.481	ZCR: 67.000	 Correl: 0.903	 First:-1.583	 Error:10.519	silence
+Voiced: 159.000	Unvoiced: 21.000	Silence: 9.000	 Count: 2	
+ Energy: -51.499	ZCR: 71.000	 Correl: 0.868	 First:-1.490	 Error:8.501	silence
+Voiced: 230.000	Unvoiced: 19.000	Silence: 21.000	 Count: 3	
+ Energy: -52.989	ZCR: 84.000	 Correl: 0.843	 First:-1.030	 Error:7.011	Unvoiced
+Voiced: 255.000	Unvoiced: 18.000	Silence: 28.000	 Count: 4	
+ Energy: -52.662	ZCR: 88.000	 Correl: 0.833	 First:-0.783	 Error:7.338	Unvoiced
+Voiced: 222.000	Unvoiced: 18.000	Silence: 18.000	 Count: 5	
+ Energy: -52.797	ZCR: 83.000	 Correl: 0.826	 First:-1.261	 Error:7.203	Voiced: 181.000	Unvoiced: 21.000	Silence: 12.000	 Count: 6	
+ Energy: -52.676	ZCR: 75.000	 Correl: 0.864	 First:-1.462	 Error:7.324	silence
+Voiced: 146.000	Unvoiced: 24.000	Silence: 7.000	 Count: 7	
+ Energy: -52.338	ZCR: 67.000	 Correl: 0.888	 First:-1.526	 Error:7.662	silence
+Voiced: 126.000	Unvoiced: 27.000	Silence: 5.000	 Count: 8	
+ Energy: -52.417	ZCR: 61.000	 Correl: 0.909	 First:-1.608	 Error:7.583	silence
+Voiced: 119.000	Unvoiced: 28.000	Silence: 4.000	 Count: 9	
+ Energy: -53.203	ZCR: 58.000	 Correl: 0.902	 First:-1.596	 Error:6.797	silence
+Voiced: 110.000	Unvoiced: 27.000	Silence: 3.000	 Count: 10	
+ Energy: -52.458	ZCR: 56.000	 Correl: 0.903	 First:-1.568	 Error:7.542	silence
+Voiced: 119.000	Unvoiced: 27.000	Silence: 4.000	 Count: 11	
+ Energy: -53.134	ZCR: 58.000	 Correl: 0.891	 First:-1.593	 Error:6.866	silence
+Voiced: 130.000	Unvoiced: 27.000	Silence: 7.000	 Count: 12	
+ Energy: -51.360	ZCR: 63.000	 Correl: 0.926	 First:-1.705	 Error:8.640	silence
+Voiced: 143.000	Unvoiced: 27.000	Silence: 9.000	 Count: 13	
+ Energy: -51.467	ZCR: 66.000	 Correl: 0.931	 First:-1.703	 Error:8.533	silence
+Voiced: 110.000	Unvoiced: 28.000	Silence: 4.000	 Count: 14	
+ Energy: -51.527	ZCR: 57.000	 Correl: 0.923	 First:-1.641	 Error:8.473	silence
+Voiced: 99.000	Unvoiced: 30.000	Silence: 4.000	 Count: 15	
+ Energy: -51.451	ZCR: 53.000	 Correl: 0.938	 First:-1.741	 Error:8.549	silence
+Voiced: 109.000	Unvoiced: 30.000	Silence: 4.000	 Count: 15	
+ Energy: -53.542	ZCR: 54.000	 Correl: 0.908	 First:-1.632	 Error:6.458	silence
+Voiced: 153.000	Unvoiced: 23.000	Silence: 7.000	 Count: 15	
+ Energy: -52.942	ZCR: 68.000	 Correl: 0.878	 First:-1.423	 Error:7.058	silence
+Voiced: 175.000	Unvoiced: 22.000	Silence: 11.000	 Count: 15	
+ Energy: -53.027	ZCR: 73.000	 Correl: 0.876	 First:-1.280	 Error:6.973	silence
+Voiced: 215.000	Unvoiced: 23.000	Silence: 18.000	 Count: 15	
+ Energy: -54.138	ZCR: 81.000	 Correl: 0.873	 First:-1.454	 Error:5.862	silence
+Voiced: 243.000	Unvoiced: 20.000	Silence: 22.000	 Count: 15	
+ Energy: -53.942	ZCR: 86.000	 Correl: 0.844	 First:-1.100	 Error:6.058	Unvoiced
+Voiced: 216.000	Unvoiced: 22.000	Silence: 17.000	 Count: 0	
+ Energy: -54.301	ZCR: 81.000	 Correl: 0.863	 First:-1.381	 Error:5.699	silence
+Voiced: 203.000	Unvoiced: 21.000	Silence: 15.000	 Count: 0	
+ Energy: -53.620	ZCR: 79.000	 Correl: 0.856	 First:-1.365	 Error:6.380	silence
+Voiced: 196.000	Unvoiced: 18.000	Silence: 17.000	 Count: 0	
+ Energy: -52.917	ZCR: 75.000	 Correl: 0.818	 First:-0.569	 Error:7.083	silence
+Voiced: 196.000	Unvoiced: 19.000	Silence: 15.000	 Count: 0	
+ Energy: -52.015	ZCR: 78.000	 Correl: 0.852	 First:-1.093	 Error:7.985	silence
+Voiced: 207.000	Unvoiced: 22.000	Silence: 18.000	 Count: 0	
+ Energy: -51.718	ZCR: 81.000	 Correl: 0.886	 First:-1.501	 Error:8.282	silence
+Voiced: 164.000	Unvoiced: 21.000	Silence: 11.000	 Count: 0	
+ Energy: -50.138	ZCR: 73.000	 Correl: 0.887	 First:-1.465	 Error:9.862	silence
+Voiced: 155.000	Unvoiced: 24.000	Silence: 12.000	 Count: 0	
+ Energy: -49.353	ZCR: 71.000	 Correl: 0.918	 First:-1.625	 Error:10.647	silence
+Voiced: 117.000	Unvoiced: 24.000	Silence: 5.000	 Count: 0	
+ Energy: -49.208	ZCR: 62.000	 Correl: 0.907	 First:-1.573	 Error:10.792	silence
+Voiced: 175.000	Unvoiced: 20.000	Silence: 12.000	 Count: 0	
+ Energy: -50.707	ZCR: 75.000	 Correl: 0.872	 First:-1.341	 Error:9.293	silence
+Voiced: 228.000	Unvoiced: 18.000	Silence: 20.000	 Count: 0	
+ Energy: -52.437	ZCR: 84.000	 Correl: 0.833	 First:-1.040	 Error:7.563	Unvoiced
+Voiced: 260.000	Unvoiced: 18.000	Silence: 29.000	 Count: 0	
+ Energy: -52.479	ZCR: 89.000	 Correl: 0.824	 First:-0.785	 Error:7.521	Unvoiced
+Voiced: 259.000	Unvoiced: 20.000	Silence: 42.000	 Count: 0	
+ Energy: -52.677	ZCR: 86.000	 Correl: 0.834	 First:-0.059	 Error:7.323	Unvoiced
+Voiced: 250.000	Unvoiced: 19.000	Silence: 28.000	 Count: 0	
+ Energy: -53.602	ZCR: 86.000	 Correl: 0.835	 First:-0.592	 Error:6.398	Unvoiced
+Voiced: 258.000	Unvoiced: 20.000	Silence: 26.000	 Count: 0	
+ Energy: -53.208	ZCR: 89.000	 Correl: 0.846	 First:-1.101	 Error:6.792	Unvoiced
+Voiced: 198.000	Unvoiced: 20.000	Silence: 13.000	 Count: 0	
+ Energy: -54.054	ZCR: 77.000	 Correl: 0.838	 First:-1.203	 Error:5.946	silence
+Voiced: 152.000	Unvoiced: 25.000	Silence: 8.000	 Count: 0	
+ Energy: -52.656	ZCR: 68.000	 Correl: 0.896	 First:-1.574	 Error:7.344	silence
+Voiced: 141.000	Unvoiced: 24.000	Silence: 5.000	 Count: 0	
+ Energy: -53.459	ZCR: 64.000	 Correl: 0.868	 First:-1.410	 Error:6.541	silence
+Voiced: 202.000	Unvoiced: 22.000	Silence: 15.000	 Count: 0	
+ Energy: -53.279	ZCR: 79.000	 Correl: 0.867	 First:-1.402	 Error:6.721	silence
+Voiced: 207.000	Unvoiced: 23.000	Silence: 16.000	 Count: 0	
+ Energy: -54.741	ZCR: 79.000	 Correl: 0.864	 First:-1.444	 Error:5.259	silence
+Voiced: 168.000	Unvoiced: 27.000	Silence: 12.000	 Count: 0	
+ Energy: -55.769	ZCR: 69.000	 Correl: 0.875	 First:-1.618	 Error:4.231	silence
+Voiced: 139.000	Unvoiced: 30.000	Silence: 10.000	 Count: 0	
+ Energy: -54.530	ZCR: 62.000	 Correl: 0.923	 First:-1.793	 Error:5.470	silence
+Voiced: 104.000	Unvoiced: 32.000	Silence: 6.000	 Count: 0	
+ Energy: -53.662	ZCR: 52.000	 Correl: 0.920	 First:-1.782	 Error:6.338	silence
+Voiced: 98.000	Unvoiced: 32.000	Silence: 5.000	 Count: 0	
+ Energy: -51.843	ZCR: 52.000	 Correl: 0.943	 First:-1.838	 Error:8.157	silence
+Voiced: 77.000	Unvoiced: 36.000	Silence: 4.000	 Count: 0	
+ Energy: -51.912	ZCR: 42.000	 Correl: 0.948	 First:-1.839	 Error:8.088	silence
+Voiced: 81.000	Unvoiced: 34.000	Silence: 4.000	 Count: 0	
+ Energy: -51.532	ZCR: 45.000	 Correl: 0.952	 First:-1.850	 Error:8.468	silence
+Voiced: 91.000	Unvoiced: 32.000	Silence: 4.000	 Count: 0	
+ Energy: -51.188	ZCR: 50.000	 Correl: 0.949	 First:-1.833	 Error:8.812	silence
+Voiced: 95.000	Unvoiced: 33.000	Silence: 5.000	 Count: 0	
+ Energy: -52.101	ZCR: 50.000	 Correl: 0.946	 First:-1.832	 Error:7.899	silence
+Voiced: 123.000	Unvoiced: 30.000	Silence: 8.000	 Count: 0	
+ Energy: -53.049	ZCR: 59.000	 Correl: 0.935	 First:-1.811	 Error:6.951	silence
+Voiced: 122.000	Unvoiced: 31.000	Silence: 8.000	 Count: 0	
+ Energy: -53.526	ZCR: 58.000	 Correl: 0.936	 First:-1.834	 Error:6.474	silence
+Voiced: 126.000	Unvoiced: 30.000	Silence: 8.000	 Count: 0	
+ Energy: -52.778	ZCR: 60.000	 Correl: 0.939	 First:-1.797	 Error:7.222	silence
+Voiced: 114.000	Unvoiced: 31.000	Silence: 7.000	 Count: 0	
+ Energy: -54.011	ZCR: 55.000	 Correl: 0.923	 First:-1.764	 Error:5.989	silence
+Voiced: 149.000	Unvoiced: 30.000	Silence: 11.000	 Count: 0	
+ Energy: -56.355	ZCR: 63.000	 Correl: 0.892	 First:-1.677	 Error:3.645	silence
+Voiced: 177.000	Unvoiced: 27.000	Silence: 14.000	 Count: 0	
+ Energy: -56.873	ZCR: 70.000	 Correl: 0.865	 First:-1.597	 Error:3.127	silence
+Voiced: 143.000	Unvoiced: 28.000	Silence: 9.000	 Count: 0	
+ Energy: -54.042	ZCR: 64.000	 Correl: 0.916	 First:-1.718	 Error:5.958	silence
+Voiced: 119.000	Unvoiced: 70.000	Silence: 159.000	 Count: 0	
+ Energy: -41.291	ZCR: 51.000	 Correl: 0.883	 First:-5.616	 Error:18.709	Voice
+Voiced: 110.000	Unvoiced: 72.000	Silence: 210.000	 Count: 0	
+ Energy: -26.210	ZCR: 53.000	 Correl: 0.874	 First:0.463	 Error:33.790	Voice
+Voiced: 66.000	Unvoiced: 69.000	Silence: 165.000	 Count: 1	
+ Energy: -20.913	ZCR: 53.000	 Correl: 0.881	 First:-1.673	 Error:39.087	Voice
+Voiced: 97.000	Unvoiced: 88.000	Silence: 215.000	 Count: 2	
+ Energy: -17.534	ZCR: 57.000	 Correl: 0.871	 First:-5.141	 Error:42.466	Voice
+Voiced: 66.000	Unvoiced: 79.000	Silence: 195.000	 Count: 3	
+ Energy: -18.543	ZCR: 51.000	 Correl: 0.890	 First:-1.562	 Error:41.457	Voice
+Voiced: 63.000	Unvoiced: 79.000	Silence: 192.000	 Count: 4	
+ Energy: -19.926	ZCR: 49.000	 Correl: 0.915	 First:-1.198	 Error:40.074	Voice
+Voiced: 74.000	Unvoiced: 78.000	Silence: 192.000	 Count: 5	
+ Energy: -19.658	ZCR: 53.000	 Correl: 0.920	 First:-1.362	 Error:40.342	Voice
+Voiced: 58.000	Unvoiced: 81.000	Silence: 194.000	 Count: 5	
+ Energy: -18.855	ZCR: 48.000	 Correl: 0.909	 First:-1.453	 Error:41.145	Voice
+Voiced: 51.000	Unvoiced: 83.000	Silence: 191.000	 Count: 5	
+ Energy: -18.608	ZCR: 46.000	 Correl: 0.939	 First:-1.625	 Error:41.392	Voice
+Voiced: 19.000	Unvoiced: 77.000	Silence: 148.000	 Count: 5	
+ Energy: -21.536	ZCR: 34.000	 Correl: 0.955	 First:-1.734	 Error:38.464	Voice
+Voiced: 25.000	Unvoiced: 56.000	Silence: 89.000	 Count: 5	
+ Energy: -27.945	ZCR: 40.000	 Correl: 0.966	 First:-1.863	 Error:32.055	Voice
+Voiced: 48.000	Unvoiced: 56.000	Silence: 111.000	 Count: 5	
+ Energy: -25.973	ZCR: 50.000	 Correl: 0.917	 First:-1.754	 Error:34.027	Voice
+Voiced: 90.000	Unvoiced: 53.000	Silence: 132.000	 Count: 5	
+ Energy: -25.113	ZCR: 61.000	 Correl: 0.853	 First:-1.510	 Error:34.887	Voice
+Voiced: 218.000	Unvoiced: 53.000	Silence: 154.000	 Count: 5	
+ Energy: -26.106	ZCR: 87.000	 Correl: 0.895	 First:-1.683	 Error:33.894	Unvoiced
+Voiced: 649.000	Unvoiced: 65.000	Silence: 229.000	 Count: 5	
+ Energy: -30.339	ZCR: 137.000	 Correl: 0.892	 First:-1.819	 Error:29.661	Unvoiced
+Voiced: 3893.000	Unvoiced: 824.000	Silence: 3994.000	 Count: 5	
+ Energy: -40.401	ZCR: 200.000	 Correl: 0.084	 First:15.920	 Error:19.599	Voice
+Voiced: 2591.000	Unvoiced: 121.000	Silence: 837.000	 Count: 5	
+ Energy: -39.373	ZCR: 221.000	 Correl: -0.037	 First:3.097	 Error:20.627	Unvoiced
+Voiced: 2011.000	Unvoiced: 102.000	Silence: 489.000	 Count: 5	
+ Energy: -39.488	ZCR: 225.000	 Correl: 0.184	 First:-4.852	 Error:20.512	Unvoiced
+Voiced: 2001.000	Unvoiced: 60.000	Silence: 436.000	 Count: 5	
+ Energy: -40.783	ZCR: 213.000	 Correl: 0.109	 First:-0.986	 Error:19.217	Unvoiced
+Voiced: 1907.000	Unvoiced: 162.000	Silence: 690.000	 Count: 5	
+ Energy: -41.123	ZCR: 207.000	 Correl: 0.161	 First:-8.083	 Error:18.877	Unvoiced
+Voiced: 1709.000	Unvoiced: 59.000	Silence: 384.000	 Count: 5	
+ Energy: -40.840	ZCR: 207.000	 Correl: 0.252	 First:-1.201	 Error:19.160	Unvoiced
+Voiced: 1563.000	Unvoiced: 46.000	Silence: 362.000	 Count: 5	
+ Energy: -41.713	ZCR: 193.000	 Correl: 0.249	 First:-0.282	 Error:18.287	Unvoiced
+Voiced: 1401.000	Unvoiced: 135.000	Silence: 772.000	 Count: 5	
+ Energy: -42.747	ZCR: 168.000	 Correl: 0.430	 First:4.901	 Error:17.253	Unvoiced
+Voiced: 519.000	Unvoiced: 29.000	Silence: 117.000	 Count: 5	
+ Energy: -42.021	ZCR: 128.000	 Correl: 0.792	 First:-1.454	 Error:17.979	Unvoiced
+Voiced: 287.000	Unvoiced: 19.000	Silence: 56.000	 Count: 5	
+ Energy: -42.567	ZCR: 99.000	 Correl: 0.814	 First:-1.541	 Error:17.433	Unvoiced
+Voiced: 209.000	Unvoiced: 14.000	Silence: 24.000	 Count: 5	
+ Energy: -46.476	ZCR: 84.000	 Correl: 0.794	 First:-1.488	 Error:13.524	Unvoiced
+Voiced: 161.000	Unvoiced: 21.000	Silence: 18.000	 Count: 0	
+ Energy: -46.475	ZCR: 75.000	 Correl: 0.892	 First:-1.655	 Error:13.525	silence
+Voiced: 118.000	Unvoiced: 21.000	Silence: 5.000	 Count: 1	
+ Energy: -48.428	ZCR: 63.000	 Correl: 0.871	 First:-1.500	 Error:11.572	silence
+Voiced: 102.000	Unvoiced: 27.000	Silence: 2.000	 Count: 2	
+ Energy: -52.270	ZCR: 53.000	 Correl: 0.883	 First:-1.600	 Error:7.730	silence
+Voiced: 85.000	Unvoiced: 36.000	Silence: 6.000	 Count: 3	
+ Energy: -52.814	ZCR: 44.000	 Correl: 0.955	 First:-1.885	 Error:7.186	silence
+Voiced: 75.000	Unvoiced: 39.000	Silence: 7.000	 Count: 4	
+ Energy: -52.672	ZCR: 38.000	 Correl: 0.959	 First:-1.894	 Error:7.328	silence
+Voiced: 83.000	Unvoiced: 38.000	Silence: 8.000	 Count: 5	
+ Energy: -53.534	ZCR: 41.000	 Correl: 0.951	 First:-1.888	 Error:6.466	silence
+Voiced: 118.000	Unvoiced: 34.000	Silence: 10.000	 Count: 6	
+ Energy: -55.463	ZCR: 54.000	 Correl: 0.923	 First:-1.825	 Error:4.537	silence
+Voiced: 156.000	Unvoiced: 31.000	Silence: 14.000	 Count: 7	
+ Energy: -57.225	ZCR: 64.000	 Correl: 0.883	 First:-1.689	 Error:2.775	silence
+Voiced: 239.000	Unvoiced: 19.000	Silence: 21.000	 Count: 8	
+ Energy: -53.432	ZCR: 86.000	 Correl: 0.827	 First:-1.279	 Error:6.568	Unvoiced
+Voiced: 138.000	Unvoiced: 18.000	Silence: 15.000	 Count: 9	
+ Energy: -45.607	ZCR: 69.000	 Correl: 0.836	 First:-1.231	 Error:14.393	silence
+Voiced: 105.000	Unvoiced: 40.000	Silence: 81.000	 Count: 10	
+ Energy: -31.417	ZCR: 66.000	 Correl: 0.920	 First:-1.659	 Error:28.583	Unvoiced
+Voiced: 58.000	Unvoiced: 76.000	Silence: 183.000	 Count: 10	
+ Energy: -19.823	ZCR: 48.000	 Correl: 0.885	 First:-1.401	 Error:40.177	Voice
+Voiced: 65.000	Unvoiced: 72.000	Silence: 173.000	 Count: 10	
+ Energy: -20.719	ZCR: 52.000	 Correl: 0.898	 First:-1.491	 Error:39.281	Voice
+Voiced: 82.000	Unvoiced: 72.000	Silence: 178.000	 Count: 10	
+ Energy: -20.685	ZCR: 57.000	 Correl: 0.910	 First:-1.497	 Error:39.315	Voice
+Voiced: 133.000	Unvoiced: 85.000	Silence: 242.000	 Count: 10	
+ Energy: -17.532	ZCR: 66.000	 Correl: 0.882	 First:-1.131	 Error:42.468	Voice
+Voiced: 579.000	Unvoiced: 283.000	Silence: 1121.000	 Count: 10	
+ Energy: -15.219	ZCR: 70.000	 Correl: 0.836	 First:5.714	 Error:44.781	Voice
+Voiced: 109.000	Unvoiced: 85.000	Silence: 224.000	 Count: 10	
+ Energy: -14.160	ZCR: 62.000	 Correl: 0.818	 First:-3.024	 Error:45.840	Voice
+Voiced: 1687.000	Unvoiced: 849.000	Silence: 3489.000	 Count: 10	
+ Energy: -13.793	ZCR: 52.000	 Correl: 0.822	 First:14.092	 Error:46.207	Voice
+Voiced: 95.000	Unvoiced: 112.000	Silence: 317.000	 Count: 10	
+ Energy: -14.041	ZCR: 44.000	 Correl: 0.856	 First:-0.268	 Error:45.959	Voice
+Voiced: 78.000	Unvoiced: 108.000	Silence: 291.000	 Count: 10	
+ Energy: -14.401	ZCR: 41.000	 Correl: 0.862	 First:-0.555	 Error:45.599	Voice
+Voiced: 89.000	Unvoiced: 105.000	Silence: 292.000	 Count: 10	
+ Energy: -14.967	ZCR: 45.000	 Correl: 0.856	 First:-0.445	 Error:45.033	Voice
+Voiced: 98.000	Unvoiced: 97.000	Silence: 274.000	 Count: 10	
+ Energy: -15.707	ZCR: 52.000	 Correl: 0.860	 First:-0.681	 Error:44.293	Voice
+Voiced: 178.000	Unvoiced: 98.000	Silence: 315.000	 Count: 10	
+ Energy: -16.455	ZCR: 69.000	 Correl: 0.842	 First:-0.181	 Error:43.545	Voice
+Voiced: 177.000	Unvoiced: 72.000	Silence: 205.000	 Count: 10	
+ Energy: -17.335	ZCR: 80.000	 Correl: 0.813	 First:-3.355	 Error:42.665	Voice
+Voiced: 262.000	Unvoiced: 82.000	Silence: 283.000	 Count: 10	
+ Energy: -17.869	ZCR: 89.000	 Correl: 0.804	 First:-0.884	 Error:42.131	Voice
+Voiced: 709.000	Unvoiced: 332.000	Silence: 1198.000	 Count: 10	
+ Energy: -18.429	ZCR: 85.000	 Correl: 0.817	 First:-13.138	 Error:41.571	Voice
+Voiced: 213.000	Unvoiced: 89.000	Silence: 304.000	 Count: 10	
+ Energy: -19.300	ZCR: 76.000	 Correl: 0.837	 First:0.098	 Error:40.700	Voice
+Voiced: 116.000	Unvoiced: 73.000	Silence: 207.000	 Count: 10	
+ Energy: -20.520	ZCR: 63.000	 Correl: 0.866	 First:-0.959	 Error:39.480	Voice
+Voiced: 53.000	Unvoiced: 67.000	Silence: 150.000	 Count: 10	
+ Energy: -22.587	ZCR: 49.000	 Correl: 0.912	 First:-1.496	 Error:37.413	Voice
+Voiced: 40.000	Unvoiced: 61.000	Silence: 122.000	 Count: 10	
+ Energy: -24.832	ZCR: 46.000	 Correl: 0.922	 First:-1.630	 Error:35.168	Voice
+Voiced: 29.000	Unvoiced: 57.000	Silence: 97.000	 Count: 10	
+ Energy: -27.145	ZCR: 42.000	 Correl: 0.945	 First:-1.763	 Error:32.855	Voice
+Voiced: 13.000	Unvoiced: 55.000	Silence: 70.000	 Count: 10	
+ Energy: -30.079	ZCR: 33.000	 Correl: 0.976	 First:-1.899	 Error:29.921	Voice
+Voiced: 6.000	Unvoiced: 55.000	Silence: 49.000	 Count: 10	
+ Energy: -33.662	ZCR: 20.000	 Correl: 0.986	 First:-1.942	 Error:26.338	Voice
+Voiced: 4.000	Unvoiced: 60.000	Silence: 57.000	 Count: 10	
+ Energy: -32.353	ZCR: 16.000	 Correl: 0.983	 First:-1.931	 Error:27.647	Voice
+Voiced: 3.000	Unvoiced: 60.000	Silence: 60.000	 Count: 10	
+ Energy: -31.793	ZCR: 17.000	 Correl: 0.981	 First:-1.922	 Error:28.207	Voice
+Voiced: 4.000	Unvoiced: 59.000	Silence: 56.000	 Count: 10	
+ Energy: -32.479	ZCR: 17.000	 Correl: 0.988	 First:-1.949	 Error:27.521	Voice
+Voiced: 5.000	Unvoiced: 62.000	Silence: 59.000	 Count: 10	
+ Energy: -32.246	ZCR: 13.000	 Correl: 0.990	 First:-1.956	 Error:27.754	Voice
+Voiced: 6.000	Unvoiced: 62.000	Silence: 57.000	 Count: 10	
+ Energy: -32.699	ZCR: 12.000	 Correl: 0.990	 First:-1.957	 Error:27.301	Voice
+Voiced: 7.000	Unvoiced: 62.000	Silence: 54.000	 Count: 10	
+ Energy: -33.205	ZCR: 12.000	 Correl: 0.991	 First:-1.960	 Error:26.795	Voice
+Voiced: 7.000	Unvoiced: 62.000	Silence: 55.000	 Count: 10	
+ Energy: -33.158	ZCR: 11.000	 Correl: 0.991	 First:-1.963	 Error:26.842	Voice
+Voiced: 8.000	Unvoiced: 62.000	Silence: 52.000	 Count: 10	
+ Energy: -33.779	ZCR: 11.000	 Correl: 0.992	 First:-1.965	 Error:26.221	Voice
+Voiced: 9.000	Unvoiced: 62.000	Silence: 53.000	 Count: 10	
+ Energy: -33.656	ZCR: 10.000	 Correl: 0.993	 First:-1.967	 Error:26.344	Voice
+Voiced: 8.000	Unvoiced: 61.000	Silence: 51.000	 Count: 10	
+ Energy: -33.954	ZCR: 11.000	 Correl: 0.991	 First:-1.959	 Error:26.046	Voice
+Voiced: 9.000	Unvoiced: 61.000	Silence: 49.000	 Count: 10	
+ Energy: -34.236	ZCR: 11.000	 Correl: 0.989	 First:-1.952	 Error:25.764	Voice
+Voiced: 9.000	Unvoiced: 59.000	Silence: 47.000	 Count: 10	
+ Energy: -34.654	ZCR: 12.000	 Correl: 0.989	 First:-1.954	 Error:25.346	Voice
+Voiced: 9.000	Unvoiced: 58.000	Silence: 44.000	 Count: 10	
+ Energy: -35.119	ZCR: 14.000	 Correl: 0.991	 First:-1.961	 Error:24.881	Voice
+Voiced: 10.000	Unvoiced: 56.000	Silence: 40.000	 Count: 10	
+ Energy: -35.935	ZCR: 14.000	 Correl: 0.990	 First:-1.959	 Error:24.065	Voice
+Voiced: 11.000	Unvoiced: 56.000	Silence: 39.000	 Count: 10	
+ Energy: -36.137	ZCR: 14.000	 Correl: 0.990	 First:-1.958	 Error:23.863	Voice
+Voiced: 12.000	Unvoiced: 56.000	Silence: 38.000	 Count: 10	
+ Energy: -36.598	ZCR: 13.000	 Correl: 0.991	 First:-1.964	 Error:23.402	Voice
+Voiced: 15.000	Unvoiced: 49.000	Silence: 26.000	 Count: 10	
+ Energy: -38.930	ZCR: 20.000	 Correl: 0.983	 First:-1.952	 Error:21.070	Voice
+Voiced: 44.000	Unvoiced: 39.000	Silence: 5.000	 Count: 10	
+ Energy: -47.080	ZCR: 31.000	 Correl: 0.956	 First:-1.885	 Error:12.920	silence
+Voiced: 86.000	Unvoiced: 34.000	Silence: 3.000	 Count: 0	
+ Energy: -52.902	ZCR: 45.000	 Correl: 0.927	 First:-1.677	 Error:7.098	silence
+Voiced: 103.000	Unvoiced: 30.000	Silence: 4.000	 Count: 1	
+ Energy: -51.760	ZCR: 54.000	 Correl: 0.938	 First:-1.747	 Error:8.240	silence
+Voiced: 104.000	Unvoiced: 29.000	Silence: 5.000	 Count: 2	
+ Energy: -49.910	ZCR: 56.000	 Correl: 0.952	 First:-1.784	 Error:10.090	silence
+Voiced: 103.000	Unvoiced: 31.000	Silence: 4.000	 Count: 3	
+ Energy: -53.257	ZCR: 52.000	 Correl: 0.924	 First:-1.713	 Error:6.743	silence
+Voiced: 89.000	Unvoiced: 33.000	Silence: 4.000	 Count: 4	
+ Energy: -52.062	ZCR: 48.000	 Correl: 0.938	 First:-1.777	 Error:7.938	silence
+Voiced: 71.000	Unvoiced: 34.000	Silence: 3.000	 Count: 5	
+ Energy: -50.477	ZCR: 42.000	 Correl: 0.948	 First:-1.784	 Error:9.523	silence
+Voiced: 69.000	Unvoiced: 34.000	Silence: 2.000	 Count: 6	
+ Energy: -49.917	ZCR: 42.000	 Correl: 0.947	 First:-1.775	 Error:10.083	silence
+Voiced: 69.000	Unvoiced: 36.000	Silence: 3.000	 Count: 7	
+ Energy: -51.268	ZCR: 39.000	 Correl: 0.935	 First:-1.776	 Error:8.732	silence
+Voiced: 86.000	Unvoiced: 35.000	Silence: 4.000	 Count: 8	
+ Energy: -53.287	ZCR: 44.000	 Correl: 0.923	 First:-1.741	 Error:6.713	silence
+Voiced: 82.000	Unvoiced: 36.000	Silence: 5.000	 Count: 9	
+ Energy: -52.661	ZCR: 43.000	 Correl: 0.942	 First:-1.795	 Error:7.339	silence
+Voiced: 78.000	Unvoiced: 35.000	Silence: 4.000	 Count: 10	
+ Energy: -51.943	ZCR: 43.000	 Correl: 0.943	 First:-1.820	 Error:8.057	silence
+Voiced: 84.000	Unvoiced: 32.000	Silence: 4.000	 Count: 11	
+ Energy: -49.710	ZCR: 49.000	 Correl: 0.959	 First:-1.859	 Error:10.290	silence
+Voiced: 154.000	Unvoiced: 16.000	Silence: 14.000	 Count: 12	
+ Energy: -46.781	ZCR: 71.000	 Correl: 0.809	 First:-1.165	 Error:13.219	silence
+Voiced: 229.000	Unvoiced: 11.000	Silence: 36.000	 Count: 13	
+ Energy: -44.734	ZCR: 82.000	 Correl: 0.717	 First:-0.834	 Error:15.266	Unvoiced
+Voiced: 150.000	Unvoiced: 22.000	Silence: 31.000	 Count: 13	
+ Energy: -41.694	ZCR: 75.000	 Correl: 0.877	 First:-1.603	 Error:18.306	Unvoiced
+Voiced: 106.000	Unvoiced: 27.000	Silence: 29.000	 Count: 13	
+ Energy: -40.187	ZCR: 65.000	 Correl: 0.922	 First:-1.756	 Error:19.813	Unvoiced
+Voiced: 111.000	Unvoiced: 23.000	Silence: 21.000	 Count: 13	
+ Energy: -42.030	ZCR: 66.000	 Correl: 0.885	 First:-1.648	 Error:17.970	silence
+Voiced: 187.000	Unvoiced: 19.000	Silence: 39.000	 Count: 0	
+ Energy: -41.654	ZCR: 82.000	 Correl: 0.829	 First:-1.362	 Error:18.346	Unvoiced
+Voiced: 234.000	Unvoiced: 16.000	Silence: 46.000	 Count: 1	
+ Energy: -42.796	ZCR: 89.000	 Correl: 0.792	 First:-1.122	 Error:17.204	Unvoiced
+Voiced: 303.000	Unvoiced: 21.000	Silence: 62.000	 Count: 2	
+ Energy: -42.471	ZCR: 101.000	 Correl: 0.838	 First:-1.460	 Error:17.529	Unvoiced
+Voiced: 197.000	Unvoiced: 20.000	Silence: 40.000	 Count: 3	
+ Energy: -41.925	ZCR: 84.000	 Correl: 0.857	 First:-1.479	 Error:18.075	Unvoiced
+Voiced: 86.000	Unvoiced: 41.000	Silence: 61.000	 Count: 3	
+ Energy: -33.437	ZCR: 59.000	 Correl: 0.974	 First:-1.897	 Error:26.563	Unvoiced
+Voiced: 7.000	Unvoiced: 57.000	Silence: 67.000	 Count: 3	
+ Energy: -30.528	ZCR: 27.000	 Correl: 0.985	 First:-1.936	 Error:29.472	Voice
+Voiced: 3.000	Unvoiced: 61.000	Silence: 61.000	 Count: 3	
+ Energy: -31.738	ZCR: 17.000	 Correl: 0.991	 First:-1.965	 Error:28.262	Voice
+Voiced: 5.000	Unvoiced: 55.000	Silence: 58.000	 Count: 3	
+ Energy: -31.982	ZCR: 24.000	 Correl: 0.972	 First:-1.890	 Error:28.018	Voice
+Voiced: 10.000	Unvoiced: 55.000	Silence: 75.000	 Count: 3	
+ Energy: -29.455	ZCR: 31.000	 Correl: 0.946	 First:-1.777	 Error:30.545	Voice
+Voiced: 27.000	Unvoiced: 68.000	Silence: 129.000	 Count: 3	
+ Energy: -23.531	ZCR: 40.000	 Correl: 0.955	 First:-1.794	 Error:36.469	Voice
+Voiced: 30.000	Unvoiced: 88.000	Silence: 185.000	 Count: 3	
+ Energy: -18.231	ZCR: 37.000	 Correl: 0.958	 First:-1.787	 Error:41.769	Voice
+Voiced: 53.000	Unvoiced: 92.000	Silence: 215.000	 Count: 3	
+ Energy: -16.439	ZCR: 45.000	 Correl: 0.933	 First:-1.671	 Error:43.561	Voice
+Voiced: 108.000	Unvoiced: 93.000	Silence: 262.000	 Count: 3	
+ Energy: -15.982	ZCR: 57.000	 Correl: 0.859	 First:-0.918	 Error:44.018	Voice
+Voiced: 608.000	Unvoiced: 400.000	Silence: 1410.000	 Count: 3	
+ Energy: -15.410	ZCR: 81.000	 Correl: 0.794	 First:-10.993	 Error:-15.410	Voice
+Voiced: 335.000	Unvoiced: 99.000	Silence: 369.000	 Count: 3	
+ Energy: -15.290	ZCR: 95.000	 Correl: 0.762	 First:-0.293	 Error:44.710	Voice
+Voiced: 352.000	Unvoiced: 81.000	Silence: 282.000	 Count: 3	
+ Energy: -14.920	ZCR: 105.000	 Correl: 0.743	 First:-2.706	 Error:45.080	Unvoiced
+Voiced: 374.000	Unvoiced: 89.000	Silence: 328.000	 Count: 3	
+ Energy: -14.697	ZCR: 105.000	 Correl: 0.744	 First:-1.495	 Error:45.303	Unvoiced
+Voiced: 6985.000	Unvoiced: 3346.000	Silence: 13390.000	 Count: 3	
+ Energy: -15.692	ZCR: 91.000	 Correl: 0.780	 First:-38.833	 Error:44.308	Voice
+Voiced: 161.000	Unvoiced: 87.000	Silence: 263.000	 Count: 3	
+ Energy: -16.817	ZCR: 71.000	 Correl: 0.854	 First:-1.009	 Error:43.183	Voice
+Voiced: 70.000	Unvoiced: 83.000	Silence: 203.000	 Count: 3	
+ Energy: -18.059	ZCR: 52.000	 Correl: 0.912	 First:-1.576	 Error:41.941	Voice
+Voiced: 116.000	Unvoiced: 78.000	Silence: 224.000	 Count: 3	
+ Energy: -18.702	ZCR: 62.000	 Correl: 0.849	 First:-1.047	 Error:41.298	Voice
+Voiced: 1760.000	Unvoiced: 801.000	Silence: 3365.000	 Count: 3	
+ Energy: -19.218	ZCR: 73.000	 Correl: 0.810	 First:14.046	 Error:40.782	Voice
+Voiced: 174.000	Unvoiced: 75.000	Silence: 234.000	 Count: 3	
+ Energy: -19.631	ZCR: 75.000	 Correl: 0.842	 First:-0.943	 Error:40.369	Voice
+Voiced: 111.000	Unvoiced: 74.000	Silence: 203.000	 Count: 3	
+ Energy: -19.577	ZCR: 63.000	 Correl: 0.870	 First:-1.312	 Error:40.423	Voice
+Voiced: 88.000	Unvoiced: 75.000	Silence: 192.000	 Count: 3	
+ Energy: -19.717	ZCR: 58.000	 Correl: 0.891	 First:-1.442	 Error:40.283	Voice
+Voiced: 108.000	Unvoiced: 73.000	Silence: 194.000	 Count: 3	
+ Energy: -20.079	ZCR: 63.000	 Correl: 0.885	 First:-1.400	 Error:39.921	Voice
+Voiced: 142.000	Unvoiced: 69.000	Silence: 196.000	 Count: 3	
+ Energy: -20.835	ZCR: 71.000	 Correl: 0.879	 First:-1.385	 Error:39.165	Voice
+Voiced: 195.000	Unvoiced: 68.000	Silence: 211.000	 Count: 3	
+ Energy: -21.193	ZCR: 81.000	 Correl: 0.860	 First:-1.243	 Error:38.807	Voice
+Voiced: 184.000	Unvoiced: 69.000	Silence: 209.000	 Count: 3	
+ Energy: -20.862	ZCR: 79.000	 Correl: 0.868	 First:-1.325	 Error:39.138	Voice
+Voiced: 96.000	Unvoiced: 64.000	Silence: 156.000	 Count: 3	
+ Energy: -22.865	ZCR: 62.000	 Correl: 0.916	 First:-1.613	 Error:37.135	Voice
+Voiced: 22.000	Unvoiced: 52.000	Silence: 77.000	 Count: 3	
+ Energy: -29.463	ZCR: 39.000	 Correl: 0.951	 First:-1.797	 Error:30.537	Voice
+Voiced: 4.000	Unvoiced: 57.000	Silence: 61.000	 Count: 3	
+ Energy: -31.535	ZCR: 23.000	 Correl: 0.974	 First:-1.891	 Error:28.465	Voice
+Voiced: 2.000	Unvoiced: 65.000	Silence: 80.000	 Count: 3	
+ Energy: -28.694	ZCR: 20.000	 Correl: 0.979	 First:-1.909	 Error:31.306	Voice
+Voiced: 1.000	Unvoiced: 68.000	Silence: 87.000	 Count: 3	
+ Energy: -27.894	ZCR: 18.000	 Correl: 0.982	 First:-1.920	 Error:32.106	Voice
+Voiced: 1.000	Unvoiced: 68.000	Silence: 87.000	 Count: 3	
+ Energy: -27.844	ZCR: 17.000	 Correl: 0.981	 First:-1.916	 Error:32.156	Voice
+Voiced: 1.000	Unvoiced: 69.000	Silence: 93.000	 Count: 3	
+ Energy: -27.150	ZCR: 18.000	 Correl: 0.980	 First:-1.915	 Error:32.850	Voice
+Voiced: 1.000	Unvoiced: 71.000	Silence: 96.000	 Count: 3	
+ Energy: -26.672	ZCR: 18.000	 Correl: 0.981	 First:-1.920	 Error:33.328	Voice
+Voiced: 1.000	Unvoiced: 71.000	Silence: 98.000	 Count: 3	
+ Energy: -26.492	ZCR: 18.000	 Correl: 0.984	 First:-1.930	 Error:33.508	Voice
+Voiced: 1.000	Unvoiced: 71.000	Silence: 97.000	 Count: 3	
+ Energy: -26.551	ZCR: 18.000	 Correl: 0.986	 First:-1.938	 Error:33.449	Voice
+Voiced: 1.000	Unvoiced: 71.000	Silence: 95.000	 Count: 3	
+ Energy: -26.765	ZCR: 18.000	 Correl: 0.988	 First:-1.944	 Error:33.235	Voice
+Voiced: 1.000	Unvoiced: 70.000	Silence: 93.000	 Count: 3	
+ Energy: -27.056	ZCR: 19.000	 Correl: 0.989	 First:-1.946	 Error:32.944	Voice
+Voiced: 1.000	Unvoiced: 68.000	Silence: 88.000	 Count: 3	
+ Energy: -27.718	ZCR: 19.000	 Correl: 0.989	 First:-1.945	 Error:32.282	Voice
+Voiced: 2.000	Unvoiced: 65.000	Silence: 79.000	 Count: 3	
+ Energy: -28.867	ZCR: 19.000	 Correl: 0.988	 First:-1.943	 Error:31.133	Voice
+Voiced: 2.000	Unvoiced: 62.000	Silence: 69.000	 Count: 3	
+ Energy: -30.363	ZCR: 19.000	 Correl: 0.989	 First:-1.945	 Error:29.637	Voice
+Voiced: 4.000	Unvoiced: 59.000	Silence: 59.000	 Count: 3	
+ Energy: -31.882	ZCR: 20.000	 Correl: 0.989	 First:-1.946	 Error:28.118	Voice
+Voiced: 7.000	Unvoiced: 54.000	Silence: 46.000	 Count: 3	
+ Energy: -34.082	ZCR: 21.000	 Correl: 0.989	 First:-1.944	 Error:25.918	Voice
+Voiced: 49.000	Unvoiced: 37.000	Silence: 24.000	 Count: 3	
+ Energy: -39.151	ZCR: 45.000	 Correl: 0.986	 First:-1.933	 Error:20.849	silence
+Voiced: 106.000	Unvoiced: 30.000	Silence: 7.000	 Count: 0	
+ Energy: -49.202	ZCR: 57.000	 Correl: 0.961	 First:-1.886	 Error:10.798	silence
+Voiced: 222.000	Unvoiced: 28.000	Silence: 23.000	 Count: 1	
+ Energy: -54.943	ZCR: 81.000	 Correl: 0.913	 First:-1.803	 Error:5.057	silence
+Voiced: 146.000	Unvoiced: 28.000	Silence: 10.000	 Count: 2	
+ Energy: -55.089	ZCR: 64.000	 Correl: 0.890	 First:-1.737	 Error:4.911	silence
+Voiced: 160.000	Unvoiced: 28.000	Silence: 13.000	 Count: 3	
+ Energy: -54.567	ZCR: 68.000	 Correl: 0.912	 First:-1.797	 Error:5.433	silence
+Voiced: 134.000	Unvoiced: 31.000	Silence: 10.000	 Count: 4	
+ Energy: -55.309	ZCR: 60.000	 Correl: 0.911	 First:-1.771	 Error:4.691	silence
+Voiced: 124.000	Unvoiced: 31.000	Silence: 8.000	 Count: 5	
+ Energy: -53.923	ZCR: 58.000	 Correl: 0.934	 First:-1.808	 Error:6.077	silence
+Voiced: 84.000	Unvoiced: 35.000	Silence: 5.000	 Count: 6	
+ Energy: -52.866	ZCR: 44.000	 Correl: 0.937	 First:-1.798	 Error:7.134	silence
+Voiced: 63.000	Unvoiced: 39.000	Silence: 5.000	 Count: 7	
+ Energy: -50.930	ZCR: 35.000	 Correl: 0.957	 First:-1.857	 Error:9.070	silence
+Voiced: 66.000	Unvoiced: 39.000	Silence: 5.000	 Count: 8	
+ Energy: -51.358	ZCR: 36.000	 Correl: 0.961	 First:-1.873	 Error:8.642	silence
+Voiced: 78.000	Unvoiced: 38.000	Silence: 6.000	 Count: 9	
+ Energy: -52.878	ZCR: 40.000	 Correl: 0.948	 First:-1.823	 Error:7.122	silence
+Voiced: 64.000	Unvoiced: 40.000	Silence: 6.000	 Count: 10	
+ Energy: -51.415	ZCR: 34.000	 Correl: 0.957	 First:-1.846	 Error:8.585	silence
+Voiced: 56.000	Unvoiced: 40.000	Silence: 5.000	 Count: 11	
+ Energy: -49.711	ZCR: 33.000	 Correl: 0.968	 First:-1.893	 Error:10.289	silence
+Voiced: 57.000	Unvoiced: 40.000	Silence: 5.000	 Count: 12	
+ Energy: -50.019	ZCR: 33.000	 Correl: 0.964	 First:-1.882	 Error:9.981	silence
+Voiced: 82.000	Unvoiced: 34.000	Silence: 4.000	 Count: 13	
+ Energy: -51.298	ZCR: 46.000	 Correl: 0.949	 First:-1.832	 Error:8.702	silence
+Voiced: 98.000	Unvoiced: 33.000	Silence: 5.000	 Count: 14	
+ Energy: -53.804	ZCR: 49.000	 Correl: 0.922	 First:-1.751	 Error:6.196	silence
+Voiced: 103.000	Unvoiced: 30.000	Silence: 5.000	 Count: 15	
+ Energy: -50.822	ZCR: 55.000	 Correl: 0.943	 First:-1.812	 Error:9.178	silence
+Voiced: 61.000	Unvoiced: 37.000	Silence: 54.000	 Count: 15	
+ Energy: -33.873	ZCR: 54.000	 Correl: 0.914	 First:-1.619	 Error:26.127	Unvoiced
+Voiced: 40.000	Unvoiced: 49.000	Silence: 85.000	 Count: 0	
+ Energy: -28.973	ZCR: 47.000	 Correl: 0.926	 First:-1.672	 Error:31.027	Voice
+Voiced: 18.000	Unvoiced: 58.000	Silence: 86.000	 Count: 1	
+ Energy: -28.107	ZCR: 36.000	 Correl: 0.976	 First:-1.887	 Error:31.893	Voice
+Voiced: 3.000	Unvoiced: 68.000	Silence: 101.000	 Count: 2	
+ Energy: -26.137	ZCR: 24.000	 Correl: 0.966	 First:-1.849	 Error:33.863	Voice
+Voiced: 3.000	Unvoiced: 69.000	Silence: 103.000	 Count: 3	
+ Energy: -25.851	ZCR: 24.000	 Correl: 0.973	 First:-1.873	 Error:34.149	Voice
+Voiced: 3.000	Unvoiced: 68.000	Silence: 100.000	 Count: 4	
+ Energy: -26.175	ZCR: 24.000	 Correl: 0.971	 First:-1.860	 Error:33.825	Voice
+Voiced: 3.000	Unvoiced: 69.000	Silence: 104.000	 Count: 5	
+ Energy: -25.745	ZCR: 24.000	 Correl: 0.969	 First:-1.852	 Error:34.255	Voice
+Voiced: 8.000	Unvoiced: 69.000	Silence: 113.000	 Count: 5	
+ Energy: -24.835	ZCR: 29.000	 Correl: 0.961	 First:-1.817	 Error:35.165	Voice
+Voiced: 18.000	Unvoiced: 73.000	Silence: 137.000	 Count: 5	
+ Energy: -22.635	ZCR: 34.000	 Correl: 0.944	 First:-1.701	 Error:37.365	Voice
+Voiced: 46.000	Unvoiced: 85.000	Silence: 194.000	 Count: 5	
+ Energy: -18.567	ZCR: 43.000	 Correl: 0.925	 First:-1.457	 Error:41.433	Voice
+Voiced: 66.000	Unvoiced: 99.000	Silence: 250.000	 Count: 5	
+ Energy: -15.724	ZCR: 45.000	 Correl: 0.920	 First:-1.049	 Error:44.276	Voice
+Voiced: 87.000	Unvoiced: 105.000	Silence: 286.000	 Count: 5	
+ Energy: -15.664	ZCR: 47.000	 Correl: 0.909	 First:-0.436	 Error:44.336	Voice
+Voiced: 141.000	Unvoiced: 132.000	Silence: 354.000	 Count: 5	
+ Energy: -16.045	ZCR: 46.000	 Correl: 0.903	 First:-7.275	 Error:43.955	Voice
+Voiced: 45.000	Unvoiced: 88.000	Silence: 195.000	 Count: 5	
+ Energy: -15.537	ZCR: 45.000	 Correl: 0.901	 First:-3.298	 Error:44.463	Voice
+Voiced: 160.000	Unvoiced: 144.000	Silence: 453.000	 Count: 5	
+ Energy: -14.858	ZCR: 46.000	 Correl: 0.901	 First:1.442	 Error:45.142	Voice
+Voiced: 57.000	Unvoiced: 96.000	Silence: 235.000	 Count: 5	
+ Energy: -14.832	ZCR: 45.000	 Correl: 0.903	 First:-1.662	 Error:45.168	Voice
+Voiced: 51.000	Unvoiced: 92.000	Silence: 215.000	 Count: 5	
+ Energy: -15.553	ZCR: 45.000	 Correl: 0.909	 First:-1.980	 Error:44.447	Voice
+Voiced: 67.000	Unvoiced: 96.000	Silence: 242.000	 Count: 5	
+ Energy: -16.614	ZCR: 46.000	 Correl: 0.920	 First:-0.986	 Error:43.386	Voice
+Voiced: 28.000	Unvoiced: 86.000	Silence: 183.000	 Count: 5	
+ Energy: -19.052	ZCR: 35.000	 Correl: 0.937	 First:-1.487	 Error:40.948	Voice
+Voiced: 9.000	Unvoiced: 58.000	Silence: 79.000	 Count: 5	
+ Energy: -28.910	ZCR: 30.000	 Correl: 0.966	 First:-1.837	 Error:31.090	Voice
+Voiced: 18.000	Unvoiced: 46.000	Silence: 22.000	 Count: 5	
+ Energy: -39.553	ZCR: 24.000	 Correl: 0.985	 First:-1.934	 Error:20.447	Voice
+Voiced: 43.000	Unvoiced: 36.000	Silence: 10.000	 Count: 5	
+ Energy: -43.290	ZCR: 39.000	 Correl: 0.972	 First:-1.884	 Error:16.710	silence
+Voiced: 50.000	Unvoiced: 34.000	Silence: 7.000	 Count: 0	
+ Energy: -44.938	ZCR: 41.000	 Correl: 0.961	 First:-1.836	 Error:15.062	silence
+Voiced: 69.000	Unvoiced: 30.000	Silence: 6.000	 Count: 1	
+ Energy: -45.580	ZCR: 49.000	 Correl: 0.950	 First:-1.766	 Error:14.420	silence
+Voiced: 71.000	Unvoiced: 29.000	Silence: 3.000	 Count: 2	
+ Energy: -47.296	ZCR: 48.000	 Correl: 0.930	 First:-1.683	 Error:12.704	silence
+Voiced: 82.000	Unvoiced: 27.000	Silence: 0.000	 Count: 3	
+ Energy: -49.687	ZCR: 49.000	 Correl: 0.898	 First:-1.494	 Error:10.313	silence
+Voiced: 86.000	Unvoiced: 29.000	Silence: 1.000	 Count: 4	
+ Energy: -51.254	ZCR: 48.000	 Correl: 0.903	 First:-1.586	 Error:8.746	silence
+Voiced: 76.000	Unvoiced: 32.000	Silence: 1.000	 Count: 5	
+ Energy: -50.896	ZCR: 44.000	 Correl: 0.921	 First:-1.665	 Error:9.104	silence
+Voiced: 90.000	Unvoiced: 29.000	Silence: 2.000	 Count: 6	
+ Energy: -50.912	ZCR: 51.000	 Correl: 0.917	 First:-1.697	 Error:9.088	silence
+Voiced: 40.000	Unvoiced: 38.000	Silence: 34.000	 Count: 7	
+ Energy: -36.539	ZCR: 45.000	 Correl: 0.952	 First:-1.829	 Error:23.461	silence
+Voiced: 55.000	Unvoiced: 52.000	Silence: 99.000	 Count: 8	
+ Energy: -27.660	ZCR: 52.000	 Correl: 0.940	 First:-1.739	 Error:32.340	Voice
+Voiced: 28.000	Unvoiced: 70.000	Silence: 140.000	 Count: 8	
+ Energy: -22.475	ZCR: 40.000	 Correl: 0.928	 First:-1.718	 Error:37.525	Voice
+Voiced: 56.000	Unvoiced: 82.000	Silence: 188.000	 Count: 8	
+ Energy: -18.689	ZCR: 48.000	 Correl: 0.941	 First:-1.729	 Error:41.311	Voice
+Voiced: 37.000	Unvoiced: 76.000	Silence: 164.000	 Count: 8	
+ Energy: -20.644	ZCR: 42.000	 Correl: 0.924	 First:-1.625	 Error:39.356	Voice
+Voiced: 70.000	Unvoiced: 53.000	Silence: 103.000	 Count: 8	
+ Energy: -27.458	ZCR: 56.000	 Correl: 0.948	 First:-1.772	 Error:32.542	Voice
+Voiced: 52.000	Unvoiced: 39.000	Silence: 50.000	 Count: 8	
+ Energy: -34.166	ZCR: 51.000	 Correl: 0.942	 First:-1.785	 Error:25.834	Unvoiced
+Voiced: 100.000	Unvoiced: 40.000	Silence: 90.000	 Count: 8	
+ Energy: -30.413	ZCR: 65.000	 Correl: 0.875	 First:-1.466	 Error:29.587	Unvoiced
+Voiced: 86.000	Unvoiced: 68.000	Silence: 174.000	 Count: 8	
+ Energy: -21.435	ZCR: 58.000	 Correl: 0.880	 First:-1.360	 Error:38.565	Voice
+Voiced: 132.000	Unvoiced: 91.000	Silence: 259.000	 Count: 8	
+ Energy: -16.120	ZCR: 65.000	 Correl: 0.888	 First:-1.174	 Error:43.880	Voice
+Voiced: 107.000	Unvoiced: 97.000	Silence: 270.000	 Count: 8	
+ Energy: -15.366	ZCR: 57.000	 Correl: 0.882	 First:-0.957	 Error:44.634	Voice
+Voiced: 182.000	Unvoiced: 121.000	Silence: 398.000	 Count: 8	
+ Energy: -16.117	ZCR: 60.000	 Correl: 0.865	 First:0.928	 Error:43.883	Voice
+Voiced: 71.000	Unvoiced: 82.000	Silence: 192.000	 Count: 8	
+ Energy: -16.288	ZCR: 55.000	 Correl: 0.877	 First:-3.325	 Error:43.712	Voice
+Voiced: 101.000	Unvoiced: 97.000	Silence: 269.000	 Count: 8	
+ Energy: -17.329	ZCR: 53.000	 Correl: 0.911	 First:-0.432	 Error:42.671	Voice
+Voiced: 108.000	Unvoiced: 98.000	Silence: 279.000	 Count: 8	
+ Energy: -18.543	ZCR: 52.000	 Correl: 0.906	 First:0.003	 Error:41.457	Voice
+Voiced: 154.000	Unvoiced: 129.000	Silence: 354.000	 Count: 8	
+ Energy: -19.291	ZCR: 48.000	 Correl: 0.892	 First:-7.477	 Error:40.709	Voice
+Voiced: 48.000	Unvoiced: 77.000	Silence: 179.000	 Count: 8	
+ Energy: -19.052	ZCR: 45.000	 Correl: 0.881	 First:-1.733	 Error:40.948	Voice
+Voiced: 180.000	Unvoiced: 131.000	Silence: 434.000	 Count: 8	
+ Energy: -18.781	ZCR: 50.000	 Correl: 0.881	 First:1.859	 Error:41.219	Voice
+Voiced: 83.000	Unvoiced: 79.000	Silence: 201.000	 Count: 8	
+ Energy: -19.515	ZCR: 55.000	 Correl: 0.904	 First:-1.220	 Error:40.485	Voice
+Voiced: 158.000	Unvoiced: 59.000	Silence: 157.000	 Count: 8	
+ Energy: -24.666	ZCR: 75.000	 Correl: 0.921	 First:-1.526	 Error:35.334	Unvoiced
+Voiced: 165.000	Unvoiced: 27.000	Silence: 63.000	 Count: 8	
+ Energy: -37.136	ZCR: 78.000	 Correl: 0.867	 First:-1.180	 Error:22.864	Unvoiced
+Voiced: 163.000	Unvoiced: 28.000	Silence: 50.000	 Count: 8	
+ Energy: -43.504	ZCR: 76.000	 Correl: 0.807	 First:-3.560	 Error:16.496	Unvoiced
+Voiced: 111.000	Unvoiced: 26.000	Silence: 4.000	 Count: 8	
+ Energy: -50.201	ZCR: 59.000	 Correl: 0.919	 First:-1.681	 Error:9.799	silence
+Voiced: 90.000	Unvoiced: 29.000	Silence: 2.000	 Count: 0	
+ Energy: -50.178	ZCR: 52.000	 Correl: 0.924	 First:-1.682	 Error:9.822	silence
+Voiced: 89.000	Unvoiced: 29.000	Silence: 3.000	 Count: 1	
+ Energy: -49.604	ZCR: 52.000	 Correl: 0.937	 First:-1.731	 Error:10.396	silence
+Voiced: 93.000	Unvoiced: 29.000	Silence: 2.000	 Count: 2	
+ Energy: -50.764	ZCR: 52.000	 Correl: 0.922	 First:-1.651	 Error:9.236	silence
+Voiced: 89.000	Unvoiced: 29.000	Silence: 2.000	 Count: 3	
+ Energy: -50.322	ZCR: 51.000	 Correl: 0.924	 First:-1.665	 Error:9.678	silence
+Voiced: 223.000	Unvoiced: 17.000	Silence: 61.000	 Count: 4	
+ Energy: -36.748	ZCR: 85.000	 Correl: 0.709	 First:-1.779	 Error:23.252	Unvoiced
+Voiced: 230.000	Unvoiced: 23.000	Silence: 75.000	 Count: 4	
+ Energy: -35.608	ZCR: 83.000	 Correl: 0.675	 First:-3.411	 Error:24.392	Unvoiced
+Voiced: 153.000	Unvoiced: 22.000	Silence: 33.000	 Count: 4	
+ Energy: -41.704	ZCR: 75.000	 Correl: 0.884	 First:-1.397	 Error:18.296	Unvoiced
+Voiced: 47.000	Unvoiced: 36.000	Silence: 6.000	 Count: 4	
+ Energy: -45.419	ZCR: 38.000	 Correl: 0.968	 First:-1.888	 Error:14.581	silence
+Voiced: 53.000	Unvoiced: 36.000	Silence: 3.000	 Count: 0	
+ Energy: -47.775	ZCR: 37.000	 Correl: 0.953	 First:-1.817	 Error:12.225	silence
+Voiced: 81.000	Unvoiced: 30.000	Silence: 2.000	 Count: 1	
+ Energy: -49.438	ZCR: 49.000	 Correl: 0.938	 First:-1.736	 Error:10.562	silence
+Voiced: 95.000	Unvoiced: 28.000	Silence: 2.000	 Count: 2	
+ Energy: -51.320	ZCR: 52.000	 Correl: 0.907	 First:-1.627	 Error:8.680	silence
+Voiced: 141.000	Unvoiced: 25.000	Silence: 8.000	 Count: 3	
+ Energy: -50.560	ZCR: 67.000	 Correl: 0.913	 First:-1.676	 Error:9.440	silence
+Voiced: 166.000	Unvoiced: 23.000	Silence: 12.000	 Count: 4	
+ Energy: -50.592	ZCR: 73.000	 Correl: 0.904	 First:-1.621	 Error:9.408	silence
+Voiced: 192.000	Unvoiced: 23.000	Silence: 15.000	 Count: 5	
+ Energy: -53.214	ZCR: 77.000	 Correl: 0.886	 First:-1.552	 Error:6.786	silence
+Voiced: 166.000	Unvoiced: 23.000	Silence: 10.000	 Count: 6	
+ Energy: -53.262	ZCR: 71.000	 Correl: 0.881	 First:-1.501	 Error:6.738	silence
+Voiced: 187.000	Unvoiced: 22.000	Silence: 12.000	 Count: 7	
+ Energy: -54.145	ZCR: 75.000	 Correl: 0.861	 First:-1.425	 Error:5.855	silence
+Voiced: 190.000	Unvoiced: 23.000	Silence: 12.000	 Count: 8	
+ Energy: -56.149	ZCR: 73.000	 Correl: 0.825	 First:-1.320	 Error:3.851	silence
+Voiced: 319.000	Unvoiced: 8.000	Silence: 28.000	 Count: 9	
+ Energy: -50.488	ZCR: 87.000	 Correl: 0.615	 First:-1.594	 Error:9.512	Unvoiced
+Voiced: 506.000	Unvoiced: 127.000	Silence: 461.000	 Count: 9	
+ Energy: -41.748	ZCR: 95.000	 Correl: 0.609	 First:-8.254	 Error:18.252	Unvoiced
+Voiced: 11735.000	Unvoiced: 5694.000	Silence: 22893.000	 Count: 9	
+ Energy: -41.516	ZCR: 125.000	 Correl: 0.684	 First:-48.685	 Error:18.484	Voice
+Voiced: 358.000	Unvoiced: 13.000	Silence: 83.000	 Count: 9	
+ Energy: -38.850	ZCR: 104.000	 Correl: 0.655	 First:-1.343	 Error:21.150	Unvoiced
+Voiced: 167.000	Unvoiced: 53.000	Silence: 126.000	 Count: 9	
+ Energy: -27.479	ZCR: 76.000	 Correl: 0.962	 First:-1.862	 Error:32.521	Unvoiced
+Voiced: 18.000	Unvoiced: 72.000	Silence: 133.000	 Count: 9	
+ Energy: -22.884	ZCR: 35.000	 Correl: 0.949	 First:-1.806	 Error:37.116	Voice
+Voiced: 29.000	Unvoiced: 67.000	Silence: 134.000	 Count: 9	
+ Energy: -23.260	ZCR: 40.000	 Correl: 0.911	 First:-1.619	 Error:36.740	Voice
+Voiced: 118.000	Unvoiced: 74.000	Silence: 221.000	 Count: 9	
+ Energy: -22.805	ZCR: 58.000	 Correl: 0.850	 First:-0.057	 Error:37.195	Voice
+Voiced: 121.000	Unvoiced: 59.000	Silence: 172.000	 Count: 9	
+ Energy: -23.752	ZCR: 64.000	 Correl: 0.818	 First:-0.878	 Error:36.248	Voice
+Voiced: 7854.000	Unvoiced: 3819.000	Silence: 15341.000	 Count: 9	
+ Energy: -26.183	ZCR: 72.000	 Correl: 0.841	 First:-40.814	 Error:33.817	Voice
+Voiced: 248.000	Unvoiced: 40.000	Silence: 135.000	 Count: 9	
+ Energy: -29.406	ZCR: 93.000	 Correl: 0.820	 First:-1.424	 Error:30.594	Unvoiced
+Voiced: 513.000	Unvoiced: 56.000	Silence: 296.000	 Count: 9	
+ Energy: -33.329	ZCR: 114.000	 Correl: 0.674	 First:1.388	 Error:26.671	Unvoiced
+Voiced: 472.000	Unvoiced: 25.000	Silence: 111.000	 Count: 9	
+ Energy: -41.130	ZCR: 122.000	 Correl: 0.649	 First:-3.559	 Error:18.870	Unvoiced
+Voiced: 1717.000	Unvoiced: 778.000	Silence: 2994.000	 Count: 9	
+ Energy: -47.910	ZCR: 102.000	 Correl: 0.663	 First:-18.463	 Error:12.090	Voice
+Voiced: 256.000	Unvoiced: 14.000	Silence: 32.000	 Count: 9	
+ Energy: -51.880	ZCR: 85.000	 Correl: 0.757	 First:-0.355	 Error:8.120	Unvoiced
+Voiced: 157.000	Unvoiced: 25.000	Silence: 10.000	 Count: 0	
+ Energy: -53.120	ZCR: 69.000	 Correl: 0.895	 First:-1.672	 Error:6.880	silence
+Voiced: 109.000	Unvoiced: 30.000	Silence: 5.000	 Count: 1	
+ Energy: -53.635	ZCR: 54.000	 Correl: 0.909	 First:-1.727	 Error:6.365	silence
+Voiced: 113.000	Unvoiced: 29.000	Silence: 6.000	 Count: 2	
+ Energy: -51.274	ZCR: 58.000	 Correl: 0.936	 First:-1.791	 Error:8.726	silence
+Voiced: 123.000	Unvoiced: 27.000	Silence: 5.000	 Count: 3	
+ Energy: -52.677	ZCR: 60.000	 Correl: 0.900	 First:-1.657	 Error:7.323	silence
+Voiced: 153.000	Unvoiced: 24.000	Silence: 7.000	 Count: 4	
+ Energy: -53.955	ZCR: 67.000	 Correl: 0.867	 First:-1.545	 Error:6.045	silence
+Voiced: 130.000	Unvoiced: 25.000	Silence: 5.000	 Count: 5	
+ Energy: -52.070	ZCR: 63.000	 Correl: 0.893	 First:-1.625	 Error:7.930	silence
+Voiced: 136.000	Unvoiced: 25.000	Silence: 7.000	 Count: 6	
+ Energy: -51.686	ZCR: 65.000	 Correl: 0.899	 First:-1.680	 Error:8.314	silence
+Voiced: 136.000	Unvoiced: 25.000	Silence: 7.000	 Count: 7	
+ Energy: -51.586	ZCR: 65.000	 Correl: 0.900	 First:-1.664	 Error:8.414	silence
+Voiced: 152.000	Unvoiced: 26.000	Silence: 11.000	 Count: 8	
+ Energy: -50.847	ZCR: 69.000	 Correl: 0.930	 First:-1.739	 Error:9.153	silence
+Voiced: 152.000	Unvoiced: 25.000	Silence: 10.000	 Count: 9	
+ Energy: -51.197	ZCR: 69.000	 Correl: 0.916	 First:-1.666	 Error:8.803	silence
+Voiced: 190.000	Unvoiced: 20.000	Silence: 18.000	 Count: 10	
+ Energy: -49.261	ZCR: 79.000	 Correl: 0.882	 First:-1.406	 Error:10.739	silence
+Voiced: 252.000	Unvoiced: 15.000	Silence: 36.000	 Count: 11	
+ Energy: -45.522	ZCR: 92.000	 Correl: 0.750	 First:-2.388	 Error:14.478	Unvoiced
+Voiced: 698.000	Unvoiced: 153.000	Silence: 732.000	 Count: 11	
+ Energy: -36.322	ZCR: 103.000	 Correl: 0.688	 First:5.365	 Error:23.678	Voice
+Voiced: 386.000	Unvoiced: 23.000	Silence: 100.000	 Count: 11	
+ Energy: -36.675	ZCR: 114.000	 Correl: 0.728	 First:-2.349	 Error:23.325	Unvoiced
+Voiced: 380.000	Unvoiced: 40.000	Silence: 155.000	 Count: 11	
+ Energy: -29.060	ZCR: 113.000	 Correl: 0.768	 First:-2.199	 Error:30.940	Unvoiced
+Voiced: 351.000	Unvoiced: 44.000	Silence: 156.000	 Count: 11	
+ Energy: -27.369	ZCR: 110.000	 Correl: 0.778	 First:-3.032	 Error:32.631	Unvoiced
+Voiced: 188.000	Unvoiced: 47.000	Silence: 148.000	 Count: 11	
+ Energy: -29.836	ZCR: 79.000	 Correl: 0.860	 First:-0.475	 Error:30.164	Unvoiced
+Voiced: 72.000	Unvoiced: 62.000	Silence: 130.000	 Count: 11	
+ Energy: -24.558	ZCR: 55.000	 Correl: 0.966	 First:-1.817	 Error:35.442	Voice
+Voiced: 19.000	Unvoiced: 85.000	Silence: 169.000	 Count: 11	
+ Energy: -19.552	ZCR: 32.000	 Correl: 0.964	 First:-1.774	 Error:40.448	Voice
+Voiced: 27.000	Unvoiced: 86.000	Silence: 179.000	 Count: 11	
+ Energy: -18.879	ZCR: 36.000	 Correl: 0.952	 First:-1.710	 Error:41.121	Voice
+Voiced: 29.000	Unvoiced: 80.000	Silence: 171.000	 Count: 11	
+ Energy: -19.947	ZCR: 37.000	 Correl: 0.924	 First:-1.565	 Error:40.053	Voice
+Voiced: 29.000	Unvoiced: 79.000	Silence: 169.000	 Count: 11	
+ Energy: -20.296	ZCR: 37.000	 Correl: 0.918	 First:-1.486	 Error:39.704	Voice
+Voiced: 39.000	Unvoiced: 80.000	Silence: 177.000	 Count: 11	
+ Energy: -19.982	ZCR: 41.000	 Correl: 0.918	 First:-1.410	 Error:40.018	Voice
+Voiced: 63.000	Unvoiced: 81.000	Silence: 197.000	 Count: 11	
+ Energy: -19.271	ZCR: 49.000	 Correl: 0.915	 First:-1.275	 Error:40.729	Voice
+Voiced: 84.000	Unvoiced: 81.000	Silence: 206.000	 Count: 11	
+ Energy: -19.232	ZCR: 55.000	 Correl: 0.917	 First:-1.211	 Error:40.768	Voice
+Voiced: 92.000	Unvoiced: 84.000	Silence: 219.000	 Count: 11	
+ Energy: -18.781	ZCR: 56.000	 Correl: 0.914	 First:-1.058	 Error:41.219	Voice
+Voiced: 105.000	Unvoiced: 92.000	Silence: 255.000	 Count: 11	
+ Energy: -17.761	ZCR: 56.000	 Correl: 0.907	 First:-0.623	 Error:42.239	Voice
+Voiced: 139.000	Unvoiced: 101.000	Silence: 301.000	 Count: 11	
+ Energy: -17.236	ZCR: 60.000	 Correl: 0.907	 First:-0.097	 Error:42.764	Voice
+Voiced: 281.000	Unvoiced: 178.000	Silence: 552.000	 Count: 11	
+ Energy: -17.057	ZCR: 60.000	 Correl: 0.906	 First:-9.244	 Error:42.943	Voice
+Voiced: 196.000	Unvoiced: 122.000	Silence: 397.000	 Count: 11	
+ Energy: -16.845	ZCR: 63.000	 Correl: 0.903	 First:0.967	 Error:43.155	Voice
+Voiced: 114.000	Unvoiced: 87.000	Silence: 237.000	 Count: 11	
+ Energy: -17.067	ZCR: 62.000	 Correl: 0.898	 First:-1.293	 Error:42.933	Voice
+Voiced: 138.000	Unvoiced: 91.000	Silence: 265.000	 Count: 11	
+ Energy: -17.776	ZCR: 64.000	 Correl: 0.902	 First:-0.607	 Error:42.224	Voice
+Voiced: 97.000	Unvoiced: 78.000	Silence: 195.000	 Count: 11	
+ Energy: -17.885	ZCR: 62.000	 Correl: 0.902	 First:-2.231	 Error:42.115	Voice
+Voiced: 96.000	Unvoiced: 75.000	Silence: 188.000	 Count: 11	
+ Energy: -18.591	ZCR: 62.000	 Correl: 0.904	 First:-2.159	 Error:41.409	Voice
+Voiced: 80.000	Unvoiced: 70.000	Silence: 158.000	 Count: 11	
+ Energy: -19.995	ZCR: 60.000	 Correl: 0.904	 First:-3.397	 Error:40.005	Voice
+Voiced: 83.000	Unvoiced: 65.000	Silence: 157.000	 Count: 11	
+ Energy: -22.115	ZCR: 59.000	 Correl: 0.904	 First:-1.709	 Error:37.885	Voice
+Voiced: 96.000	Unvoiced: 55.000	Silence: 136.000	 Count: 11	
+ Energy: -26.343	ZCR: 61.000	 Correl: 0.907	 First:-1.085	 Error:33.657	Voice
+Voiced: 120.000	Unvoiced: 38.000	Silence: 78.000	 Count: 11	
+ Energy: -32.574	ZCR: 69.000	 Correl: 0.917	 First:-1.542	 Error:27.426	Unvoiced
+Voiced: 148.000	Unvoiced: 21.000	Silence: 26.000	 Count: 11	
+ Energy: -43.528	ZCR: 73.000	 Correl: 0.877	 First:-1.264	 Error:16.472	Unvoiced
+Voiced: 224.000	Unvoiced: 19.000	Silence: 27.000	 Count: 11	
+ Energy: -48.919	ZCR: 85.000	 Correl: 0.858	 First:-1.018	 Error:11.081	Unvoiced
+Voiced: 235.000	Unvoiced: 16.000	Silence: 23.000	 Count: 0	
+ Energy: -51.072	ZCR: 86.000	 Correl: 0.811	 First:-1.062	 Error:8.928	Unvoiced
+Voiced: 273.000	Unvoiced: 18.000	Silence: 31.000	 Count: 1	
+ Energy: -52.059	ZCR: 92.000	 Correl: 0.826	 First:-0.951	 Error:7.941	Unvoiced
+Voiced: 205.000	Unvoiced: 19.000	Silence: 19.000	 Count: 2	
+ Energy: -51.439	ZCR: 80.000	 Correl: 0.853	 First:-0.976	 Error:8.561	Voiced: 156.000	Unvoiced: 25.000	Silence: 9.000	 Count: 3	
+ Energy: -52.816	ZCR: 69.000	 Correl: 0.898	 First:-1.638	 Error:7.184	silence
+Voiced: 135.000	Unvoiced: 26.000	Silence: 7.000	 Count: 4	
+ Energy: -52.215	ZCR: 64.000	 Correl: 0.915	 First:-1.703	 Error:7.785	silence
+Voiced: 127.000	Unvoiced: 27.000	Silence: 6.000	 Count: 5	
+ Energy: -52.913	ZCR: 61.000	 Correl: 0.911	 First:-1.688	 Error:7.087	silence
+Voiced: 128.000	Unvoiced: 26.000	Silence: 6.000	 Count: 6	
+ Energy: -51.288	ZCR: 63.000	 Correl: 0.916	 First:-1.680	 Error:8.712	silence
+Voiced: 127.000	Unvoiced: 25.000	Silence: 7.000	 Count: 7	
+ Energy: -49.812	ZCR: 64.000	 Correl: 0.920	 First:-1.669	 Error:10.188	silence
+Voiced: 147.000	Unvoiced: 22.000	Silence: 10.000	 Count: 8	
+ Energy: -49.089	ZCR: 70.000	 Correl: 0.894	 First:-1.514	 Error:10.911	silence
+Voiced: 132.000	Unvoiced: 22.000	Silence: 9.000	 Count: 9	
+ Energy: -48.028	ZCR: 67.000	 Correl: 0.894	 First:-1.463	 Error:11.972	silence
+Voiced: 131.000	Unvoiced: 24.000	Silence: 8.000	 Count: 10	
+ Energy: -48.764	ZCR: 66.000	 Correl: 0.912	 First:-1.608	 Error:11.236	silence
+Voiced: 100.000	Unvoiced: 23.000	Silence: 4.000	 Count: 11	
+ Energy: -47.595	ZCR: 58.000	 Correl: 0.882	 First:-1.390	 Error:12.405	silence
+Voiced: 150.000	Unvoiced: 22.000	Silence: 12.000	 Count: 12	
+ Energy: -48.319	ZCR: 71.000	 Correl: 0.903	 First:-1.551	 Error:11.681	silence
+Voiced: 194.000	Unvoiced: 19.000	Silence: 18.000	 Count: 13	
+ Energy: -49.802	ZCR: 79.000	 Correl: 0.858	 First:-1.088	 Error:10.198	silence
+Voiced: 290.000	Unvoiced: 30.000	Silence: 102.000	 Count: 14	
+ Energy: -50.901	ZCR: 85.000	 Correl: 0.827	 First:1.221	 Error:9.099	Unvoiced
+Voiced: 230.000	Unvoiced: 20.000	Silence: 21.000	 Count: 15	
+ Energy: -52.521	ZCR: 85.000	 Correl: 0.852	 First:-1.324	 Error:7.479	Unvoiced
+Voiced: 200.000	Unvoiced: 19.000	Silence: 15.000	 Count: 15	
+ Energy: -52.078	ZCR: 79.000	 Correl: 0.855	 First:-1.187	 Error:7.922	silence
+Voiced: 211.000	Unvoiced: 19.000	Silence: 17.000	 Count: 15	
+ Energy: -52.319	ZCR: 81.000	 Correl: 0.852	 First:-1.177	 Error:7.681	silence
+Voiced: 228.000	Unvoiced: 22.000	Silence: 20.000	 Count: 15	
+ Energy: -53.417	ZCR: 84.000	 Correl: 0.870	 First:-1.498	 Error:6.583	silence
+Voiced: 234.000	Unvoiced: 22.000	Silence: 22.000	 Count: 15	
+ Energy: -53.563	ZCR: 85.000	 Correl: 0.871	 First:-1.471	 Error:6.437	Voiced: 208.000	Unvoiced: 21.000	Silence: 16.000	 Count: 15	
+ Energy: -53.440	ZCR: 80.000	 Correl: 0.858	 First:-1.318	 Error:6.560	silence
+Voiced: 153.000	Unvoiced: 25.000	Silence: 10.000	 Count: 15	
+ Energy: -51.540	ZCR: 69.000	 Correl: 0.914	 First:-1.648	 Error:8.460	silence
+Voiced: 140.000	Unvoiced: 25.000	Silence: 8.000	 Count: 15	
+ Energy: -51.416	ZCR: 66.000	 Correl: 0.914	 First:-1.647	 Error:8.584	silence
+Voiced: 143.000	Unvoiced: 25.000	Silence: 8.000	 Count: 15	
+ Energy: -52.479	ZCR: 66.000	 Correl: 0.905	 First:-1.644	 Error:7.521	silence
+Voiced: 165.000	Unvoiced: 26.000	Silence: 12.000	 Count: 15	
+ Energy: -52.553	ZCR: 71.000	 Correl: 0.918	 First:-1.721	 Error:7.447	silence
+Voiced: 121.000	Unvoiced: 28.000	Silence: 6.000	 Count: 15	
+ Energy: -52.756	ZCR: 59.000	 Correl: 0.920	 First:-1.709	 Error:7.244	silence
+Voiced: 147.000	Unvoiced: 27.000	Silence: 11.000	 Count: 15	
+ Energy: -51.204	ZCR: 67.000	 Correl: 0.940	 First:-1.781	 Error:8.796	silence
+Voiced: 125.000	Unvoiced: 28.000	Silence: 5.000	 Count: 15	
+ Energy: -53.141	ZCR: 60.000	 Correl: 0.906	 First:-1.666	 Error:6.859	silence
+Voiced: 122.000	Unvoiced: 28.000	Silence: 6.000	 Count: 15	
+ Energy: -52.111	ZCR: 60.000	 Correl: 0.923	 First:-1.703	 Error:7.889	silence
+Voiced: 95.000	Unvoiced: 32.000	Silence: 5.000	 Count: 15	
+ Energy: -51.527	ZCR: 51.000	 Correl: 0.952	 First:-1.830	 Error:8.473	silence
+Voiced: 81.000	Unvoiced: 33.000	Silence: 4.000	 Count: 15	
+ Energy: -50.284	ZCR: 47.000	 Correl: 0.956	 First:-1.846	 Error:9.716	silence
+Voiced: 75.000	Unvoiced: 33.000	Silence: 3.000	 Count: 15	
+ Energy: -50.003	ZCR: 45.000	 Correl: 0.952	 First:-1.822	 Error:9.997	silence
+Voiced: 104.000	Unvoiced: 30.000	Silence: 5.000	 Count: 15	
+ Energy: -51.102	ZCR: 55.000	 Correl: 0.942	 First:-1.759	 Error:8.898	silence
+Voiced: 104.000	Unvoiced: 29.000	Silence: 4.000	 Count: 15	
+ Energy: -51.541	ZCR: 55.000	 Correl: 0.932	 First:-1.743	 Error:8.459	silence
+Voiced: 132.000	Unvoiced: 27.000	Silence: 8.000	 Count: 15	
+ Energy: -50.557	ZCR: 64.000	 Correl: 0.937	 First:-1.763	 Error:9.443	silence
+Voiced: 95.000	Unvoiced: 30.000	Silence: 2.000	 Count: 15	
+ Energy: -51.909	ZCR: 51.000	 Correl: 0.916	 First:-1.695	 Error:8.091	silence
+Voiced: 110.000	Unvoiced: 29.000	Silence: 4.000	 Count: 15	
+ Energy: -52.361	ZCR: 56.000	 Correl: 0.916	 First:-1.720	 Error:7.639	silence
+Voiced: 110.000	Unvoiced: 29.000	Silence: 5.000	 Count: 15	
+ Energy: -51.275	ZCR: 57.000	 Correl: 0.933	 First:-1.769	 Error:8.725	silence
+Voiced: 130.000	Unvoiced: 28.000	Silence: 7.000	 Count: 15	
+ Energy: -52.359	ZCR: 62.000	 Correl: 0.924	 First:-1.757	 Error:7.641	silence
+Voiced: 175.000	Unvoiced: 26.000	Silence: 14.000	 Count: 15	
+ Energy: -52.299	ZCR: 73.000	 Correl: 0.925	 First:-1.750	 Error:7.701	silence
+Voiced: 147.000	Unvoiced: 26.000	Silence: 9.000	 Count: 15	
+ Energy: -52.498	ZCR: 67.000	 Correl: 0.907	 First:-1.682	 Error:7.502	silence
+Voiced: 168.000	Unvoiced: 26.000	Silence: 14.000	 Count: 15	
+ Energy: -50.942	ZCR: 72.000	 Correl: 0.939	 First:-1.764	 Error:9.058	silence
+Voiced: 141.000	Unvoiced: 27.000	Silence: 9.000	 Count: 15	
+ Energy: -52.193	ZCR: 65.000	 Correl: 0.928	 First:-1.718	 Error:7.807	silence
+Voiced: 187.000	Unvoiced: 26.000	Silence: 15.000	 Count: 15	
+ Energy: -54.046	ZCR: 75.000	 Correl: 0.901	 First:-1.637	 Error:5.954	silence
+Voiced: 188.000	Unvoiced: 24.000	Silence: 13.000	 Count: 15	
+ Energy: -55.671	ZCR: 74.000	 Correl: 0.855	 First:-1.474	 Error:4.329	silence
+Voiced: 160.000	Unvoiced: 27.000	Silence: 10.000	 Count: 15	
+ Energy: -54.845	ZCR: 68.000	 Correl: 0.890	 First:-1.620	 Error:5.155	silence
+Voiced: 106.000	Unvoiced: 32.000	Silence: 5.000	 Count: 15	
+ Energy: -54.499	ZCR: 51.000	 Correl: 0.905	 First:-1.671	 Error:5.501	silence
+Voiced: 87.000	Unvoiced: 35.000	Silence: 5.000	 Count: 15	
+ Energy: -53.572	ZCR: 44.000	 Correl: 0.929	 First:-1.760	 Error:6.428	silence
+Voiced: 72.000	Unvoiced: 38.000	Silence: 5.000	 Count: 15	
+ Energy: -52.105	ZCR: 38.000	 Correl: 0.945	 First:-1.800	 Error:7.895	silence
+Voiced: 93.000	Unvoiced: 32.000	Silence: 5.000	 Count: 15	
+ Energy: -50.748	ZCR: 51.000	 Correl: 0.958	 First:-1.817	 Error:9.252	silence
+Voiced: 108.000	Unvoiced: 30.000	Silence: 5.000	 Count: 15	
+ Energy: -52.304	ZCR: 55.000	 Correl: 0.939	 First:-1.758	 Error:7.696	silence
+Voiced: 121.000	Unvoiced: 32.000	Silence: 9.000	 Count: 15	
+ Energy: -54.868	ZCR: 56.000	 Correl: 0.929	 First:-1.770	 Error:5.132	silence
+Voiced: 104.000	Unvoiced: 32.000	Silence: 6.000	 Count: 15	
+ Energy: -53.187	ZCR: 52.000	 Correl: 0.940	 First:-1.793	 Error:6.813	silence
+Voiced: 108.000	Unvoiced: 33.000	Silence: 7.000	 Count: 15	
+ Energy: -54.876	ZCR: 51.000	 Correl: 0.918	 First:-1.726	 Error:5.124	silence
+Voiced: 108.000	Unvoiced: 32.000	Silence: 5.000	 Count: 15	
+ Energy: -54.352	ZCR: 52.000	 Correl: 0.914	 First:-1.691	 Error:5.648	silence
+Voiced: 90.000	Unvoiced: 34.000	Silence: 4.000	 Count: 15	
+ Energy: -53.321	ZCR: 46.000	 Correl: 0.929	 First:-1.737	 Error:6.679	silence
+Voiced: 102.000	Unvoiced: 33.000	Silence: 5.000	 Count: 15	
+ Energy: -53.370	ZCR: 51.000	 Correl: 0.934	 First:-1.762	 Error:6.630	silence
+Voiced: 126.000	Unvoiced: 31.000	Silence: 8.000	 Count: 15	
+ Energy: -54.495	ZCR: 58.000	 Correl: 0.925	 First:-1.742	 Error:5.505	silence
+Voiced: 145.000	Unvoiced: 28.000	Silence: 9.000	 Count: 15	
+ Energy: -54.496	ZCR: 64.000	 Correl: 0.910	 First:-1.680	 Error:5.504	silence
+Voiced: 140.000	Unvoiced: 29.000	Silence: 9.000	 Count: 15	
+ Energy: -52.501	ZCR: 64.000	 Correl: 0.939	 First:-1.765	 Error:7.499	silence
+Voiced: 130.000	Unvoiced: 29.000	Silence: 8.000	 Count: 15	
+ Energy: -53.127	ZCR: 61.000	 Correl: 0.929	 First:-1.764	 Error:6.873	silence
+Voiced: 62.000	Unvoiced: 34.000	Silence: 18.000	 Count: 15	
+ Energy: -41.169	ZCR: 49.000	 Correl: 0.978	 First:-1.928	 Error:18.831	silence
+Voiced: 36.000	Unvoiced: 43.000	Silence: 45.000	 Count: 15	
+ Energy: -34.490	ZCR: 43.000	 Correl: 0.980	 First:-1.923	 Error:25.510	Voice
+Voiced: 9.000	Unvoiced: 56.000	Silence: 71.000	 Count: 0	
+ Energy: -29.980	ZCR: 30.000	 Correl: 0.972	 First:-1.887	 Error:30.020	Voice
+Voiced: 15.000	Unvoiced: 66.000	Silence: 109.000	 Count: 1	
+ Energy: -25.395	ZCR: 34.000	 Correl: 0.968	 First:-1.836	 Error:34.605	Voice
+Voiced: 18.000	Unvoiced: 83.000	Silence: 164.000	 Count: 2	
+ Energy: -20.059	ZCR: 32.000	 Correl: 0.958	 First:-1.743	 Error:39.941	Voice
+Voiced: 37.000	Unvoiced: 93.000	Silence: 206.000	 Count: 3	
+ Energy: -16.914	ZCR: 38.000	 Correl: 0.955	 First:-1.654	 Error:43.086	Voice
+Voiced: 44.000	Unvoiced: 92.000	Silence: 210.000	 Count: 4	
+ Energy: -16.914	ZCR: 41.000	 Correl: 0.946	 First:-1.591	 Error:43.086	Voice
+Voiced: 38.000	Unvoiced: 80.000	Silence: 179.000	 Count: 5	
+ Energy: -19.638	ZCR: 41.000	 Correl: 0.919	 First:-1.481	 Error:40.362	Voice
+Voiced: 50.000	Unvoiced: 77.000	Silence: 180.000	 Count: 5	
+ Energy: -20.172	ZCR: 45.000	 Correl: 0.903	 First:-1.326	 Error:39.828	Voice
+Voiced: 57.000	Unvoiced: 74.000	Silence: 176.000	 Count: 5	
+ Energy: -20.837	ZCR: 48.000	 Correl: 0.902	 First:-1.279	 Error:39.163	Voice
+Voiced: 60.000	Unvoiced: 74.000	Silence: 180.000	 Count: 5	
+ Energy: -21.003	ZCR: 48.000	 Correl: 0.894	 First:-1.119	 Error:38.997	Voice
+Voiced: 53.000	Unvoiced: 75.000	Silence: 176.000	 Count: 5	
+ Energy: -21.157	ZCR: 46.000	 Correl: 0.904	 First:-1.155	 Error:38.843	Voice
+Voiced: 45.000	Unvoiced: 76.000	Silence: 174.000	 Count: 5	
+ Energy: -21.027	ZCR: 43.000	 Correl: 0.915	 First:-1.198	 Error:38.973	Voice
+Voiced: 60.000	Unvoiced: 78.000	Silence: 186.000	 Count: 5	
+ Energy: -20.515	ZCR: 48.000	 Correl: 0.921	 First:-1.146	 Error:39.485	Voice
+Voiced: 66.000	Unvoiced: 81.000	Silence: 201.000	 Count: 5	
+ Energy: -20.045	ZCR: 48.000	 Correl: 0.919	 First:-0.935	 Error:39.955	Voice
+Voiced: 79.000	Unvoiced: 86.000	Silence: 223.000	 Count: 5	
+ Energy: -19.507	ZCR: 50.000	 Correl: 0.919	 First:-0.666	 Error:40.493	Voice
+Voiced: 71.000	Unvoiced: 87.000	Silence: 224.000	 Count: 5	
+ Energy: -19.388	ZCR: 47.000	 Correl: 0.920	 First:-0.639	 Error:40.612	Voice
+Voiced: 108.000	Unvoiced: 98.000	Silence: 280.000	 Count: 5	
+ Energy: -18.993	ZCR: 51.000	 Correl: 0.916	 First:0.121	 Error:41.007	Voice
+Voiced: 1914.000	Unvoiced: 974.000	Silence: 3741.000	 Count: 5	
+ Energy: -18.186	ZCR: 50.000	 Correl: 0.911	 First:-21.609	 Error:41.814	Voice
+Voiced: 61.000	Unvoiced: 85.000	Silence: 206.000	 Count: 5	
+ Energy: -17.402	ZCR: 49.000	 Correl: 0.909	 First:-1.638	 Error:42.598	Voice
+Voiced: 99.000	Unvoiced: 105.000	Silence: 297.000	 Count: 5	
+ Energy: -16.957	ZCR: 48.000	 Correl: 0.909	 First:-0.004	 Error:43.043	Voice
+Voiced: 125.000	Unvoiced: 120.000	Silence: 360.000	 Count: 5	
+ Energy: -16.602	ZCR: 47.000	 Correl: 0.909	 First:0.741	 Error:43.398	Voice
+Voiced: 115.000	Unvoiced: 114.000	Silence: 333.000	 Count: 5	
+ Energy: -16.465	ZCR: 48.000	 Correl: 0.908	 First:0.385	 Error:43.535	Voice
+Voiced: 54.000	Unvoiced: 85.000	Silence: 199.000	 Count: 5	
+ Energy: -16.842	ZCR: 48.000	 Correl: 0.911	 First:-2.078	 Error:43.158	Voice
+Voiced: 2129.000	Unvoiced: 1077.000	Silence: 4156.000	 Count: 5	
+ Energy: -17.891	ZCR: 50.000	 Correl: 0.914	 First:-22.659	 Error:42.109	Voice
+Voiced: 111.000	Unvoiced: 101.000	Silence: 292.000	 Count: 5	
+ Energy: -19.082	ZCR: 50.000	 Correl: 0.913	 First:0.321	 Error:40.918	Voice
+Voiced: 85.000	Unvoiced: 84.000	Silence: 224.000	 Count: 5	
+ Energy: -20.312	ZCR: 51.000	 Correl: 0.913	 First:-0.482	 Error:39.688	Voice
+Voiced: 73.000	Unvoiced: 75.000	Silence: 188.000	 Count: 5	
+ Energy: -21.697	ZCR: 51.000	 Correl: 0.913	 First:-0.836	 Error:38.303	Voice
+Voiced: 64.000	Unvoiced: 63.000	Silence: 144.000	 Count: 5	
+ Energy: -24.222	ZCR: 52.000	 Correl: 0.921	 First:-1.257	 Error:35.778	Voice
+Voiced: 48.000	Unvoiced: 59.000	Silence: 121.000	 Count: 5	
+ Energy: -25.740	ZCR: 48.000	 Correl: 0.933	 First:-1.423	 Error:34.260	Voice
+Voiced: 57.000	Unvoiced: 51.000	Silence: 96.000	 Count: 5	
+ Energy: -28.459	ZCR: 52.000	 Correl: 0.933	 First:-1.524	 Error:31.541	Voice
+Voiced: 76.000	Unvoiced: 40.000	Silence: 66.000	 Count: 5	
+ Energy: -32.609	ZCR: 58.000	 Correl: 0.940	 First:-1.677	 Error:27.391	Unvoiced
+Voiced: 125.000	Unvoiced: 26.000	Silence: 32.000	 Count: 5	
+ Energy: -40.537	ZCR: 69.000	 Correl: 0.919	 First:-1.634	 Error:19.463	Unvoiced
+Voiced: 138.000	Unvoiced: 20.000	Silence: 15.000	 Count: 5	
+ Energy: -46.379	ZCR: 69.000	 Correl: 0.868	 First:-1.166	 Error:13.621	silence
+Voiced: 127.000	Unvoiced: 21.000	Silence: 9.000	 Count: 0	
+ Energy: -47.892	ZCR: 65.000	 Correl: 0.876	 First:-1.174	 Error:12.108	silence
+Voiced: 102.000	Unvoiced: 24.000	Silence: 8.000	 Count: 1	
+ Energy: -46.286	ZCR: 60.000	 Correl: 0.906	 First:-1.450	 Error:13.714	silence
+Voiced: 98.000	Unvoiced: 25.000	Silence: 10.000	 Count: 2	
+ Energy: -45.453	ZCR: 59.000	 Correl: 0.925	 First:-1.492	 Error:14.547	silence
+Voiced: 92.000	Unvoiced: 26.000	Silence: 10.000	 Count: 3	
+ Energy: -45.367	ZCR: 57.000	 Correl: 0.930	 First:-1.456	 Error:14.633	silence
+Voiced: 78.000	Unvoiced: 27.000	Silence: 8.000	 Count: 4	
+ Energy: -45.050	ZCR: 53.000	 Correl: 0.928	 First:-1.489	 Error:14.950	silence
+Voiced: 84.000	Unvoiced: 27.000	Silence: 8.000	 Count: 5	
+ Energy: -46.206	ZCR: 53.000	 Correl: 0.921	 First:-1.177	 Error:13.794	silence
+Voiced: 82.000	Unvoiced: 27.000	Silence: 4.000	 Count: 6	
+ Energy: -47.566	ZCR: 51.000	 Correl: 0.924	 First:-1.290	 Error:12.434	silence
+Voiced: 89.000	Unvoiced: 27.000	Silence: 4.000	 Count: 7	
+ Energy: -47.588	ZCR: 54.000	 Correl: 0.932	 First:-1.467	 Error:12.412	silence
+Voiced: 97.000	Unvoiced: 27.000	Silence: 5.000	 Count: 8	
+ Energy: -48.389	ZCR: 56.000	 Correl: 0.937	 First:-1.585	 Error:11.611	silence
+Voiced: 109.000	Unvoiced: 27.000	Silence: 4.000	 Count: 9	
+ Energy: -50.069	ZCR: 58.000	 Correl: 0.933	 First:-1.587	 Error:9.931	silence
+Voiced: 145.000	Unvoiced: 26.000	Silence: 8.000	 Count: 10	
+ Energy: -52.716	ZCR: 66.000	 Correl: 0.914	 First:-1.626	 Error:7.284	silence
+Voiced: 189.000	Unvoiced: 27.000	Silence: 16.000	 Count: 11	
+ Energy: -55.711	ZCR: 74.000	 Correl: 0.897	 First:-1.634	 Error:4.289	silence
+Voiced: 236.000	Unvoiced: 27.000	Silence: 24.000	 Count: 12	
+ Energy: -56.774	ZCR: 83.000	 Correl: 0.878	 First:-1.570	 Error:3.226	silence
+Voiced: 281.000	Unvoiced: 25.000	Silence: 31.000	 Count: 13	
+ Energy: -57.567	ZCR: 91.000	 Correl: 0.835	 First:-1.463	 Error:2.433	Unvoiced
+Voiced: 249.000	Unvoiced: 26.000	Silence: 26.000	 Count: 14	
+ Energy: -58.671	ZCR: 84.000	 Correl: 0.829	 First:-1.470	 Error:1.329	Voiced: 201.000	Unvoiced: 26.000	Silence: 17.000	 Count: 15	
+ Energy: -57.411	ZCR: 75.000	 Correl: 0.852	 First:-1.495	 Error:2.589	silence
+Voiced: 183.000	Unvoiced: 30.000	Silence: 18.000	 Count: 15	
+ Energy: -58.148	ZCR: 70.000	 Correl: 0.868	 First:-1.615	 Error:1.852	silence
+Voiced: 188.000	Unvoiced: 29.000	Silence: 18.000	 Count: 15	
+ Energy: -58.341	ZCR: 71.000	 Correl: 0.861	 First:-1.582	 Error:1.659	silence
+Voiced: 224.000	Unvoiced: 28.000	Silence: 23.000	 Count: 15	
+ Energy: -58.597	ZCR: 79.000	 Correl: 0.846	 First:-1.576	 Error:1.403	silence
+Voiced: 163.000	Unvoiced: 32.000	Silence: 16.000	 Count: 15	
+ Energy: -57.877	ZCR: 65.000	 Correl: 0.888	 First:-1.691	 Error:2.123	silence
+Voiced: 113.000	Unvoiced: 34.000	Silence: 9.000	 Count: 15	
+ Energy: -53.423	ZCR: 54.000	 Correl: 0.959	 First:-1.884	 Error:6.577	silence
+Voiced: 89.000	Unvoiced: 34.000	Silence: 6.000	 Count: 15	
+ Energy: -51.227	ZCR: 48.000	 Correl: 0.967	 First:-1.907	 Error:8.773	silence
+Voiced: 84.000	Unvoiced: 36.000	Silence: 6.000	 Count: 15	
+ Energy: -52.728	ZCR: 44.000	 Correl: 0.951	 First:-1.851	 Error:7.272	silence
+Voiced: 105.000	Unvoiced: 33.000	Silence: 7.000	 Count: 15	
+ Energy: -53.125	ZCR: 52.000	 Correl: 0.951	 First:-1.836	 Error:6.875	silence
+Voiced: 95.000	Unvoiced: 35.000	Silence: 7.000	 Count: 15	
+ Energy: -53.081	ZCR: 48.000	 Correl: 0.955	 First:-1.860	 Error:6.919	silence
+Voiced: 117.000	Unvoiced: 33.000	Silence: 8.000	 Count: 15	
+ Energy: -54.347	ZCR: 55.000	 Correl: 0.939	 First:-1.817	 Error:5.653	silence
+Voiced: 135.000	Unvoiced: 33.000	Silence: 12.000	 Count: 15	
+ Energy: -55.742	ZCR: 59.000	 Correl: 0.930	 First:-1.791	 Error:4.258	silence
+Voiced: 154.000	Unvoiced: 32.000	Silence: 14.000	 Count: 15	
+ Energy: -56.409	ZCR: 64.000	 Correl: 0.918	 First:-1.760	 Error:3.591	silence
+Voiced: 175.000	Unvoiced: 29.000	Silence: 16.000	 Count: 15	
+ Energy: -54.176	ZCR: 71.000	 Correl: 0.935	 First:-1.806	 Error:5.824	silence
+Voiced: 192.000	Unvoiced: 27.000	Silence: 17.000	 Count: 15	
+ Energy: -55.334	ZCR: 75.000	 Correl: 0.898	 First:-1.704	 Error:4.666	silence
+Voiced: 218.000	Unvoiced: 26.000	Silence: 21.000	 Count: 15	
+ Energy: -54.050	ZCR: 81.000	 Correl: 0.908	 First:-1.695	 Error:5.950	silence
+Voiced: 241.000	Unvoiced: 26.000	Silence: 25.000	 Count: 15	
+ Energy: -54.413	ZCR: 85.000	 Correl: 0.903	 First:-1.664	 Error:5.587	silence
+Voiced: 322.000	Unvoiced: 22.000	Silence: 39.000	 Count: 15	
+ Energy: -56.712	ZCR: 98.000	 Correl: 0.760	 First:-1.900	 Error:3.288	Unvoiced
+Voiced: 1088.000	Unvoiced: 496.000	Silence: 1841.000	 Count: 0	
+ Energy: -56.279	ZCR: 93.000	 Correl: 0.741	 First:-14.352	 Error:3.721	Voice
+Voiced: 332.000	Unvoiced: 24.000	Silence: 68.000	 Count: 0	
+ Energy: -54.435	ZCR: 95.000	 Correl: 0.818	 First:0.440	 Error:5.565	Unvoiced
+Voiced: 270.000	Unvoiced: 20.000	Silence: 27.000	 Count: 0	
+ Energy: -54.871	ZCR: 91.000	 Correl: 0.803	 First:-1.673	 Error:5.129	Unvoiced
+Voiced: 813.000	Unvoiced: 207.000	Silence: 912.000	 Count: 0	
+ Energy: -56.069	ZCR: 87.000	 Correl: 0.773	 First:7.899	 Error:3.931	Voice
+Voiced: 267.000	Unvoiced: 23.000	Silence: 28.000	 Count: 0	
+ Energy: -55.075	ZCR: 90.000	 Correl: 0.859	 First:-1.462	 Error:4.925	Unvoiced
+Voiced: 154.000	Unvoiced: 25.000	Silence: 7.000	 Count: 0	
+ Energy: -55.723	ZCR: 64.000	 Correl: 0.841	 First:-1.362	 Error:4.277	silence
+Voiced: 133.000	Unvoiced: 28.000	Silence: 8.000	 Count: 0	
+ Energy: -53.436	ZCR: 62.000	 Correl: 0.914	 First:-1.735	 Error:6.564	silence
+Voiced: 76.000	Unvoiced: 33.000	Silence: 3.000	 Count: 0	
+ Energy: -51.087	ZCR: 44.000	 Correl: 0.935	 First:-1.785	 Error:8.913	silence
+Voiced: 93.000	Unvoiced: 31.000	Silence: 4.000	 Count: 0	
+ Energy: -50.302	ZCR: 52.000	 Correl: 0.951	 First:-1.837	 Error:9.698	silence
+Voiced: 116.000	Unvoiced: 29.000	Silence: 6.000	 Count: 0	
+ Energy: -52.120	ZCR: 58.000	 Correl: 0.936	 First:-1.782	 Error:7.880	silence
+Voiced: 110.000	Unvoiced: 30.000	Silence: 6.000	 Count: 0	
+ Energy: -52.033	ZCR: 56.000	 Correl: 0.942	 First:-1.819	 Error:7.967	silence
+Voiced: 87.000	Unvoiced: 33.000	Silence: 5.000	 Count: 0	
+ Energy: -50.649	ZCR: 49.000	 Correl: 0.958	 First:-1.883	 Error:9.351	silence
+Voiced: 81.000	Unvoiced: 37.000	Silence: 6.000	 Count: 0	
+ Energy: -52.838	ZCR: 42.000	 Correl: 0.945	 First:-1.849	 Error:7.162	silence
+Voiced: 101.000	Unvoiced: 37.000	Silence: 9.000	 Count: 0	
+ Energy: -55.617	ZCR: 46.000	 Correl: 0.920	 First:-1.769	 Error:4.383	silence
+Voiced: 148.000	Unvoiced: 30.000	Silence: 12.000	 Count: 0	
+ Energy: -53.419	ZCR: 65.000	 Correl: 0.943	 First:-1.835	 Error:6.581	silence
+Voiced: 130.000	Unvoiced: 30.000	Silence: 9.000	 Count: 0	
+ Energy: -53.931	ZCR: 60.000	 Correl: 0.929	 First:-1.788	 Error:6.069	silence
+Voiced: 149.000	Unvoiced: 30.000	Silence: 12.000	 Count: 0	
+ Energy: -55.544	ZCR: 64.000	 Correl: 0.911	 First:-1.738	 Error:4.456	silence
+Voiced: 152.000	Unvoiced: 27.000	Silence: 10.000	 Count: 0	
+ Energy: -54.821	ZCR: 66.000	 Correl: 0.894	 First:-1.682	 Error:5.179	silence
+Voiced: 149.000	Unvoiced: 25.000	Silence: 8.000	 Count: 0	
+ Energy: -54.700	ZCR: 65.000	 Correl: 0.865	 First:-1.578	 Error:5.300	silence
+Voiced: 124.000	Unvoiced: 28.000	Silence: 7.000	 Count: 0	
+ Energy: -51.904	ZCR: 61.000	 Correl: 0.922	 First:-1.790	 Error:8.096	silence
+Voiced: 116.000	Unvoiced: 29.000	Silence: 7.000	 Count: 0	
+ Energy: -50.665	ZCR: 59.000	 Correl: 0.950	 First:-1.870	 Error:9.335	silence
+Voiced: 157.000	Unvoiced: 27.000	Silence: 11.000	 Count: 0	
+ Energy: -53.982	ZCR: 68.000	 Correl: 0.903	 First:-1.707	 Error:6.018	silence
+Voiced: 176.000	Unvoiced: 27.000	Silence: 14.000	 Count: 0	
+ Energy: -56.761	ZCR: 70.000	 Correl: 0.865	 First:-1.637	 Error:3.239	silence
+Voiced: 102.000	Unvoiced: 32.000	Silence: 6.000	 Count: 0	
+ Energy: -52.969	ZCR: 52.000	 Correl: 0.937	 First:-1.830	 Error:7.031	silence
+Voiced: 68.000	Unvoiced: 36.000	Silence: 4.000	 Count: 0	
+ Energy: -49.749	ZCR: 41.000	 Correl: 0.966	 First:-1.912	 Error:10.251	silence
+Voiced: 71.000	Unvoiced: 36.000	Silence: 4.000	 Count: 0	
+ Energy: -50.810	ZCR: 41.000	 Correl: 0.953	 First:-1.879	 Error:9.190	silence
+Voiced: 126.000	Unvoiced: 30.000	Silence: 8.000	 Count: 0	
+ Energy: -54.009	ZCR: 59.000	 Correl: 0.924	 First:-1.801	 Error:5.991	silence
+Voiced: 249.000	Unvoiced: 26.000	Silence: 27.000	 Count: 0	
+ Energy: -56.205	ZCR: 86.000	 Correl: 0.876	 First:-1.716	 Error:3.795	Unvoiced
+Voiced: 317.000	Unvoiced: 24.000	Silence: 38.000	 Count: 0	
+ Energy: -56.089	ZCR: 98.000	 Correl: 0.838	 First:-1.629	 Error:3.911	Unvoiced
+Voiced: 271.000	Unvoiced: 22.000	Silence: 29.000	 Count: 0	
+ Energy: -55.644	ZCR: 91.000	 Correl: 0.822	 First:-1.691	 Error:4.356	Unvoiced
+Voiced: 202.000	Unvoiced: 25.000	Silence: 18.000	 Count: 0	
+ Energy: -53.428	ZCR: 79.000	 Correl: 0.892	 First:-1.776	 Error:6.572	silence
+Voiced: 193.000	Unvoiced: 25.000	Silence: 17.000	 Count: 0	
+ Energy: -53.280	ZCR: 77.000	 Correl: 0.901	 First:-1.757	 Error:6.720	silence
+Voiced: 172.000	Unvoiced: 26.000	Silence: 18.000	 Count: 0	
+ Energy: -48.714	ZCR: 74.000	 Correl: 0.945	 First:-1.826	 Error:11.286	silence
+Voiced: 78.000	Unvoiced: 51.000	Silence: 94.000	 Count: 0	
+ Energy: -28.749	ZCR: 57.000	 Correl: 0.975	 First:-1.873	 Error:31.251	Voice
+Voiced: 48.000	Unvoiced: 92.000	Silence: 207.000	 Count: 0	
+ Energy: -16.901	ZCR: 43.000	 Correl: 0.959	 First:-1.751	 Error:43.099	Voice
+Voiced: 67.000	Unvoiced: 113.000	Silence: 281.000	 Count: 1	
+ Energy: -12.367	ZCR: 44.000	 Correl: 0.936	 First:-1.410	 Error:47.633	Voice
+Voiced: 102.000	Unvoiced: 125.000	Silence: 343.000	 Count: 2	
+ Energy: -11.579	ZCR: 48.000	 Correl: 0.922	 First:-0.571	 Error:48.421	Voice
+Voiced: 124.000	Unvoiced: 128.000	Silence: 371.000	 Count: 3	
+ Energy: -12.649	ZCR: 50.000	 Correl: 0.913	 First:0.058	 Error:47.351	Voice
+Voiced: 92.000	Unvoiced: 106.000	Silence: 256.000	 Count: 4	
+ Energy: -13.005	ZCR: 53.000	 Correl: 0.912	 First:-5.165	 Error:46.995	Voice
+Voiced: 86.000	Unvoiced: 99.000	Silence: 245.000	 Count: 5	
+ Energy: -12.581	ZCR: 56.000	 Correl: 0.913	 First:-2.769	 Error:47.419	Voice
+Voiced: 96.000	Unvoiced: 102.000	Silence: 257.000	 Count: 5	
+ Energy: -12.205	ZCR: 58.000	 Correl: 0.915	 First:-2.504	 Error:47.795	Voice
+Voiced: 456.000	Unvoiced: 274.000	Silence: 1014.000	 Count: 5	
+ Energy: -12.078	ZCR: 57.000	 Correl: 0.913	 First:4.869	 Error:47.922	Voice
+Voiced: 1144.000	Unvoiced: 597.000	Silence: 2390.000	 Count: 5	
+ Energy: -12.478	ZCR: 57.000	 Correl: 0.908	 First:10.617	 Error:47.522	Voice
+Voiced: 85.000	Unvoiced: 97.000	Silence: 241.000	 Count: 5	
+ Energy: -13.077	ZCR: 56.000	 Correl: 0.903	 First:-2.578	 Error:46.923	Voice
+Voiced: 588.000	Unvoiced: 335.000	Silence: 1159.000	 Count: 5	
+ Energy: -13.709	ZCR: 57.000	 Correl: 0.900	 First:-12.948	 Error:46.291	Voice
+Voiced: 128.000	Unvoiced: 113.000	Silence: 332.000	 Count: 5	
+ Energy: -14.805	ZCR: 55.000	 Correl: 0.898	 First:-0.072	 Error:45.195	Voice
+Voiced: 202.000	Unvoiced: 144.000	Silence: 479.000	 Count: 5	
+ Energy: -16.321	ZCR: 54.000	 Correl: 0.900	 First:1.823	 Error:43.679	Voice
+Voiced: 135.000	Unvoiced: 106.000	Silence: 322.000	 Count: 5	
+ Energy: -19.210	ZCR: 53.000	 Correl: 0.910	 First:0.678	 Error:40.790	Voice
+Voiced: 950.000	Unvoiced: 471.000	Silence: 1898.000	 Count: 5	
+ Energy: -21.776	ZCR: 54.000	 Correl: 0.917	 First:9.811	 Error:38.224	Voice
+Voiced: 86.000	Unvoiced: 72.000	Silence: 185.000	 Count: 5	
+ Energy: -23.142	ZCR: 54.000	 Correl: 0.921	 First:-0.613	 Error:36.858	Voice
+Voiced: 68.000	Unvoiced: 61.000	Silence: 139.000	 Count: 5	
+ Energy: -25.177	ZCR: 53.000	 Correl: 0.920	 First:-1.149	 Error:34.823	Voice
+Voiced: 58.000	Unvoiced: 57.000	Silence: 120.000	 Count: 5	
+ Energy: -26.346	ZCR: 51.000	 Correl: 0.924	 First:-1.303	 Error:33.654	Voice
+Voiced: 59.000	Unvoiced: 66.000	Silence: 150.000	 Count: 5	
+ Energy: -24.180	ZCR: 49.000	 Correl: 0.925	 First:-1.036	 Error:35.820	Voice
+Voiced: 44.000	Unvoiced: 66.000	Silence: 138.000	 Count: 5	
+ Energy: -24.220	ZCR: 45.000	 Correl: 0.932	 First:-1.292	 Error:35.780	Voice
+Voiced: 32.000	Unvoiced: 66.000	Silence: 128.000	 Count: 5	
+ Energy: -24.484	ZCR: 41.000	 Correl: 0.943	 First:-1.473	 Error:35.516	Voice
+Voiced: 17.000	Unvoiced: 64.000	Silence: 110.000	 Count: 5	
+ Energy: -25.741	ZCR: 35.000	 Correl: 0.952	 First:-1.629	 Error:34.259	Voice
+Voiced: 7.000	Unvoiced: 55.000	Silence: 64.000	 Count: 5	
+ Energy: -31.026	ZCR: 28.000	 Correl: 0.966	 First:-1.816	 Error:28.974	Voice
+Voiced: 17.000	Unvoiced: 46.000	Silence: 24.000	 Count: 5	
+ Energy: -38.985	ZCR: 25.000	 Correl: 0.988	 First:-1.953	 Error:21.015	Voice
+Voiced: 48.000	Unvoiced: 36.000	Silence: 8.000	 Count: 5	
+ Energy: -44.721	ZCR: 39.000	 Correl: 0.979	 First:-1.929	 Error:15.279	silence
+Voiced: 120.000	Unvoiced: 27.000	Silence: 6.000	 Count: 0	
+ Energy: -50.867	ZCR: 61.000	 Correl: 0.924	 First:-1.730	 Error:9.133	silence
+Voiced: 178.000	Unvoiced: 23.000	Silence: 13.000	 Count: 1	
+ Energy: -51.659	ZCR: 75.000	 Correl: 0.898	 First:-1.570	 Error:8.341	silence
+Voiced: 145.000	Unvoiced: 25.000	Silence: 8.000	 Count: 2	
+ Energy: -51.972	ZCR: 67.000	 Correl: 0.908	 First:-1.685	 Error:8.028	silence
+Voiced: 121.000	Unvoiced: 28.000	Silence: 6.000	 Count: 3	
+ Energy: -52.013	ZCR: 60.000	 Correl: 0.926	 First:-1.761	 Error:7.987	silence
+Voiced: 98.000	Unvoiced: 29.000	Silence: 2.000	 Count: 4	
+ Energy: -52.513	ZCR: 51.000	 Correl: 0.897	 First:-1.572	 Error:7.487	silence
+Voiced: 130.000	Unvoiced: 27.000	Silence: 7.000	 Count: 5	
+ Energy: -51.517	ZCR: 63.000	 Correl: 0.927	 First:-1.744	 Error:8.483	silence
+Voiced: 114.000	Unvoiced: 28.000	Silence: 3.000	 Count: 6	
+ Energy: -52.557	ZCR: 57.000	 Correl: 0.908	 First:-1.557	 Error:7.443	silence
+Voiced: 127.000	Unvoiced: 27.000	Silence: 7.000	 Count: 7	
+ Energy: -50.428	ZCR: 63.000	 Correl: 0.934	 First:-1.737	 Error:9.572	silence
+Voiced: 125.000	Unvoiced: 28.000	Silence: 6.000	 Count: 8	
+ Energy: -51.931	ZCR: 61.000	 Correl: 0.925	 First:-1.738	 Error:8.069	silence
+Voiced: 124.000	Unvoiced: 26.000	Silence: 5.000	 Count: 9	
+ Energy: -51.250	ZCR: 62.000	 Correl: 0.912	 First:-1.671	 Error:8.750	silence
+Voiced: 112.000	Unvoiced: 27.000	Silence: 5.000	 Count: 10	
+ Energy: -50.465	ZCR: 59.000	 Correl: 0.923	 First:-1.706	 Error:9.535	silence
+Voiced: 84.000	Unvoiced: 30.000	Silence: 3.000	 Count: 11	
+ Energy: -49.712	ZCR: 50.000	 Correl: 0.938	 First:-1.780	 Error:10.288	silence
+Voiced: 91.000	Unvoiced: 44.000	Silence: 104.000	 Count: 12	
+ Energy: -28.507	ZCR: 62.000	 Correl: 0.862	 First:-1.407	 Error:31.493	Voice
+Voiced: 165.000	Unvoiced: 97.000	Silence: 319.000	 Count: 12	
+ Energy: -17.002	ZCR: 61.000	 Correl: 0.793	 First:0.171	 Error:42.998	Voice
+Voiced: 160.000	Unvoiced: 83.000	Silence: 244.000	 Count: 12	
+ Energy: -16.915	ZCR: 73.000	 Correl: 0.860	 First:-1.455	 Error:43.085	Voice
+Voiced: 108.000	Unvoiced: 68.000	Silence: 187.000	 Count: 12	
+ Energy: -20.738	ZCR: 63.000	 Correl: 0.858	 First:-1.353	 Error:39.262	Voice
+Voiced: 74.000	Unvoiced: 54.000	Silence: 128.000	 Count: 12	
+ Energy: -25.545	ZCR: 56.000	 Correl: 0.867	 First:-1.368	 Error:34.455	Voice
+Voiced: 34.000	Unvoiced: 42.000	Silence: 53.000	 Count: 12	
+ Energy: -33.208	ZCR: 44.000	 Correl: 0.927	 First:-1.666	 Error:26.792	Voice
+Voiced: 55.000	Unvoiced: 32.000	Silence: 11.000	 Count: 12	
+ Energy: -42.999	ZCR: 46.000	 Correl: 0.955	 First:-1.813	 Error:17.001	silence
+Voiced: 106.000	Unvoiced: 32.000	Silence: 6.000	 Count: 0	
+ Energy: -53.220	ZCR: 53.000	 Correl: 0.933	 First:-1.799	 Error:6.780	silence
+Voiced: 143.000	Unvoiced: 29.000	Silence: 10.000	 Count: 1	
+ Energy: -54.131	ZCR: 64.000	 Correl: 0.916	 First:-1.749	 Error:5.869	silence
+Voiced: 168.000	Unvoiced: 27.000	Silence: 12.000	 Count: 2	
+ Energy: -54.971	ZCR: 70.000	 Correl: 0.891	 First:-1.649	 Error:5.029	silence
+Voiced: 191.000	Unvoiced: 27.000	Silence: 17.000	 Count: 3	
+ Energy: -54.662	ZCR: 75.000	 Correl: 0.912	 First:-1.728	 Error:5.338	silence
+Voiced: 128.000	Unvoiced: 30.000	Silence: 8.000	 Count: 4	
+ Energy: -53.826	ZCR: 60.000	 Correl: 0.920	 First:-1.766	 Error:6.174	silence
+Voiced: 172.000	Unvoiced: 30.000	Silence: 16.000	 Count: 5	
+ Energy: -56.781	ZCR: 69.000	 Correl: 0.893	 First:-1.727	 Error:3.219	silence
+Voiced: 227.000	Unvoiced: 27.000	Silence: 24.000	 Count: 6	
+ Energy: -58.362	ZCR: 80.000	 Correl: 0.835	 First:-1.628	 Error:1.638	silence
+Voiced: 324.000	Unvoiced: 27.000	Silence: 41.000	 Count: 7	
+ Energy: -57.693	ZCR: 98.000	 Correl: 0.845	 First:-1.620	 Error:2.307	Unvoiced
+Voiced: 322.000	Unvoiced: 26.000	Silence: 40.000	 Count: 8	
+ Energy: -57.489	ZCR: 98.000	 Correl: 0.834	 First:-1.608	 Error:2.511	Unvoiced
+Voiced: 219.000	Unvoiced: 24.000	Silence: 20.000	 Count: 9	
+ Energy: -57.334	ZCR: 79.000	 Correl: 0.819	 First:-1.649	 Error:2.666	silence
+Voiced: 212.000	Unvoiced: 25.000	Silence: 19.000	 Count: 10	
+ Energy: -57.558	ZCR: 77.000	 Correl: 0.822	 First:-1.614	 Error:2.442	silence
+Voiced: 187.000	Unvoiced: 26.000	Silence: 16.000	 Count: 11	
+ Energy: -58.369	ZCR: 68.000	 Correl: 0.800	 First:-1.508	 Error:1.631	silence
+Voiced: 299.000	Unvoiced: 25.000	Silence: 35.000	 Count: 12	
+ Energy: -57.780	ZCR: 94.000	 Correl: 0.832	 First:-1.583	 Error:2.220	Unvoiced
+Voiced: 227.000	Unvoiced: 23.000	Silence: 20.000	 Count: 13	
+ Energy: -57.997	ZCR: 79.000	 Correl: 0.797	 First:-1.470	 Error:2.003	silence
+Voiced: 222.000	Unvoiced: 27.000	Silence: 22.000	 Count: 14	
+ Energy: -56.018	ZCR: 81.000	 Correl: 0.885	 First:-1.703	 Error:3.982	silence
+Voiced: 133.000	Unvoiced: 32.000	Silence: 11.000	 Count: 15	
+ Energy: -57.105	ZCR: 56.000	 Correl: 0.872	 First:-1.675	 Error:2.895	silence
+Voiced: 136.000	Unvoiced: 30.000	Silence: 9.000	 Count: 15	
+ Energy: -56.275	ZCR: 59.000	 Correl: 0.882	 First:-1.648	 Error:3.725	silence
+Voiced: 106.000	Unvoiced: 32.000	Silence: 6.000	 Count: 15	
+ Energy: -54.463	ZCR: 51.000	 Correl: 0.909	 First:-1.724	 Error:5.537	silence
+Voiced: 114.000	Unvoiced: 30.000	Silence: 6.000	 Count: 15	
+ Energy: -52.194	ZCR: 57.000	 Correl: 0.942	 First:-1.806	 Error:7.806	silence
+Voiced: 103.000	Unvoiced: 31.000	Silence: 5.000	 Count: 15	
+ Energy: -52.495	ZCR: 53.000	 Correl: 0.935	 First:-1.773	 Error:7.505	silence
+Voiced: 111.000	Unvoiced: 30.000	Silence: 7.000	 Count: 15	
+ Energy: -50.678	ZCR: 57.000	 Correl: 0.957	 First:-1.864	 Error:9.322	silence
+Voiced: 113.000	Unvoiced: 30.000	Silence: 6.000	 Count: 15	
+ Energy: -52.133	ZCR: 57.000	 Correl: 0.936	 First:-1.792	 Error:7.867	silence
+Voiced: 136.000	Unvoiced: 28.000	Silence: 7.000	 Count: 15	
+ Energy: -53.373	ZCR: 63.000	 Correl: 0.912	 First:-1.691	 Error:6.627	silence
+Voiced: 159.000	Unvoiced: 24.000	Silence: 10.000	 Count: 15	
+ Energy: -52.335	ZCR: 70.000	 Correl: 0.901	 First:-1.618	 Error:7.665	silence
+Voiced: 198.000	Unvoiced: 21.000	Silence: 14.000	 Count: 15	
+ Energy: -53.288	ZCR: 78.000	 Correl: 0.858	 First:-1.358	 Error:6.712	silence
+Voiced: 255.000	Unvoiced: 19.000	Silence: 23.000	 Count: 15	
+ Energy: -54.416	ZCR: 88.000	 Correl: 0.822	 First:-1.199	 Error:5.584	Unvoiced
+Voiced: 216.000	Unvoiced: 23.000	Silence: 18.000	 Count: 0	
+ Energy: -54.494	ZCR: 81.000	 Correl: 0.871	 First:-1.530	 Error:5.506	silence
+Voiced: 213.000	Unvoiced: 25.000	Silence: 20.000	 Count: 0	
+ Energy: -52.277	ZCR: 81.000	 Correl: 0.913	 First:-1.702	 Error:7.723	silence
+Voiced: 143.000	Unvoiced: 24.000	Silence: 6.000	 Count: 0	
+ Energy: -52.415	ZCR: 66.000	 Correl: 0.882	 First:-1.545	 Error:7.585	silence
+Voiced: 130.000	Unvoiced: 27.000	Silence: 6.000	 Count: 0	
+ Energy: -53.544	ZCR: 61.000	 Correl: 0.902	 First:-1.668	 Error:6.456	silence
+Voiced: 87.000	Unvoiced: 33.000	Silence: 3.000	 Count: 0	
+ Energy: -52.621	ZCR: 46.000	 Correl: 0.919	 First:-1.734	 Error:7.379	silence
+Voiced: 105.000	Unvoiced: 30.000	Silence: 4.000	 Count: 0	
+ Energy: -52.393	ZCR: 54.000	 Correl: 0.926	 First:-1.769	 Error:7.607	silence
+Voiced: 118.000	Unvoiced: 28.000	Silence: 5.000	 Count: 0	
+ Energy: -53.709	ZCR: 57.000	 Correl: 0.896	 First:-1.656	 Error:6.291	silence
+Voiced: 140.000	Unvoiced: 26.000	Silence: 7.000	 Count: 0	
+ Energy: -53.544	ZCR: 64.000	 Correl: 0.893	 First:-1.635	 Error:6.456	silence
+Voiced: 111.000	Unvoiced: 29.000	Silence: 4.000	 Count: 0	
+ Energy: -53.779	ZCR: 54.000	 Correl: 0.886	 First:-1.625	 Error:6.221	silence
+Voiced: 114.000	Unvoiced: 29.000	Silence: 4.000	 Count: 0	
+ Energy: -54.022	ZCR: 55.000	 Correl: 0.891	 First:-1.647	 Error:5.978	silence
+Voiced: 104.000	Unvoiced: 31.000	Silence: 5.000	 Count: 0	
+ Energy: -52.877	ZCR: 53.000	 Correl: 0.932	 First:-1.773	 Error:7.123	silence
+Voiced: 123.000	Unvoiced: 29.000	Silence: 6.000	 Count: 0	
+ Energy: -53.316	ZCR: 59.000	 Correl: 0.916	 First:-1.708	 Error:6.684	silence
+Voiced: 113.000	Unvoiced: 31.000	Silence: 6.000	 Count: 0	
+ Energy: -53.818	ZCR: 55.000	 Correl: 0.918	 First:-1.730	 Error:6.182	silence
+Voiced: 128.000	Unvoiced: 30.000	Silence: 8.000	 Count: 0	
+ Energy: -53.486	ZCR: 60.000	 Correl: 0.930	 First:-1.789	 Error:6.514	silence
+Voiced: 113.000	Unvoiced: 34.000	Silence: 8.000	 Count: 0	
+ Energy: -56.216	ZCR: 50.000	 Correl: 0.889	 First:-1.658	 Error:3.784	silence
+Voiced: 139.000	Unvoiced: 30.000	Silence: 10.000	 Count: 0	
+ Energy: -55.658	ZCR: 61.000	 Correl: 0.905	 First:-1.708	 Error:4.342	silence
+Voiced: 171.000	Unvoiced: 30.000	Silence: 15.000	 Count: 0	
+ Energy: -57.243	ZCR: 68.000	 Correl: 0.884	 First:-1.646	 Error:2.757	silence
+Voiced: 160.000	Unvoiced: 29.000	Silence: 13.000	 Count: 0	
+ Energy: -57.084	ZCR: 65.000	 Correl: 0.865	 First:-1.624	 Error:2.916	silence
+Voiced: 104.000	Unvoiced: 33.000	Silence: 7.000	 Count: 0	
+ Energy: -54.556	ZCR: 50.000	 Correl: 0.915	 First:-1.788	 Error:5.444	silence
+Voiced: 131.000	Unvoiced: 32.000	Silence: 11.000	 Count: 0	
+ Energy: -55.940	ZCR: 58.000	 Correl: 0.907	 First:-1.777	 Error:4.060	silence
+Voiced: 172.000	Unvoiced: 29.000	Silence: 15.000	 Count: 0	
+ Energy: -57.945	ZCR: 67.000	 Correl: 0.847	 First:-1.612	 Error:2.055	silence
+Voiced: 186.000	Unvoiced: 28.000	Silence: 16.000	 Count: 0	
+ Energy: -56.201	ZCR: 73.000	 Correl: 0.888	 First:-1.663	 Error:3.799	silence
+Voiced: 120.000	Unvoiced: 34.000	Silence: 11.000	 Count: 0	
+ Energy: -55.861	ZCR: 54.000	 Correl: 0.918	 First:-1.821	 Error:4.139	silence
+Voiced: 139.000	Unvoiced: 32.000	Silence: 12.000	 Count: 0	
+ Energy: -56.362	ZCR: 60.000	 Correl: 0.906	 First:-1.758	 Error:3.638	silence
+Voiced: 183.000	Unvoiced: 30.000	Silence: 18.000	 Count: 0	
+ Energy: -57.204	ZCR: 71.000	 Correl: 0.895	 First:-1.703	 Error:2.796	silence
+Voiced: 258.000	Unvoiced: 25.000	Silence: 27.000	 Count: 0	
+ Energy: -58.966	ZCR: 85.000	 Correl: 0.803	 First:-1.454	 Error:1.034	Unvoiced
+Voiced: 226.000	Unvoiced: 29.000	Silence: 25.000	 Count: 0	
+ Energy: -58.168	ZCR: 80.000	 Correl: 0.870	 First:-1.637	 Error:1.832	silence
+Voiced: 183.000	Unvoiced: 31.000	Silence: 19.000	 Count: 0	
+ Energy: -57.166	ZCR: 71.000	 Correl: 0.903	 First:-1.759	 Error:2.834	silence
+Voiced: 125.000	Unvoiced: 35.000	Silence: 13.000	 Count: 0	
+ Energy: -56.801	ZCR: 54.000	 Correl: 0.923	 First:-1.782	 Error:3.199	silence
+Voiced: 107.000	Unvoiced: 38.000	Silence: 12.000	 Count: 0	
+ Energy: -56.863	ZCR: 46.000	 Correl: 0.910	 First:-1.779	 Error:3.137	silence
+Voiced: 121.000	Unvoiced: 35.000	Silence: 12.000	 Count: 0	
+ Energy: -57.069	ZCR: 52.000	 Correl: 0.896	 First:-1.761	 Error:2.931	silence
+Voiced: 334.000	Unvoiced: 14.000	Silence: 38.000	 Count: 0	
+ Energy: -52.867	ZCR: 94.000	 Correl: 0.644	 First:-2.243	 Error:7.133	Unvoiced
+Voiced: 997.000	Unvoiced: 23.000	Silence: 235.000	 Count: 0	
+ Energy: -46.533	ZCR: 154.000	 Correl: 0.402	 First:0.568	 Error:13.467	Unvoiced
+Voiced: 1535.000	Unvoiced: 51.000	Silence: 369.000	 Count: 0	
+ Energy: -45.817	ZCR: 194.000	 Correl: 0.303	 First:0.425	 Error:14.183	Unvoiced
+Voiced: 1247.000	Unvoiced: 57.000	Silence: 297.000	 Count: 0	
+ Energy: -40.246	ZCR: 189.000	 Correl: 0.519	 First:-1.566	 Error:19.754	Unvoiced
+Voiced: 941.000	Unvoiced: 86.000	Silence: 368.000	 Count: 1	
+ Energy: -37.217	ZCR: 157.000	 Correl: 0.466	 First:-6.636	 Error:22.783	Unvoiced
+Voiced: 602.000	Unvoiced: 188.000	Silence: 689.000	 Count: 2	
+ Energy: -34.088	ZCR: 108.000	 Correl: 0.716	 First:-10.072	 Error:25.912	Voice
+Voiced: 117.000	Unvoiced: 57.000	Silence: 128.000	 Count: 3	
+ Energy: -25.876	ZCR: 66.000	 Correl: 0.961	 First:-1.814	 Error:34.124	Voice
+Voiced: 29.000	Unvoiced: 76.000	Silence: 152.000	 Count: 4	
+ Energy: -21.414	ZCR: 39.000	 Correl: 0.955	 First:-1.726	 Error:38.586	Voice
+Voiced: 31.000	Unvoiced: 78.000	Silence: 163.000	 Count: 5	
+ Energy: -20.719	ZCR: 39.000	 Correl: 0.949	 First:-1.617	 Error:39.281	Voice
+Voiced: 44.000	Unvoiced: 82.000	Silence: 183.000	 Count: 5	
+ Energy: -19.373	ZCR: 43.000	 Correl: 0.944	 First:-1.535	 Error:40.627	Voice
+Voiced: 50.000	Unvoiced: 87.000	Silence: 202.000	 Count: 5	
+ Energy: -18.018	ZCR: 44.000	 Correl: 0.935	 First:-1.456	 Error:41.982	Voice
+Voiced: 59.000	Unvoiced: 88.000	Silence: 210.000	 Count: 5	
+ Energy: -17.579	ZCR: 47.000	 Correl: 0.933	 First:-1.464	 Error:42.421	Voice
+Voiced: 40.000	Unvoiced: 82.000	Silence: 183.000	 Count: 5	
+ Energy: -19.102	ZCR: 42.000	 Correl: 0.934	 First:-1.592	 Error:40.898	Voice
+Voiced: 19.000	Unvoiced: 66.000	Silence: 120.000	 Count: 5	
+ Energy: -24.428	ZCR: 36.000	 Correl: 0.939	 First:-1.695	 Error:35.572	Voice
+Voiced: 11.000	Unvoiced: 53.000	Silence: 68.000	 Count: 5	
+ Energy: -30.427	ZCR: 32.000	 Correl: 0.951	 First:-1.797	 Error:29.573	Voice
+Voiced: 9.000	Unvoiced: 74.000	Silence: 127.000	 Count: 5	
+ Energy: -23.319	ZCR: 29.000	 Correl: 0.963	 First:-1.827	 Error:36.681	Voice
+Voiced: 11.000	Unvoiced: 74.000	Silence: 129.000	 Count: 5	
+ Energy: -23.110	ZCR: 30.000	 Correl: 0.964	 First:-1.836	 Error:36.890	Voice
+Voiced: 4.000	Unvoiced: 70.000	Silence: 110.000	 Count: 5	
+ Energy: -25.076	ZCR: 25.000	 Correl: 0.960	 First:-1.845	 Error:34.924	Voice
+Voiced: 2.000	Unvoiced: 62.000	Silence: 71.000	 Count: 5	
+ Energy: -30.028	ZCR: 20.000	 Correl: 0.982	 First:-1.928	 Error:29.972	Voice
+Voiced: 4.000	Unvoiced: 58.000	Silence: 59.000	 Count: 5	
+ Energy: -31.846	ZCR: 21.000	 Correl: 0.981	 First:-1.928	 Error:28.154	Voice
+Voiced: 6.000	Unvoiced: 67.000	Silence: 99.000	 Count: 5	
+ Energy: -26.259	ZCR: 27.000	 Correl: 0.975	 First:-1.901	 Error:33.741	Voice
+Voiced: 17.000	Unvoiced: 72.000	Silence: 129.000	 Count: 5	
+ Energy: -23.236	ZCR: 34.000	 Correl: 0.965	 First:-1.841	 Error:36.764	Voice
+Voiced: 23.000	Unvoiced: 82.000	Silence: 167.000	 Count: 5	
+ Energy: -19.814	ZCR: 35.000	 Correl: 0.952	 First:-1.746	 Error:40.186	Voice
+Voiced: 26.000	Unvoiced: 95.000	Silence: 201.000	 Count: 5	
+ Energy: -16.927	ZCR: 33.000	 Correl: 0.955	 First:-1.738	 Error:43.073	Voice
+Voiced: 28.000	Unvoiced: 91.000	Silence: 194.000	 Count: 5	
+ Energy: -17.625	ZCR: 35.000	 Correl: 0.950	 First:-1.715	 Error:42.375	Voice
+Voiced: 29.000	Unvoiced: 77.000	Silence: 162.000	 Count: 5	
+ Energy: -20.740	ZCR: 38.000	 Correl: 0.917	 First:-1.560	 Error:39.260	Voice
+Voiced: 38.000	Unvoiced: 73.000	Silence: 160.000	 Count: 5	
+ Energy: -21.510	ZCR: 41.000	 Correl: 0.894	 First:-1.394	 Error:38.490	Voice
+Voiced: 31.000	Unvoiced: 73.000	Silence: 155.000	 Count: 5	
+ Energy: -21.785	ZCR: 38.000	 Correl: 0.900	 First:-1.402	 Error:38.215	Voice
+Voiced: 27.000	Unvoiced: 73.000	Silence: 152.000	 Count: 5	
+ Energy: -21.995	ZCR: 36.000	 Correl: 0.904	 First:-1.419	 Error:38.005	Voice
+Voiced: 21.000	Unvoiced: 74.000	Silence: 147.000	 Count: 5	
+ Energy: -22.270	ZCR: 32.000	 Correl: 0.907	 First:-1.440	 Error:37.730	Voice
+Voiced: 30.000	Unvoiced: 70.000	Silence: 146.000	 Count: 5	
+ Energy: -22.565	ZCR: 39.000	 Correl: 0.908	 First:-1.457	 Error:37.435	Voice
+Voiced: 31.000	Unvoiced: 69.000	Silence: 144.000	 Count: 5	
+ Energy: -22.813	ZCR: 39.000	 Correl: 0.903	 First:-1.429	 Error:37.187	Voice
+Voiced: 36.000	Unvoiced: 67.000	Silence: 142.000	 Count: 5	
+ Energy: -23.064	ZCR: 42.000	 Correl: 0.906	 First:-1.452	 Error:36.936	Voice
+Voiced: 35.000	Unvoiced: 67.000	Silence: 141.000	 Count: 5	
+ Energy: -23.242	ZCR: 41.000	 Correl: 0.897	 First:-1.399	 Error:36.758	Voice
+Voiced: 42.000	Unvoiced: 65.000	Silence: 142.000	 Count: 5	
+ Energy: -23.419	ZCR: 44.000	 Correl: 0.890	 First:-1.362	 Error:36.581	Voice
+Voiced: 46.000	Unvoiced: 64.000	Silence: 141.000	 Count: 5	
+ Energy: -23.637	ZCR: 46.000	 Correl: 0.889	 First:-1.366	 Error:36.363	Voice
+Voiced: 42.000	Unvoiced: 63.000	Silence: 132.000	 Count: 5	
+ Energy: -24.055	ZCR: 46.000	 Correl: 0.912	 First:-1.536	 Error:35.945	Voice
+Voiced: 31.000	Unvoiced: 64.000	Silence: 123.000	 Count: 5	
+ Energy: -24.460	ZCR: 42.000	 Correl: 0.935	 First:-1.664	 Error:35.540	Voice
+Voiced: 24.000	Unvoiced: 63.000	Silence: 112.000	 Count: 5	
+ Energy: -25.323	ZCR: 39.000	 Correl: 0.952	 First:-1.761	 Error:34.677	Voice
+Voiced: 18.000	Unvoiced: 65.000	Silence: 111.000	 Count: 5	
+ Energy: -25.232	ZCR: 36.000	 Correl: 0.958	 First:-1.796	 Error:34.768	Voice
+Voiced: 29.000	Unvoiced: 58.000	Silence: 107.000	 Count: 5	
+ Energy: -26.149	ZCR: 42.000	 Correl: 0.926	 First:-1.672	 Error:33.851	Voice
+Voiced: 61.000	Unvoiced: 47.000	Silence: 96.000	 Count: 5	
+ Energy: -28.351	ZCR: 54.000	 Correl: 0.892	 First:-1.529	 Error:31.649	Voice
+Voiced: 279.000	Unvoiced: 40.000	Silence: 110.000	 Count: 5	
+ Energy: -33.054	ZCR: 96.000	 Correl: 0.922	 First:-1.820	 Error:26.946	Unvoiced
+Voiced: 679.000	Unvoiced: 52.000	Silence: 311.000	 Count: 5	
+ Energy: -37.066	ZCR: 131.000	 Correl: 0.616	 First:1.543	 Error:22.934	Unvoiced
+Voiced: 963.000	Unvoiced: 83.000	Silence: 341.000	 Count: 5	
+ Energy: -36.020	ZCR: 167.000	 Correl: 0.555	 First:-6.041	 Error:23.980	Unvoiced
+Voiced: 2903.000	Unvoiced: 697.000	Silence: 3270.000	 Count: 5	
+ Energy: -35.077	ZCR: 182.000	 Correl: 0.388	 First:13.842	 Error:24.923	Voice
+Voiced: 1238.000	Unvoiced: 41.000	Silence: 288.000	 Count: 5	
+ Energy: -34.363	ZCR: 176.000	 Correl: 0.314	 First:-2.909	 Error:25.637	Unvoiced
+Voiced: 951.000	Unvoiced: 161.000	Silence: 774.000	 Count: 5	
+ Energy: -31.508	ZCR: 138.000	 Correl: 0.684	 First:4.484	 Error:28.492	Unvoiced
+Voiced: 206.000	Unvoiced: 54.000	Silence: 145.000	 Count: 5	
+ Energy: -26.519	ZCR: 84.000	 Correl: 0.933	 First:-1.835	 Error:33.481	Unvoiced
+Voiced: 90.000	Unvoiced: 57.000	Silence: 119.000	 Count: 5	
+ Energy: -26.076	ZCR: 60.000	 Correl: 0.967	 First:-1.870	 Error:33.924	Voice
+Voiced: 51.000	Unvoiced: 57.000	Silence: 110.000	 Count: 5	
+ Energy: -26.074	ZCR: 50.000	 Correl: 0.950	 First:-1.798	 Error:33.926	Voice
+Voiced: 40.000	Unvoiced: 60.000	Silence: 113.000	 Count: 5	
+ Energy: -25.546	ZCR: 46.000	 Correl: 0.956	 First:-1.819	 Error:34.454	Voice
+Voiced: 26.000	Unvoiced: 63.000	Silence: 109.000	 Count: 5	
+ Energy: -25.614	ZCR: 40.000	 Correl: 0.967	 First:-1.862	 Error:34.386	Voice
+Voiced: 52.000	Unvoiced: 58.000	Silence: 110.000	 Count: 5	
+ Energy: -26.107	ZCR: 50.000	 Correl: 0.960	 First:-1.850	 Error:33.893	Voice
+Voiced: 179.000	Unvoiced: 46.000	Silence: 127.000	 Count: 5	
+ Energy: -28.143	ZCR: 81.000	 Correl: 0.891	 First:-1.596	 Error:31.857	Unvoiced
+Voiced: 468.000	Unvoiced: 49.000	Silence: 230.000	 Count: 5	
+ Energy: -31.475	ZCR: 117.000	 Correl: 0.750	 First:0.071	 Error:28.525	Unvoiced
+Voiced: 880.000	Unvoiced: 30.000	Silence: 220.000	 Count: 5	
+ Energy: -33.947	ZCR: 154.000	 Correl: 0.453	 First:-2.071	 Error:26.053	Unvoiced
+Voiced: 1209.000	Unvoiced: 65.000	Silence: 385.000	 Count: 5	
+ Energy: -24.437	ZCR: 175.000	 Correl: 0.361	 First:-2.000	 Error:35.563	Unvoiced
+Voiced: 1433.000	Unvoiced: 79.000	Silence: 446.000	 Count: 5	
+ Energy: -24.957	ZCR: 191.000	 Correl: 0.332	 First:-1.771	 Error:35.043	Unvoiced
+Voiced: 1450.000	Unvoiced: 67.000	Silence: 417.000	 Count: 5	
+ Energy: -27.938	ZCR: 190.000	 Correl: 0.299	 First:-1.606	 Error:32.062	Unvoiced
+Voiced: 1443.000	Unvoiced: 75.000	Silence: 434.000	 Count: 5	
+ Energy: -26.355	ZCR: 192.000	 Correl: 0.330	 First:-1.764	 Error:33.645	Unvoiced
+Voiced: 1351.000	Unvoiced: 68.000	Silence: 404.000	 Count: 5	
+ Energy: -26.520	ZCR: 185.000	 Correl: 0.334	 First:-1.796	 Error:33.480	Unvoiced
+Voiced: 1273.000	Unvoiced: 70.000	Silence: 394.000	 Count: 5	
+ Energy: -25.320	ZCR: 182.000	 Correl: 0.372	 First:-2.106	 Error:34.680	Unvoiced
+Voiced: 1147.000	Unvoiced: 54.000	Silence: 328.000	 Count: 5	
+ Energy: -28.389	ZCR: 174.000	 Correl: 0.394	 First:-2.316	 Error:31.611	Unvoiced
+Voiced: 1085.000	Unvoiced: 45.000	Silence: 283.000	 Count: 5	
+ Energy: -31.827	ZCR: 171.000	 Correl: 0.415	 First:-2.518	 Error:28.173	Unvoiced
+Voiced: 927.000	Unvoiced: 41.000	Silence: 249.000	 Count: 5	
+ Energy: -31.080	ZCR: 159.000	 Correl: 0.446	 First:-3.190	 Error:28.920	Unvoiced
+Voiced: 1031.000	Unvoiced: 135.000	Silence: 727.000	 Count: 5	
+ Energy: -32.390	ZCR: 142.000	 Correl: 0.516	 First:4.256	 Error:27.610	Unvoiced
+Voiced: 492.000	Unvoiced: 18.000	Silence: 118.000	 Count: 5	
+ Energy: -38.561	ZCR: 122.000	 Correl: 0.635	 First:-1.328	 Error:21.439	Unvoiced
+Voiced: 252.000	Unvoiced: 29.000	Silence: 71.000	 Count: 5	
+ Energy: -41.320	ZCR: 95.000	 Correl: 0.824	 First:-3.573	 Error:18.680	Unvoiced
+Voiced: 105.000	Unvoiced: 47.000	Silence: 93.000	 Count: 5	
+ Energy: -29.691	ZCR: 64.000	 Correl: 0.965	 First:-1.840	 Error:30.309	Unvoiced
+Voiced: 27.000	Unvoiced: 77.000	Silence: 149.000	 Count: 5	
+ Energy: -21.449	ZCR: 38.000	 Correl: 0.972	 First:-1.837	 Error:38.551	Voice
+Voiced: 15.000	Unvoiced: 80.000	Silence: 149.000	 Count: 5	
+ Energy: -21.223	ZCR: 31.000	 Correl: 0.969	 First:-1.819	 Error:38.777	Voice
+Voiced: 13.000	Unvoiced: 71.000	Silence: 125.000	 Count: 5	
+ Energy: -23.674	ZCR: 32.000	 Correl: 0.966	 First:-1.815	 Error:36.326	Voice
+Voiced: 13.000	Unvoiced: 70.000	Silence: 119.000	 Count: 5	
+ Energy: -24.311	ZCR: 32.000	 Correl: 0.969	 First:-1.818	 Error:35.689	Voice
+Voiced: 11.000	Unvoiced: 74.000	Silence: 129.000	 Count: 5	
+ Energy: -23.278	ZCR: 30.000	 Correl: 0.966	 First:-1.784	 Error:36.722	Voice
+Voiced: 14.000	Unvoiced: 76.000	Silence: 138.000	 Count: 5	
+ Energy: -22.433	ZCR: 31.000	 Correl: 0.965	 First:-1.761	 Error:37.567	Voice
+Voiced: 13.000	Unvoiced: 77.000	Silence: 142.000	 Count: 5	
+ Energy: -22.072	ZCR: 30.000	 Correl: 0.962	 First:-1.736	 Error:37.928	Voice
+Voiced: 13.000	Unvoiced: 76.000	Silence: 139.000	 Count: 5	
+ Energy: -22.336	ZCR: 30.000	 Correl: 0.960	 First:-1.720	 Error:37.664	Voice
+Voiced: 11.000	Unvoiced: 72.000	Silence: 124.000	 Count: 5	
+ Energy: -23.807	ZCR: 30.000	 Correl: 0.961	 First:-1.738	 Error:36.193	Voice
+Voiced: 11.000	Unvoiced: 66.000	Silence: 107.000	 Count: 5	
+ Energy: -25.622	ZCR: 31.000	 Correl: 0.964	 First:-1.770	 Error:34.378	Voice
+Voiced: 10.000	Unvoiced: 64.000	Silence: 99.000	 Count: 5	
+ Energy: -26.535	ZCR: 31.000	 Correl: 0.966	 First:-1.784	 Error:33.465	Voice
+Voiced: 12.000	Unvoiced: 62.000	Silence: 94.000	 Count: 5	
+ Energy: -27.165	ZCR: 32.000	 Correl: 0.965	 First:-1.776	 Error:32.835	Voice
+Voiced: 23.000	Unvoiced: 56.000	Silence: 86.000	 Count: 5	
+ Energy: -28.404	ZCR: 39.000	 Correl: 0.961	 First:-1.757	 Error:31.596	Voice
+Voiced: 25.000	Unvoiced: 53.000	Silence: 79.000	 Count: 5	
+ Energy: -29.418	ZCR: 40.000	 Correl: 0.957	 First:-1.722	 Error:30.582	Voice
+Voiced: 27.000	Unvoiced: 61.000	Silence: 105.000	 Count: 5	
+ Energy: -26.370	ZCR: 40.000	 Correl: 0.961	 First:-1.710	 Error:33.630	Voice
+Voiced: 20.000	Unvoiced: 55.000	Silence: 83.000	 Count: 5	
+ Energy: -28.846	ZCR: 37.000	 Correl: 0.960	 First:-1.676	 Error:31.154	Voice
+Voiced: 57.000	Unvoiced: 32.000	Silence: 10.000	 Count: 5	
+ Energy: -43.419	ZCR: 46.000	 Correl: 0.960	 First:-1.711	 Error:16.581	silence
+Voiced: 109.000	Unvoiced: 37.000	Silence: 10.000	 Count: 0	
+ Energy: -56.449	ZCR: 48.000	 Correl: 0.916	 First:-1.738	 Error:3.551	silence
+Voiced: 74.000	Unvoiced: 32.000	Silence: 5.000	 Count: 1	
+ Energy: -47.237	ZCR: 48.000	 Correl: 0.969	 First:-1.837	 Error:12.763	silence
+Voiced: 69.000	Unvoiced: 32.000	Silence: 13.000	 Count: 2	
+ Energy: -43.180	ZCR: 50.000	 Correl: 0.976	 First:-1.852	 Error:16.820	silence
+Voiced: 54.000	Unvoiced: 36.000	Silence: 23.000	 Count: 3	
+ Energy: -39.598	ZCR: 47.000	 Correl: 0.981	 First:-1.882	 Error:20.402	silence
+Voiced: 27.000	Unvoiced: 56.000	Silence: 85.000	 Count: 4	
+ Energy: -28.415	ZCR: 40.000	 Correl: 0.983	 First:-1.891	 Error:31.585	Voice
+Voiced: 3.000	Unvoiced: 70.000	Silence: 102.000	 Count: 4	
+ Energy: -25.938	ZCR: 23.000	 Correl: 0.987	 First:-1.925	 Error:34.062	Voice
+Voiced: 2.000	Unvoiced: 67.000	Silence: 85.000	 Count: 4	
+ Energy: -28.049	ZCR: 20.000	 Correl: 0.988	 First:-1.929	 Error:31.951	Voice
+Voiced: 4.000	Unvoiced: 72.000	Silence: 109.000	 Count: 4	
+ Energy: -25.181	ZCR: 24.000	 Correl: 0.986	 First:-1.919	 Error:34.819	Voice
+Voiced: 9.000	Unvoiced: 73.000	Silence: 118.000	 Count: 4	
+ Energy: -24.175	ZCR: 28.000	 Correl: 0.985	 First:-1.915	 Error:35.825	Voice
+Voiced: 11.000	Unvoiced: 76.000	Silence: 129.000	 Count: 4	
+ Energy: -23.002	ZCR: 29.000	 Correl: 0.984	 First:-1.906	 Error:36.998	Voice
+Voiced: 10.000	Unvoiced: 81.000	Silence: 143.000	 Count: 4	
+ Energy: -21.580	ZCR: 27.000	 Correl: 0.982	 First:-1.893	 Error:38.420	Voice
+Voiced: 23.000	Unvoiced: 85.000	Silence: 169.000	 Count: 4	
+ Energy: -19.433	ZCR: 34.000	 Correl: 0.977	 First:-1.861	 Error:40.567	Voice
+Voiced: 35.000	Unvoiced: 91.000	Silence: 194.000	 Count: 4	
+ Energy: -17.557	ZCR: 38.000	 Correl: 0.971	 First:-1.810	 Error:42.443	Voice
+Voiced: 44.000	Unvoiced: 89.000	Silence: 196.000	 Count: 4	
+ Energy: -17.629	ZCR: 42.000	 Correl: 0.969	 First:-1.801	 Error:42.371	Voice
+Voiced: 22.000	Unvoiced: 91.000	Silence: 184.000	 Count: 4	
+ Energy: -18.088	ZCR: 32.000	 Correl: 0.975	 First:-1.852	 Error:41.912	Voice
+Voiced: 14.000	Unvoiced: 97.000	Silence: 187.000	 Count: 4	
+ Energy: -17.511	ZCR: 25.000	 Correl: 0.984	 First:-1.911	 Error:42.489	Voice
+Voiced: 14.000	Unvoiced: 105.000	Silence: 206.000	 Count: 4	
+ Energy: -15.862	ZCR: 21.000	 Correl: 0.987	 First:-1.923	 Error:44.138	Voice
+Voiced: 20.000	Unvoiced: 111.000	Silence: 228.000	 Count: 4	
+ Energy: -14.185	ZCR: 23.000	 Correl: 0.986	 First:-1.921	 Error:45.815	Voice
+Voiced: 25.000	Unvoiced: 118.000	Silence: 249.000	 Count: 4	
+ Energy: -12.619	ZCR: 24.000	 Correl: 0.985	 First:-1.913	 Error:47.381	Voice
+Voiced: 31.000	Unvoiced: 124.000	Silence: 271.000	 Count: 4	
+ Energy: -11.091	ZCR: 25.000	 Correl: 0.984	 First:-1.905	 Error:48.909	Voice
+Voiced: 35.000	Unvoiced: 128.000	Silence: 284.000	 Count: 4	
+ Energy: -10.261	ZCR: 26.000	 Correl: 0.983	 First:-1.898	 Error:49.739	Voice
+Voiced: 36.000	Unvoiced: 129.000	Silence: 289.000	 Count: 4	
+ Energy: -9.949	ZCR: 26.000	 Correl: 0.980	 First:-1.884	 Error:50.051	Voice
+Voiced: 38.000	Unvoiced: 130.000	Silence: 295.000	 Count: 4	
+ Energy: -9.618	ZCR: 27.000	 Correl: 0.974	 First:-1.860	 Error:50.382	Voice
+Voiced: 38.000	Unvoiced: 131.000	Silence: 296.000	 Count: 4	
+ Energy: -9.531	ZCR: 27.000	 Correl: 0.968	 First:-1.837	 Error:50.469	Voice
+Voiced: 44.000	Unvoiced: 129.000	Silence: 298.000	 Count: 4	
+ Energy: -9.598	ZCR: 31.000	 Correl: 0.962	 First:-1.814	 Error:50.402	Voice
+Voiced: 59.000	Unvoiced: 125.000	Silence: 302.000	 Count: 4	
+ Energy: -9.731	ZCR: 39.000	 Correl: 0.953	 First:-1.774	 Error:50.269	Voice
+Voiced: 90.000	Unvoiced: 121.000	Silence: 310.000	 Count: 4	
+ Energy: -9.914	ZCR: 50.000	 Correl: 0.944	 First:-1.737	 Error:50.086	Voice
+Voiced: 88.000	Unvoiced: 119.000	Silence: 305.000	 Count: 4	
+ Energy: -10.291	ZCR: 50.000	 Correl: 0.939	 First:-1.711	 Error:49.709	Voice
+Voiced: 68.000	Unvoiced: 118.000	Silence: 294.000	 Count: 4	
+ Energy: -10.699	ZCR: 44.000	 Correl: 0.934	 First:-1.685	 Error:49.301	Voice
+Voiced: 45.000	Unvoiced: 119.000	Silence: 282.000	 Count: 4	
+ Energy: -11.096	ZCR: 34.000	 Correl: 0.930	 First:-1.664	 Error:48.904	Voice
+Voiced: 37.000	Unvoiced: 118.000	Silence: 272.000	 Count: 4	
+ Energy: -11.658	ZCR: 30.000	 Correl: 0.930	 First:-1.656	 Error:48.342	Voice
+Voiced: 32.000	Unvoiced: 115.000	Silence: 258.000	 Count: 4	
+ Energy: -12.510	ZCR: 28.000	 Correl: 0.935	 First:-1.676	 Error:47.490	Voice
+Voiced: 28.000	Unvoiced: 111.000	Silence: 245.000	 Count: 4	
+ Energy: -13.522	ZCR: 27.000	 Correl: 0.931	 First:-1.656	 Error:46.478	Voice
+Voiced: 25.000	Unvoiced: 105.000	Silence: 227.000	 Count: 4	
+ Energy: -14.796	ZCR: 27.000	 Correl: 0.930	 First:-1.665	 Error:45.204	Voice
+Voiced: 19.000	Unvoiced: 100.000	Silence: 206.000	 Count: 4	
+ Energy: -16.237	ZCR: 27.000	 Correl: 0.956	 First:-1.786	 Error:43.763	Voice
+Voiced: 15.000	Unvoiced: 94.000	Silence: 185.000	 Count: 4	
+ Energy: -17.855	ZCR: 27.000	 Correl: 0.973	 First:-1.855	 Error:42.145	Voice
+Voiced: 11.000	Unvoiced: 85.000	Silence: 156.000	 Count: 4	
+ Energy: -20.395	ZCR: 27.000	 Correl: 0.978	 First:-1.875	 Error:39.605	Voice
+Voiced: 8.000	Unvoiced: 71.000	Silence: 114.000	 Count: 4	
+ Energy: -24.610	ZCR: 28.000	 Correl: 0.979	 First:-1.881	 Error:35.390	Voice
+Voiced: 10.000	Unvoiced: 53.000	Silence: 60.000	 Count: 4	
+ Energy: -31.602	ZCR: 30.000	 Correl: 0.978	 First:-1.882	 Error:28.398	Voice
+Voiced: 33.000	Unvoiced: 40.000	Silence: 10.000	 Count: 4	
+ Energy: -43.553	ZCR: 31.000	 Correl: 0.971	 First:-1.869	 Error:16.447	silence
+Voiced: 60.000	Unvoiced: 36.000	Silence: 3.000	 Count: 0	
+ Energy: -49.391	ZCR: 38.000	 Correl: 0.949	 First:-1.792	 Error:10.609	silence
+Voiced: 87.000	Unvoiced: 33.000	Silence: 3.000	 Count: 1	
+ Energy: -53.002	ZCR: 45.000	 Correl: 0.921	 First:-1.698	 Error:6.998	silence
+Voiced: 78.000	Unvoiced: 34.000	Silence: 3.000	 Count: 2	
+ Energy: -51.346	ZCR: 44.000	 Correl: 0.941	 First:-1.766	 Error:8.654	silence
+Voiced: 64.000	Unvoiced: 35.000	Silence: 3.000	 Count: 3	
+ Energy: -49.299	ZCR: 40.000	 Correl: 0.961	 First:-1.831	 Error:10.701	silence
