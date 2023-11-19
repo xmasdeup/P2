@@ -6,10 +6,10 @@ Usage:
    vad --version
 
 Options:
-   -i FILE, --input-wav=FILE   WAVE file for voice activity detection
-   -o FILE, --output-vad=FILE  Label file with the result of VAD
-   -w FILE, --output-wav=FILE  WAVE file with silences cleared
-   -1 FLOAT, --sensitivity=FLOAT Length of the silence [default: 5]
+   -i FILE, --input-wav=FILE       WAVE file for voice activity detection
+   -o FILE, --output-vad=FILE      Label file with the result of VAD
+   -w FILE, --output-wav=FILE      WAVE file with silences cleared
+   -1 VALUE, --sensitivity=VALUE   Length of the silence [default: 2.2]
    -v, --verbose  Show debug information
    -h, --help     Show this screen
    --version      Show the version of the project
