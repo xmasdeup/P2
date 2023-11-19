@@ -46,6 +46,10 @@ int main(int argc, char *argv[]) {
   float ***inverse_covariance;
   float **median;
   float *det_covariance;
+  float *zeros;
+  int newPosition;
+  int number;
+
   if (input_wav == 0 || output_vad == 0) {
     fprintf(stderr, "%s\n", args.usage_pattern);
     return -1;
@@ -75,9 +79,12 @@ int main(int argc, char *argv[]) {
       return -1;
     }
   }
+  
   vad_data = vad_open(sf_info.samplerate,umbral1,sensitivity);
+  
   /* Allocate memory for buffers */
   frame_size   = vad_frame_size(vad_data);
+  zeros = (float *) malloc(frame_size * sizeof(float));
   buffer       = (float *) malloc(frame_size * sizeof(float));
   buffer_zeros = (float *) malloc(frame_size * sizeof(float));
   hamming_frame = (float *) malloc(frame_size * hamming_size * sizeof(float));
@@ -92,10 +99,12 @@ int main(int argc, char *argv[]) {
     for(int z=0; z<PARAMETERS;z++) inverse_covariance[k][z] = (float *) malloc(PARAMETERS * sizeof(float));
   }
   det_covariance = (float *) malloc(DECISIONS * sizeof(float));
-  for (i=0; i< frame_size; ++i) buffer_zeros[i] = 0.0F;
+  for (i=0; i< frame_size; ++i) buffer_zeros[i] = zeros[i] = 0.0F;
+
 
   frame_duration = ((float) frame_size/ (float) sf_info.samplerate);
   last_state = ST_UNDEF;
+
   double frame_number = 1;
 
   assign_matrix_values(vad_data,inverse_covariance,median,det_covariance);
@@ -105,25 +114,28 @@ int main(int argc, char *argv[]) {
     /* End loop when file has finished (or there is an error) */
     if  ((n_read = sf_read_float(sndfile_in, buffer, frame_size)) != frame_size) break;
   
-    if (sndfile_out != 0) {
-      /* TODO: copy all the samples into sndfile_out */
-    }
+
     state = vad(vad_data, buffer, hamming_frame, hamming_size, frame_number, inverse_covariance, median, det_covariance, umbral1);
+    
     if (verbose & DEBUG_VAD) vad_show_state(vad_data, stdout);
+
     if(frame_number == hamming_size) 
     {
       assign_matrix_values(vad_data,inverse_covariance,median,det_covariance);
     }
     
-    /* TODO: print only SILENCE and VOICE labels */
-    /* As it is, it prints UNDEF segments but is should be merge to the proper value */
+    if (sndfile_out != 0) {
+        number = sf_write_float(sndfile_out, buffer, frame_size); 
+    }
+
+
     if ((state != last_state)&& (last_state != ST_INIT)) {
       if ((t != last_t))
       { 
         if((((state == ST_MYBVOICE)&&(last_state ==ST_SILENCE))||((state==ST_MYBSILENCE)&&(last_state==ST_VOICE))))
         {
-          if(state ==ST_MYBVOICE && last_state == ST_SILENCE) temp_t = t-2;
-          if(state ==ST_MYBSILENCE && last_state == ST_VOICE) temp_t = t-2;
+          if(state ==ST_MYBVOICE && last_state == ST_SILENCE) temp_t = t-1;
+          if(state ==ST_MYBSILENCE && last_state == ST_VOICE) temp_t = t-1;
 
           }
         else if((((last_state == ST_MYBVOICE)&&(state ==ST_SILENCE))||((last_state==ST_MYBSILENCE)&&(state==ST_VOICE))))
@@ -134,8 +146,12 @@ int main(int argc, char *argv[]) {
           if(temp_t!=0) 
           {
             fprintf(vadfile, "%.5f\t%.5f\t%s\n", last_t * frame_duration, temp_t * frame_duration, state2str(last_state));
+            
+          if((last_state==ST_MYBVOICE) && (state==ST_VOICE) && (sndfile_out != 0)){}
+          else {
             last_t = temp_t;
             temp_t = 0;
+          }          
           }
           else 
           {
@@ -145,16 +161,31 @@ int main(int argc, char *argv[]) {
 
         }
       }
+
+      if (sndfile_out != 0) 
+      {
+      if((last_state==ST_MYBVOICE) && (state==ST_VOICE)){
+
+        newPosition = sf_seek(sndfile_out, last_t*frame_size, SEEK_SET); 
+        
+        for(int i=0; i<(temp_t-last_t);i++){
+          number = sf_write_float(sndfile_out, zeros, frame_size);
+        }
+        newPosition = sf_seek(sndfile_out, (t+1)*frame_size, SEEK_SET);
+        
+        last_t = temp_t;
+        temp_t = 0;      
+        }
+      }
+
+
       last_state = state;
 
     }
     if((state!= last_state)&&(last_state == ST_INIT)) last_state = state;
 
-    if (sndfile_out != 0) {
-      /* TODO: go back and write zeros in silence segments */
-    }
+
     frame_number++;
-    //printf("%f\n",frame_number);
   }
 
   state = vad_close(vad_data);
@@ -163,6 +194,14 @@ int main(int argc, char *argv[]) {
   {
     fprintf(vadfile, "%.5f\t%.5f\t%s\n", last_t * frame_duration, t * frame_duration + n_read / (float) sf_info.samplerate, state2str(state));
   }
+
+  if(state==ST_SILENCE){
+    newPosition = sf_seek(sndfile_out, last_t*frame_size, SEEK_SET); 
+     for(int i=0; i<(t-last_t);i++){
+          number = sf_write_float(sndfile_out, zeros, frame_size);
+        }
+  }
+
   /* clean up: free memory, close open files */
   free(buffer);
   free(buffer_zeros);
