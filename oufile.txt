@@ -710,61 +710,61 @@ Voiced: 133.000	Unvoiced: 30.000	Silence: 24.000	 Count: 9
  Energy: -56.150	ZCR: 73.000	 Correl: 0.825	 First:-1.297	 Error:6.835	silence
 Voiced: 283.000	Unvoiced: 18.000	Silence: 32.000	 Count: 10	
  Energy: -50.488	ZCR: 87.000	 Correl: 0.615	 First:-0.825	 Error:4.826	Unvoiced
-Voiced: 315.000	Unvoiced: 9.000	Silence: 108.000	 Count: 10	
+Voiced: 315.000	Unvoiced: 9.000	Silence: 108.000	 Count: 11	
  Energy: -41.748	ZCR: 95.000	 Correl: 0.609	 First:-0.903	 Error:5.723	Unvoiced
-Voiced: 465.000	Unvoiced: 18.000	Silence: 143.000	 Count: 10	
+Voiced: 465.000	Unvoiced: 18.000	Silence: 143.000	 Count: 11	
  Energy: -41.516	ZCR: 125.000	 Correl: 0.684	 First:-0.931	 Error:6.193	Unvoiced
-Voiced: 330.000	Unvoiced: 7.000	Silence: 66.000	 Count: 10	
+Voiced: 330.000	Unvoiced: 7.000	Silence: 66.000	 Count: 11	
  Energy: -38.850	ZCR: 104.000	 Correl: 0.655	 First:-1.107	 Error:9.731	Unvoiced
-Voiced: 148.000	Unvoiced: 41.000	Silence: 300.000	 Count: 10	
+Voiced: 148.000	Unvoiced: 41.000	Silence: 300.000	 Count: 11	
  Energy: -27.479	ZCR: 76.000	 Correl: 0.962	 First:-1.832	 Error:20.766	Voice
-Voiced: 9.000	Unvoiced: 63.000	Silence: 481.000	 Count: 10	
+Voiced: 9.000	Unvoiced: 63.000	Silence: 481.000	 Count: 11	
  Energy: -22.884	ZCR: 35.000	 Correl: 0.949	 First:-2.507	 Error:23.198	Voice
-Voiced: 17.000	Unvoiced: 56.000	Silence: 438.000	 Count: 10	
+Voiced: 17.000	Unvoiced: 56.000	Silence: 438.000	 Count: 11	
  Energy: -23.260	ZCR: 40.000	 Correl: 0.911	 First:-2.549	 Error:22.258	Voice
-Voiced: 61.000	Unvoiced: 43.000	Silence: 397.000	 Count: 10	
+Voiced: 61.000	Unvoiced: 43.000	Silence: 397.000	 Count: 11	
  Energy: -22.805	ZCR: 58.000	 Correl: 0.850	 First:-2.297	 Error:21.017	Voice
-Voiced: 85.000	Unvoiced: 39.000	Silence: 393.000	 Count: 10	
+Voiced: 85.000	Unvoiced: 39.000	Silence: 393.000	 Count: 11	
  Energy: -23.752	ZCR: 64.000	 Correl: 0.818	 First:-2.222	 Error:21.350	Voice
-Voiced: 110.000	Unvoiced: 35.000	Silence: 341.000	 Count: 10	
+Voiced: 110.000	Unvoiced: 35.000	Silence: 341.000	 Count: 11	
  Energy: -26.183	ZCR: 72.000	 Correl: 0.841	 First:-2.208	 Error:21.075	Voice
-Voiced: 217.000	Unvoiced: 28.000	Silence: 240.000	 Count: 10	
+Voiced: 217.000	Unvoiced: 28.000	Silence: 240.000	 Count: 11	
  Energy: -29.406	ZCR: 93.000	 Correl: 0.820	 First:-2.055	 Error:19.976	Voice
-Voiced: 383.000	Unvoiced: 18.000	Silence: 140.000	 Count: 10	
+Voiced: 383.000	Unvoiced: 18.000	Silence: 140.000	 Count: 11	
  Energy: -33.329	ZCR: 114.000	 Correl: 0.674	 First:-1.917	 Error:19.269	Unvoiced
-Voiced: 449.000	Unvoiced: 11.000	Silence: 28.000	 Count: 10	
+Voiced: 449.000	Unvoiced: 11.000	Silence: 28.000	 Count: 11	
  Energy: -41.130	ZCR: 122.000	 Correl: 0.649	 First:-1.725	 Error:14.371	Unvoiced
-Voiced: 313.000	Unvoiced: 11.000	Silence: 45.000	 Count: 10	
+Voiced: 313.000	Unvoiced: 11.000	Silence: 45.000	 Count: 11	
  Energy: -47.910	ZCR: 102.000	 Correl: 0.663	 First:-1.637	 Error:9.596	Unvoiced
-Voiced: 193.000	Unvoiced: 18.000	Silence: 14.000	 Count: 10	
+Voiced: 193.000	Unvoiced: 18.000	Silence: 14.000	 Count: 0	
  Energy: -51.880	ZCR: 85.000	 Correl: 0.757	 First:-1.491	 Error:8.742	silence
-Voiced: 112.000	Unvoiced: 28.000	Silence: 1.000	 Count: 0	
+Voiced: 112.000	Unvoiced: 28.000	Silence: 1.000	 Count: 1	
  Energy: -53.120	ZCR: 69.000	 Correl: 0.895	 First:-1.309	 Error:8.918	silence
-Voiced: 63.000	Unvoiced: 33.000	Silence: 8.000	 Count: 1	
+Voiced: 63.000	Unvoiced: 33.000	Silence: 8.000	 Count: 2	
  Energy: -53.635	ZCR: 54.000	 Correl: 0.909	 First:-1.282	 Error:8.681	silence
-Voiced: 73.000	Unvoiced: 28.000	Silence: 4.000	 Count: 2	
+Voiced: 73.000	Unvoiced: 28.000	Silence: 4.000	 Count: 3	
  Energy: -51.274	ZCR: 58.000	 Correl: 0.936	 First:-1.476	 Error:11.039	silence
-Voiced: 78.000	Unvoiced: 29.000	Silence: 1.000	 Count: 3	
+Voiced: 78.000	Unvoiced: 29.000	Silence: 1.000	 Count: 4	
  Energy: -52.677	ZCR: 60.000	 Correl: 0.900	 First:-1.465	 Error:9.381	silence
-Voiced: 104.000	Unvoiced: 29.000	Silence: 8.000	 Count: 4	
+Voiced: 104.000	Unvoiced: 29.000	Silence: 8.000	 Count: 5	
  Energy: -53.956	ZCR: 67.000	 Correl: 0.867	 First:-1.370	 Error:8.026	silence
-Voiced: 87.000	Unvoiced: 28.000	Silence: 1.000	 Count: 5	
+Voiced: 87.000	Unvoiced: 28.000	Silence: 1.000	 Count: 6	
  Energy: -52.070	ZCR: 63.000	 Correl: 0.893	 First:-1.507	 Error:9.376	silence
-Voiced: 95.000	Unvoiced: 27.000	Silence: 3.000	 Count: 6	
+Voiced: 95.000	Unvoiced: 27.000	Silence: 3.000	 Count: 7	
  Energy: -51.687	ZCR: 65.000	 Correl: 0.899	 First:-1.413	 Error:9.370	silence
-Voiced: 94.000	Unvoiced: 27.000	Silence: 4.000	 Count: 7	
+Voiced: 94.000	Unvoiced: 27.000	Silence: 4.000	 Count: 8	
  Energy: -51.586	ZCR: 65.000	 Correl: 0.900	 First:-1.516	 Error:9.711	silence
-Voiced: 113.000	Unvoiced: 26.000	Silence: 11.000	 Count: 8	
+Voiced: 113.000	Unvoiced: 26.000	Silence: 11.000	 Count: 9	
  Energy: -50.847	ZCR: 69.000	 Correl: 0.930	 First:-1.514	 Error:11.064	silence
-Voiced: 110.000	Unvoiced: 26.000	Silence: 10.000	 Count: 9	
+Voiced: 110.000	Unvoiced: 26.000	Silence: 10.000	 Count: 10	
  Energy: -51.197	ZCR: 69.000	 Correl: 0.916	 First:-1.634	 Error:10.634	silence
-Voiced: 149.000	Unvoiced: 23.000	Silence: 18.000	 Count: 10	
+Voiced: 149.000	Unvoiced: 23.000	Silence: 18.000	 Count: 11	
  Energy: -49.261	ZCR: 79.000	 Correl: 0.882	 First:-1.789	 Error:10.445	silence
-Voiced: 225.000	Unvoiced: 17.000	Silence: 51.000	 Count: 11	
+Voiced: 225.000	Unvoiced: 17.000	Silence: 51.000	 Count: 12	
  Energy: -45.522	ZCR: 92.000	 Correl: 0.750	 First:-1.575	 Error:7.636	Unvoiced
-Voiced: 301.000	Unvoiced: 10.000	Silence: 58.000	 Count: 12	
+Voiced: 301.000	Unvoiced: 10.000	Silence: 58.000	 Count: 13	
  Energy: -36.322	ZCR: 103.000	 Correl: 0.688	 First:-1.854	 Error:10.202	Unvoiced
-Voiced: 361.000	Unvoiced: 15.000	Silence: 2.000	 Count: 12	
+Voiced: 361.000	Unvoiced: 15.000	Silence: 2.000	 Count: 13	
  Energy: -36.675	ZCR: 114.000	 Correl: 0.728	 First:-2.110	 Error:13.783	silence
 Voiced: 348.000	Unvoiced: 27.000	Silence: 165.000	 Count: 0	
  Energy: -29.060	ZCR: 113.000	 Correl: 0.768	 First:-2.451	 Error:18.313	Unvoiced

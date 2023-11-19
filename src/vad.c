@@ -65,9 +65,16 @@ Features compute_features(const float *x, int N, float fm, float ***cov, float *
   feat.measurements[3] = feat.first_coeff;
   feat.measurements[4] = feat.norm_prediction_error;
 
+
   feat.voiced = abs(compute_decision(cov[0],med[0],feat.measurements,det_cov[0]));
   feat.unvoiced = abs(compute_decision(cov[1],med[1],feat.measurements,det_cov[1]));
   feat.silence = abs(compute_decision(cov[2],med[2],feat.measurements,det_cov[2]));
+
+    fprintf(fp,"Voiced: %.3f\tUnvoiced: %.3f\tSilence: %.3f\t Count: %d\t\n ",feat.voiced,feat.unvoiced,feat.silence,count);
+  fprintf(fp,"Energy: %.3f\tZCR: %.3f\t Correl: %.3f\t First:%.3f\t Error:%.3f\t",feat.log_energy,feat.zcr,feat.norm_correlation,feat.first_coeff,feat.norm_prediction_error);
+  if((feat.voiced>feat.silence)&&(feat.unvoiced>feat.silence))   fprintf(fp,"silence\n");
+  if(feat.silence>feat.voiced) fprintf(fp,"Voice\n");
+  else if(feat.silence>feat.unvoiced) fprintf(fp,"Unvoiced\n");
   
   free(feat.hamming_frame);
   free(feat.lpc_coeffs);
@@ -88,9 +95,7 @@ VAD_DATA * vad_open(float rate, float umbral1, float sensitivity) {
 }
 
 VAD_STATE vad_close(VAD_DATA *vad_data) {
-  /* 
-   * TODO: decide what to do with the last undecided frames
-   */
+
   VAD_STATE state = vad_data->state;
 
   free(vad_data);
@@ -101,17 +106,8 @@ unsigned int vad_frame_size(VAD_DATA *vad_data) {
   return vad_data->frame_length;
 }
 
-/* 
- * TODO: Implement the Voice Activity Detection 
- * using a Finite State Automata
- */
-
 VAD_STATE vad(VAD_DATA *vad_data, float *x, float *hamm, unsigned int hamm_size, unsigned int frame_number, float ***inv_cov, float **med, float *det_cov, float umbral1) {
 
-  /* 
-   * TODO: You can change this, using your own features,
-   * program finite state automaton, define conditions, etc.
-   */
 
   if(frame_number <= hamm_size)
   {
@@ -133,7 +129,6 @@ VAD_STATE vad(VAD_DATA *vad_data, float *x, float *hamm, unsigned int hamm_size,
   }
   Features f;
 
-  //printf("caca1\n");
   if(frame_number >= hamm_size)
   { 
 
@@ -163,7 +158,7 @@ VAD_STATE vad(VAD_DATA *vad_data, float *x, float *hamm, unsigned int hamm_size,
     break;
 
   case ST_VOICE:
-    if((f.zcr > 29) && (f.norm_correlation >0.69) && (f.am< 2.3*vad_data->a0))
+    if(((f.zcr > 29) && (f.norm_correlation >0.69) && (f.am< 2.3*vad_data->a0))||(f.log_energy<(vad_data->umbral1 + vad_data->sensitivity)))
     {
       vad_data->count = 0;
       vad_data->state = ST_MYBSILENCE;
@@ -180,7 +175,7 @@ VAD_STATE vad(VAD_DATA *vad_data, float *x, float *hamm, unsigned int hamm_size,
   
   case ST_MYBVOICE:
 
-      if((f.zcr >29) && (f.am < 2.75*vad_data->a0)) vad_data->state = ST_SILENCE;
+      if(((f.zcr >29) && (f.am < 2.75*vad_data->a0))||(f.log_energy<(vad_data->umbral1 + vad_data->sensitivity))) vad_data->state = ST_SILENCE;
 
       else if((f.silence<f.voiced) && (f.silence<f.unvoiced)) vad_data->state=ST_SILENCE;
 
@@ -190,7 +185,7 @@ VAD_STATE vad(VAD_DATA *vad_data, float *x, float *hamm, unsigned int hamm_size,
     break;
 
   case ST_MYBSILENCE:
-    if((f.zcr > 29) && (f.norm_correlation >0.69) && (f.am< 2.3*vad_data->a0))
+    if(((f.zcr > 29) && (f.norm_correlation >0.69) && (f.am< 2.3*vad_data->a0))||(f.log_energy<(vad_data->umbral1 + vad_data->sensitivity)))
     {
       if((vad_data->count <13)) vad_data->count++;
 

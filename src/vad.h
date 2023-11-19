@@ -5,14 +5,10 @@
 #include <gsl/gsl_linalg.h>
 #include <gsl/gsl_cdf.h>
 
-/* TODO: add the needed states */
 typedef enum {ST_UNDEF=0, ST_SILENCE, ST_VOICE, ST_INIT, ST_MYBVOICE, ST_MYBSILENCE} VAD_STATE;
 
-/* Return a string label associated to each state */
 const char *state2str(VAD_STATE st);
 
-/* TODO: add the variables needed to control the VAD 
-   (counts, thresholds, etc.) */
 
 typedef struct {
   VAD_STATE state;
