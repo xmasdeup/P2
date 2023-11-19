@@ -136,57 +136,83 @@ Ejercicios
   continuación, una captura de `wavesurfer` en la que se vea con claridad la señal temporal, el contorno de
   potencia y la tasa de cruces por cero, junto con el etiquetado manual de los segmentos.
 
+![Alt text](https://github.com/xmasdeup/P2/blob/Masdeu-Alsina/img/wavesurfer_manual.png?raw=true)
 
 - A la vista de la gráfica, indique qué valores considera adecuados para las magnitudes siguientes:
 
-	* Incremento del nivel potencia en dB, respecto al nivel correspondiente al silencio inicial, para
-	  estar seguros de que un segmento de señal se corresponde con voz.
+	* Incremento del nivel potencia en dB, respecto al nivel correspondiente al silencio inicial, para estar seguros de que un segmento de señal se corresponde con voz.
+	
+		- **El incremento del nivel de potencia es de entre 10 y 15 dB.**
 
 	* Duración mínima razonable de los segmentos de voz y silencio.
 
+		- **La duración mínima razonable de los segmentos de voz es de 300 ms y la de los segmentos de silencio es de 500ms.**
+	
 	* ¿Es capaz de sacar alguna conclusión a partir de la evolución de la tasa de cruces por cero?
+		- **La tasa de cruzes por cero tiende a tener un valor muy bajo cuando se trata de sonidos sonoros, se eleva mucho cuando estos sonidos son sordos y se mantiene en la mitad entre estos 2 valores cuando se trata de silencio.** 
+		**Entonces tendremos que intentar encontrar el rango de cruces por cero donde se mantendra el silencio para poder hacer una buena separación.**
 
 
 ### Desarrollo del detector de actividad vocal
 
-- Complete el código de los ficheros de la práctica para implementar un detector de actividad vocal en
-  tiempo real tan exacto como sea posible. Tome como objetivo la maximización de la puntuación-F `TOTAL`.
+- Complete el código de los ficheros de la práctica para implementar un detector de actividad vocal en tiempo real tan exacto como sea posible. Tome como objetivo la maximización de la puntuación-F `TOTAL`.
 
-- Inserte una gráfica en la que se vea con claridad la señal temporal, el etiquetado manual y la detección
-  automática conseguida para el fichero grabado al efecto. 
+- Inserte una gráfica en la que se vea con claridad la señal temporal, el etiquetado manual y la detección automática conseguida para el fichero grabado al efecto. 
+
+![Alt text](https://github.com/xmasdeup/P2/blob/Masdeu-Alsina/img/comp_etiq.png?raw=true)
 
 - Explique, si existen. las discrepancias entre el etiquetado manual y la detección automática.
 
-- Evalúe los resultados sobre la base de datos `db.v4` con el script `vad_evaluation.pl` e inserte a 
-  continuación las tasas de sensibilidad (*recall*) y precisión para el conjunto de la base de datos (sólo
-  el resumen).
+	- **Existen discrepancias ya que la detección automàtica considera unos valores ideales que no encontramos en el etiquetado manual.**
+
+- Evalúe los resultados sobre la base de datos `db.v4` con el script `vad_evaluation.pl` e inserte a continuación las tasas de sensibilidad (*recall*) y precisión para el conjunto de la base de datos (sólo el resumen).
+
+	![Alt text](https://github.com/xmasdeup/P2/blob/Masdeu-Alsina/img/fscore.png?raw=true)
 
 
 ### Trabajos de ampliación
 
 #### Cancelación del ruido en los segmentos de silencio
 
-- Si ha desarrollado el algoritmo para la cancelación de los segmentos de silencio, inserte una gráfica en
-  la que se vea con claridad la señal antes y después de la cancelación (puede que `wavesurfer` no sea la
-  mejor opción para esto, ya que no es capaz de visualizar varias señales al mismo tiempo).
+- Si ha desarrollado el algoritmo para la cancelación de los segmentos de silencio, inserte una gráfica en la que se vea con claridad la señal antes y después de la cancelación (puede que `wavesurfer` no sea la mejor opción para esto, ya que no es capaz de visualizar varias señales al mismo tiempo).
+
+![Alt text](https://github.com/xmasdeup/P2/blob/Masdeu-Alsina/img/zero_silence.png?raw=true)
 
 #### Gestión de las opciones del programa usando `docopt_c`
 
-- Si ha usado `docopt_c` para realizar la gestión de las opciones y argumentos del programa `vad`, inserte
-  una captura de pantalla en la que se vea el mensaje de ayuda del programa.
+- Si ha usado `docopt_c` para realizar la gestión de las opciones y argumentos del programa `vad`, inserte una captura de pantalla en la que se vea el mensaje de ayuda del programa.
 
-
+![Alt text](https://github.com/xmasdeup/P2/blob/Masdeu-Alsina/img/docopt.png?raw=true)
 ### Contribuciones adicionales y/o comentarios acerca de la práctica
 
-- Indique a continuación si ha realizado algún tipo de aportación suplementaria (algoritmos de detección o 
-  parámetros alternativos, etc.).
+- Indique a continuación si ha realizado algún tipo de aportación suplementaria (algoritmos de detección o parámetros alternativos, etc.).
 
-- Si lo desea, puede realizar también algún comentario acerca de la realización de la práctica que
-  considere de interés de cara a su evaluación.
+ 	- **Para la detección del sonido se ha usado este método de predicción lineal: https://www.clear.rice.edu/elec532/PROJECTS00/vocode/uv/uvdet.html**
+	
+	**Consiste en el uso de el cálculo de:**
 
+		- Logaritmo de la energía.
+		- Cruces en cero (cuantitativo).
+		- Correlación normalizada en 1.
+		- Primer coeficiente LPC (mediante Levison Durbin y metodo de la covarianza).
+		- Error de predicción.
+
+	**Una vez realizado este cálculo se calculan las distancias con una gaussiana y se escoge el estado con distancia mínima.**
+
+	**Para calcular estas distancias usamos una media y covarianza calculada a través de un total de 50 señales de entrenamiento: 20 de voz, 20 de silencio y 10 de sonidos sordos, sacados de la base de datos.**
+
+	**Usamos python para desarrollar el mecanismo de obtención de los parámetros estadísticos.** 
+
+- Si lo desea, puede realizar también algún comentario acerca de la realización de la práctica que considere de interés de cara a su evaluación.
+
+	- **Se necesita la instalación de GSL para el cómputo de matrices:**
+
+		***sudo apt-get install libgsl-dev***
+
+
+	- **Una vez desarollado el algoritmo de predicción lineal se tuvo que reducir la precisión de detección del silencio para evitar entrar en duraciones de silencio muy cortas.**
 
 ### Antes de entregar la práctica
 
 Recuerde comprobar que el repositorio cuenta con los códigos correctos y en condiciones de ser 
-correctamente compilados con la orden `meson bin; ninja -C bin`. El programa generado (`bin/vad`) será
-el usado, sin más opciones, para realizar la evaluación *ciega* del sistema.
+correctamente compilados con la orden `meson bin; ninja -C bin`. El programa generado (`bin/vad`) será el usado, sin más opciones, para realizar la evaluación *ciega* del sistema.

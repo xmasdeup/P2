@@ -65,16 +65,9 @@ Features compute_features(const float *x, int N, float fm, float ***cov, float *
   feat.measurements[3] = feat.first_coeff;
   feat.measurements[4] = feat.norm_prediction_error;
 
-
   feat.voiced = abs(compute_decision(cov[0],med[0],feat.measurements,det_cov[0]));
   feat.unvoiced = abs(compute_decision(cov[1],med[1],feat.measurements,det_cov[1]));
   feat.silence = abs(compute_decision(cov[2],med[2],feat.measurements,det_cov[2]));
-
-    fprintf(fp,"Voiced: %.3f\tUnvoiced: %.3f\tSilence: %.3f\t Count: %d\t\n ",feat.voiced,feat.unvoiced,feat.silence,count);
-  fprintf(fp,"Energy: %.3f\tZCR: %.3f\t Correl: %.3f\t First:%.3f\t Error:%.3f\t",feat.log_energy,feat.zcr,feat.norm_correlation,feat.first_coeff,feat.norm_prediction_error);
-  if((feat.voiced>feat.silence)&&(feat.unvoiced>feat.silence))   fprintf(fp,"silence\n");
-  if(feat.silence>feat.voiced) fprintf(fp,"Voice\n");
-  else if(feat.silence>feat.unvoiced) fprintf(fp,"Unvoiced\n");
   
   free(feat.hamming_frame);
   free(feat.lpc_coeffs);
@@ -133,17 +126,16 @@ VAD_STATE vad(VAD_DATA *vad_data, float *x, float *hamm, unsigned int hamm_size,
   { 
 
     f = compute_features(hamm, (vad_data->frame_length) * hamm_size, vad_data->sampling_rate, inv_cov, med, det_cov, umbral1,vad_data->fp,vad_data->count);
-    vad_data->last_feature = f.log_energy; /* save feature, in case you want to show */
+    vad_data->last_feature = f.log_energy; 
   }
+
   switch (vad_data->state) {
   case ST_INIT:
     
     if(frame_number == hamm_size)
     { 
       vad_data->umbral1 = umbral1 + f.log_energy;
-      vad_data->error = f.norm_prediction_error;
       vad_data->state = ST_SILENCE;
-      vad_data->noise = f.zcr;
       vad_data->a0 = f.am;
 
     }
